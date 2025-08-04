@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionTempleSaturation</key>
+	<string>radiusAroundFunction</string>
+	<key>gradientFunctionResponse</key>
+	<string>commonCallbackBorder</string>
+	<key>hashDecoratorCenter</key>
+	<string>inheritedRectSkewy</string>
+	<key>localizationContainComposite</key>
+	<string>transformerParamTag</string>
+	<key>transitionOfPrototype</key>
+	<string>intensityValueDuration</string>
+</dict>
+</plist>

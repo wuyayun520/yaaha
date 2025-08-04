@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelContainScope</key>
+	<string>singletonMementoFrequency</string>
+	<key>dynamicMenuOrigin</key>
+	<string>callbackAgainstChain</string>
+	<key>globalBaseContrast</key>
+	<string>deferredDimensionInterval</string>
+	<key>reusableAlertLocation</key>
+	<string>containerAlongForm</string>
+	<key>reusableMarginAlignment</key>
+	<string>immutableResourcePadding</string>
+</dict>
+</plist>

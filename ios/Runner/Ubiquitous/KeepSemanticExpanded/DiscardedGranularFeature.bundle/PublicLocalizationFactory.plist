@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryAndContext</key>
+	<string>rectKindInteraction</string>
+	<key>intuitiveLoopVisibility</key>
+	<string>animationUntilBuffer</string>
+	<key>momentumFunctionInteraction</key>
+	<string>bufferTempleTop</string>
+	<key>normalOptimizerTint</key>
+	<string>subscriptionAsVar</string>
+	<key>observerCompositeTransparency</key>
+	<string>widgetThroughPattern</string>
+</dict>
+</plist>

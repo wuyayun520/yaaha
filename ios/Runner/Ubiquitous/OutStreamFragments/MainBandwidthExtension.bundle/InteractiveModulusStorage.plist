@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLogValidation</key>
+	<string>resourceForComposite</string>
+	<key>animatedPositionedBorder</key>
+	<string>pageviewNumberHue</string>
+	<key>entityPlatformTheme</key>
+	<string>mobxObserverType</string>
+	<key>menuInVariable</key>
+	<string>tensorSegmentMode</string>
+	<key>nodeExceptContext</key>
+	<string>secondCubitLocation</string>
+	<key>routerWorkOrigin</key>
+	<string>nibShapeDelay</string>
+	<key>spineDuringActivity</key>
+	<string>durationFromEnvironment</string>
+	<key>usageNumberMargin</key>
+	<string>taskForVar</string>
+</dict>
+</plist>

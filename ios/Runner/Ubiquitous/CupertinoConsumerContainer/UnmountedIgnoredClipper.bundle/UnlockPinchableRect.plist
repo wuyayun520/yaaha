@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelInsideTier</key>
+	<string>statelessTierTop</string>
+	<key>coordinatorVariableOrigin</key>
+	<string>textUntilWork</string>
+	<key>reducerSinceCommand</key>
+	<string>interactiveImagePosition</string>
+	<key>sliderModeLeft</key>
+	<string>staticMultiplicationOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoActivityResponse</key>
+	<string>behaviorForVariable</string>
+	<key>dedicatedUsecaseSaturation</key>
+	<string>remainderThroughValue</string>
+	<key>globalQueryDelay</key>
+	<string>draggableCoordinatorShape</string>
+	<key>queueStyleValidation</key>
+	<string>offsetVarInterval</string>
+	<key>scrollableBlocOffset</key>
+	<string>curveStageStyle</string>
+	<key>tappableRequestTint</key>
+	<string>custompaintStyleDensity</string>
+</dict>
+</plist>

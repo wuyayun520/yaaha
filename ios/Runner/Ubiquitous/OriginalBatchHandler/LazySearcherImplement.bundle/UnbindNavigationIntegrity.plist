@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryInMethod</key>
+	<string>interactorPlatformTail</string>
+	<key>alertMethodSize</key>
+	<string>actionDespiteParameter</string>
+	<key>axisMethodFlags</key>
+	<string>coordinatorOutsideKind</string>
+	<key>chartStructureTop</key>
+	<string>specifyRowTransparency</string>
+	<key>cursorFormDuration</key>
+	<string>tickerNumberState</string>
+	<key>dynamicRouteTail</key>
+	<string>handlerWithoutStructure</string>
+	<key>interactorActivityIndex</key>
+	<string>finalBehaviorTail</string>
+	<key>operationMediatorEdge</key>
+	<string>typicalHistogramDepth</string>
+</dict>
+</plist>

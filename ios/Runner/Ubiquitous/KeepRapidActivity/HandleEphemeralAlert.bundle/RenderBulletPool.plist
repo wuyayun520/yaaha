@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorInterpreterBrightness</key>
+	<string>visiblePositionedState</string>
+	<key>immutableTabbarStatus</key>
+	<string>asyncCollectionAppearance</string>
+	<key>richtextProcessSpeed</key>
+	<string>awaitInterpreterEdge</string>
+	<key>sceneAgainstFramework</key>
+	<string>nextFrameSaturation</string>
+</dict>
+</plist>

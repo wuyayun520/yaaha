@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGrayscaleBottom</key>
+	<string>themeAlongTier</string>
+	<key>cubitKindBrightness</key>
+	<string>synchronousLayoutOrientation</string>
+	<key>profileFrameworkKind</key>
+	<string>textPhaseSpeed</string>
+	<key>repositoryInPlatform</key>
+	<string>declarativeSpineLocation</string>
+</dict>
+</plist>

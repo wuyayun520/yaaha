@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedThemePosition</key>
+	<string>marginDuringShape</string>
+	<key>channelAmongFacade</key>
+	<string>exceptionParameterDuration</string>
+	<key>commandPhaseSaturation</key>
+	<string>largeTickerOffset</string>
+	<key>descriptionInsideVar</key>
+	<string>referenceByMemento</string>
+	<key>extensionParamPadding</key>
+	<string>webIndicatorOffset</string>
+	<key>heroAndFacade</key>
+	<string>projectIncludePrototype</string>
+	<key>nibOperationTheme</key>
+	<string>handlerBridgeBehavior</string>
+	<key>riverpodIncludeProcess</key>
+	<string>secondBaselineCoord</string>
+	<key>storageFormAppearance</key>
+	<string>cursorBesideParam</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTempleVelocity</key>
+	<string>transformerContainVariable</string>
+	<key>behaviorAlongVar</key>
+	<string>isolateAtSystem</string>
+	<key>layoutPerMemento</key>
+	<string>respectiveListviewVelocity</string>
+	<key>publicGroupColor</key>
+	<string>offsetModeAcceleration</string>
+</dict>
+</plist>

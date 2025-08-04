@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOutsideAdapter</key>
+	<string>gemAwayPattern</string>
+	<key>directlyMarginTag</key>
+	<string>customResponseBrightness</string>
+	<key>precisionWithoutObserver</key>
+	<string>storagePatternSpeed</string>
+	<key>statelessContainerShape</key>
+	<string>basePrototypeVisibility</string>
+	<key>subsequentLocalizationPressure</key>
+	<string>reducerTierLeft</string>
+</dict>
+</plist>

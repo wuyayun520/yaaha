@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerIncludeMethod</key>
+	<string>pageviewObserverInteraction</string>
+	<key>gestureVisitorDuration</key>
+	<string>spriteAmongPhase</string>
+	<key>hardRowPosition</key>
+	<string>intuitiveStackInteraction</string>
+	<key>touchOrFramework</key>
+	<string>sustainableExponentPressure</string>
+</dict>
+</plist>

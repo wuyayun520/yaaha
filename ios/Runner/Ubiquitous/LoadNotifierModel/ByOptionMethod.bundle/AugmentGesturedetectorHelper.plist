@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedButtonType</key>
+	<string>otherAnimationAcceleration</string>
+	<key>builderMediatorType</key>
+	<string>hardProviderSkewy</string>
+	<key>challengeFromDecorator</key>
+	<string>invisibleLabelVisibility</string>
+	<key>gesturedetectorIncludeContext</key>
+	<string>callbackAndVar</string>
+	<key>imperativeUtilFrequency</key>
+	<string>statelessInsideParameter</string>
+	<key>lazyContainerOffset</key>
+	<string>crudeAppbarMomentum</string>
+	<key>mediumUtilAlignment</key>
+	<string>relationalMaterialSkewx</string>
+	<key>queryDuringCommand</key>
+	<string>painterSingletonType</string>
+	<key>staticPrecisionDistance</key>
+	<string>containerWithoutCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerProxyType</key>
+	<string>skirtStrategyVelocity</string>
+	<key>animationViaSystem</key>
+	<string>requiredAnimationMode</string>
+	<key>autoMonsterFeedback</key>
+	<string>custompaintVariableState</string>
+	<key>exceptionAroundParameter</key>
+	<string>basePerMemento</string>
+	<key>lastSpriteDistance</key>
+	<string>switchOrBridge</string>
+	<key>masterAwayStyle</key>
+	<string>persistentPaddingStyle</string>
+	<key>reactiveSlashShape</key>
+	<string>rectPatternPadding</string>
+	<key>techniqueShapeKind</key>
+	<string>gridviewJobAppearance</string>
+</dict>
+</plist>

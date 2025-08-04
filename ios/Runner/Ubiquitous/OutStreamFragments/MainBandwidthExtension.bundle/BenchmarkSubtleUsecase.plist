@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTaskName</key>
+	<string>lossParamDensity</string>
+	<key>baseParamAlignment</key>
+	<string>pointPatternSkewx</string>
+	<key>priorMissionSkewx</key>
+	<string>currentShaderCount</string>
+	<key>reducerInStyle</key>
+	<string>multiRectPressure</string>
+	<key>responseSingletonContrast</key>
+	<string>statefulVisitorVisible</string>
+	<key>singletonModeInteraction</key>
+	<string>nativeFeatureContrast</string>
+	<key>textInsideMode</key>
+	<string>significantCompleterHead</string>
+</dict>
+</plist>

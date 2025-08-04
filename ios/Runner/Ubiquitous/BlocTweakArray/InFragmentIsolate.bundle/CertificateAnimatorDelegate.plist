@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnByVar</key>
+	<string>appbarContainFacade</string>
+	<key>effectExceptLevel</key>
+	<string>masterAtStrategy</string>
+	<key>interactiveLogVisibility</key>
+	<string>sustainableLayerType</string>
+	<key>precisionInAdapter</key>
+	<string>storagePhaseBehavior</string>
+	<key>spriteAtMediator</key>
+	<string>deferredHandlerVisibility</string>
+</dict>
+</plist>

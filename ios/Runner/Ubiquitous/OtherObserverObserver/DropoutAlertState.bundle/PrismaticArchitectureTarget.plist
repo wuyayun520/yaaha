@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSpotMomentum</key>
+	<string>plateVersusBridge</string>
+	<key>channelContextSaturation</key>
+	<string>shaderProcessInset</string>
+	<key>composablePreviewSkewy</key>
+	<string>serviceActionOpacity</string>
+	<key>exceptionOutsideKind</key>
+	<string>widgetLayerStatus</string>
+	<key>nativeLayoutOpacity</key>
+	<string>progressbarBufferMargin</string>
+	<key>nextIntensityColor</key>
+	<string>cupertinoListenerAlignment</string>
+	<key>numericalTextRight</key>
+	<string>disabledAlignmentBrightness</string>
+	<key>significantMobxSpeed</key>
+	<string>storyboardStructureFormat</string>
+	<key>textParamCount</key>
+	<string>cacheContainStrategy</string>
+	<key>touchContextOpacity</key>
+	<string>listviewScopeContrast</string>
+</dict>
+</plist>

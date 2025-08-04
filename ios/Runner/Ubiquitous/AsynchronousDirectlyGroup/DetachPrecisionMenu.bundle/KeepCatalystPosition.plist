@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxPrototypeTail</key>
+	<string>constraintWorkOrientation</string>
+	<key>matrixOutsideScope</key>
+	<string>requestAtMode</string>
+	<key>mediaqueryChainContrast</key>
+	<string>resizableGridRotation</string>
+	<key>resolverAndState</key>
+	<string>bitrateAmongOperation</string>
+	<key>rowAboutMode</key>
+	<string>containerVersusStyle</string>
+	<key>serviceAlongObserver</key>
+	<string>disparateRectPosition</string>
+	<key>symmetricGridAppearance</key>
+	<string>primarySpineCount</string>
+</dict>
+</plist>

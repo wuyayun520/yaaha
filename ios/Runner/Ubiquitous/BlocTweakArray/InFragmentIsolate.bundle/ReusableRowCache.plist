@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAgainstContext</key>
+	<string>largeSceneBrightness</string>
+	<key>dropdownbuttonAmongEnvironment</key>
+	<string>otherInkwellSkewx</string>
+	<key>immediateMovementFeedback</key>
+	<string>scrollChainDirection</string>
+	<key>querySingletonInset</key>
+	<string>immediateCoordinatorBrightness</string>
+	<key>requestSystemMomentum</key>
+	<string>alphaFormState</string>
+	<key>sinkStateAcceleration</key>
+	<string>interactiveCanvasShape</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMementoAlignment</key>
+	<string>sinkWithoutLayer</string>
+	<key>beginnerControllerFormat</key>
+	<string>pinchableLayoutVelocity</string>
+	<key>entityOutsideLayer</key>
+	<string>autoRoleAcceleration</string>
+	<key>notificationTaskLocation</key>
+	<string>characterValueDirection</string>
+	<key>storageAboutProxy</key>
+	<string>nodeTypeCount</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStrategyAppearance</key>
+	<string>statefulLogarithmBound</string>
+	<key>customizedQueryFrequency</key>
+	<string>tweenValueFormat</string>
+	<key>heapWithoutPrototype</key>
+	<string>navigatorMementoBottom</string>
+	<key>interfaceFrameworkResponse</key>
+	<string>textAboutAction</string>
+	<key>interpolationProxySpeed</key>
+	<string>offsetStructureTension</string>
+	<key>notifierEnvironmentVisibility</key>
+	<string>heapInsideForm</string>
+	<key>resultAlongCycle</key>
+	<string>injectionTaskBottom</string>
+	<key>sharedCommandDistance</key>
+	<string>curveDespiteFunction</string>
+	<key>utilSingletonAppearance</key>
+	<string>checkboxFacadeVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSpriteState</key>
+	<string>hardUtilDistance</string>
+	<key>coordinatorParamHue</key>
+	<string>intuitiveCapsuleTag</string>
+	<key>directDialogsDistance</key>
+	<string>currentScaffoldKind</string>
+	<key>heroBeyondPattern</key>
+	<string>frameChainSpeed</string>
+	<key>lastIsolateAcceleration</key>
+	<string>singletonWithoutKind</string>
+	<key>protectedCursorFormat</key>
+	<string>stateModeSpeed</string>
+	<key>stackModeTag</key>
+	<string>loopProxyFeedback</string>
+	<key>textContainObserver</key>
+	<string>ignoredControllerContrast</string>
+	<key>threadWithoutFlyweight</key>
+	<string>referenceOrJob</string>
+</dict>
+</plist>

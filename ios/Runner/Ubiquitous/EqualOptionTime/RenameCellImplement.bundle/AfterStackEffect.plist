@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateInVariable</key>
+	<string>handlerForParameter</string>
+	<key>descriptorOperationRotation</key>
+	<string>behaviorOfCommand</string>
+	<key>errorAroundVar</key>
+	<string>assetOrCommand</string>
+	<key>immutableStatelessMargin</key>
+	<string>basicExponentDuration</string>
+	<key>intuitiveActivityDistance</key>
+	<string>immediateResponseSpeed</string>
+	<key>iterativeResolverSize</key>
+	<string>concurrentProviderInterval</string>
+	<key>movementFlyweightDistance</key>
+	<string>resolverPhaseDepth</string>
+	<key>tangentSystemTop</key>
+	<string>textfieldFrameworkDensity</string>
+</dict>
+</plist>

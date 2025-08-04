@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeByStyle</key>
+	<string>disparateTransitionOrientation</string>
+	<key>listviewWithoutBridge</key>
+	<string>explicitStateMargin</string>
+	<key>logStylePressure</key>
+	<string>providerIncludeValue</string>
+	<key>masterExceptComposite</key>
+	<string>otherCatalystShape</string>
+	<key>operationInterpreterStatus</key>
+	<string>heapThroughState</string>
+	<key>prevActionValidation</key>
+	<string>granularIntegerHue</string>
+</dict>
+</plist>

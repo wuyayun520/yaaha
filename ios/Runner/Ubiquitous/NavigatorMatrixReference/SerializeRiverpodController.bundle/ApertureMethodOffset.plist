@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationChainOffset</key>
+	<string>delegateOutsideActivity</string>
+	<key>concurrentUsecaseDuration</key>
+	<string>visibleAnimatedcontainerName</string>
+	<key>gestureCompositeScale</key>
+	<string>globalMatrixBehavior</string>
+	<key>grainAgainstAction</key>
+	<string>standaloneQueryForce</string>
+	<key>gridTierHue</key>
+	<string>independentSizeCount</string>
+	<key>optionLayerFeedback</key>
+	<string>mobileAnchorStyle</string>
+	<key>providerObserverOffset</key>
+	<string>sineFromNumber</string>
+	<key>titleChainTransparency</key>
+	<string>directlyObserverVelocity</string>
+</dict>
+</plist>

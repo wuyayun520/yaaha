@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTransitionTension</key>
+	<string>resolverExceptParam</string>
+	<key>autoConstraintEdge</key>
+	<string>subpixelNumberFrequency</string>
+	<key>exceptionOutsideStrategy</key>
+	<string>grainOperationSpacing</string>
+	<key>inactiveTransformerBehavior</key>
+	<string>transitionMethodTransparency</string>
+	<key>unactivatedControllerStyle</key>
+	<string>usageDespiteActivity</string>
+</dict>
+</plist>

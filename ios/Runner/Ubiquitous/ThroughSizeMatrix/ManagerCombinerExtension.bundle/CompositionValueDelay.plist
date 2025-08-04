@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperUntilPattern</key>
+	<string>graphTaskBrightness</string>
+	<key>descriptionModeVelocity</key>
+	<string>missedScreenType</string>
+	<key>easySensorDirection</key>
+	<string>semanticNodeInterval</string>
+	<key>elasticCursorState</key>
+	<string>streamInterpreterAlignment</string>
+	<key>fusedThemeKind</key>
+	<string>baseValueState</string>
+	<key>streamVersusBridge</key>
+	<string>fragmentAtStage</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStrategyVisible</key>
+	<string>painterVisitorOrientation</string>
+	<key>catalystAsVisitor</key>
+	<string>viewThroughInterpreter</string>
+	<key>consultativeCubitSkewx</key>
+	<string>advancedScrollTransparency</string>
+	<key>diffableBatchScale</key>
+	<string>skirtStateDistance</string>
+	<key>gridWithCommand</key>
+	<string>dedicatedIsolateTag</string>
+	<key>multiplicationPlatformAppearance</key>
+	<string>temporaryMomentumInteraction</string>
+	<key>scaffoldPrototypeBottom</key>
+	<string>interactiveBrushPadding</string>
+	<key>transitionProcessMode</key>
+	<string>resolverFormLeft</string>
+</dict>
+</plist>

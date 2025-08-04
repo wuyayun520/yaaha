@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDespiteBuffer</key>
+	<string>alertInTier</string>
+	<key>controllerVersusCommand</key>
+	<string>observerMementoOrigin</string>
+	<key>gesturedetectorLevelSpeed</key>
+	<string>responsiveMomentumAppearance</string>
+	<key>largeHashAcceleration</key>
+	<string>completerStrategyDensity</string>
+	<key>particleIncludeParam</key>
+	<string>functionalGraphBehavior</string>
+	<key>persistentMovementTheme</key>
+	<string>coordinatorExceptProxy</string>
+	<key>protectedOptionBorder</key>
+	<string>riverpodChainColor</string>
+	<key>radiusVersusProcess</key>
+	<string>activityStructureFeedback</string>
+	<key>tensorEventOffset</key>
+	<string>canvasAsLayer</string>
+</dict>
+</plist>

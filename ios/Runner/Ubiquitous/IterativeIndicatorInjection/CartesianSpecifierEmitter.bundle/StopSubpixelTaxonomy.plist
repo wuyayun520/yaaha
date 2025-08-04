@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParamContrast</key>
+	<string>nativeLoopMomentum</string>
+	<key>cursorModeOrientation</key>
+	<string>instructionOrStage</string>
+	<key>invisibleAllocatorVisibility</key>
+	<string>errorStrategyOpacity</string>
+	<key>pinchableButtonRate</key>
+	<string>decorationOperationOrientation</string>
+	<key>sequentialRadiusCount</key>
+	<string>optimizerCommandAcceleration</string>
+	<key>usageOfComposite</key>
+	<string>projectContainOperation</string>
+	<key>usedEntropyTension</key>
+	<string>exponentShapeDirection</string>
+</dict>
+</plist>

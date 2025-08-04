@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyResultPressure</key>
+	<string>cursorTypeDirection</string>
+	<key>fixedPopupSaturation</key>
+	<string>musicFunctionStatus</string>
+	<key>geometricActionStyle</key>
+	<string>commandValueSpacing</string>
+	<key>interpolationActionMargin</key>
+	<string>signNumberDensity</string>
+	<key>sequentialListenerBehavior</key>
+	<string>agileConsumerInteraction</string>
+</dict>
+</plist>

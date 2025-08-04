@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationScopeInterval</key>
+	<string>descriptionSinceOperation</string>
+	<key>hashPlatformAlignment</key>
+	<string>overlayForVisitor</string>
+	<key>localizationAdapterLocation</key>
+	<string>batchInsideStage</string>
+	<key>methodOfAction</key>
+	<string>discardedDependencyType</string>
+	<key>particleFromChain</key>
+	<string>sliderMementoSkewx</string>
+	<key>presenterViaFlyweight</key>
+	<string>storeMementoIndex</string>
+	<key>protocolNearValue</key>
+	<string>groupPerCycle</string>
+	<key>tabbarMethodPadding</key>
+	<string>tappableExceptionScale</string>
+	<key>taskCycleDuration</key>
+	<string>transitionThroughObserver</string>
+	<key>textObserverBottom</key>
+	<string>bitrateUntilValue</string>
+</dict>
+</plist>

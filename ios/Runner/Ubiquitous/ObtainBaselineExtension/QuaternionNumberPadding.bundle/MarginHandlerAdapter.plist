@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInStyle</key>
+	<string>multiplicationNearActivity</string>
+	<key>asynchronousNotifierCount</key>
+	<string>accessoryExceptCycle</string>
+	<key>awaitFlyweightTail</key>
+	<string>stateNumberInteraction</string>
+	<key>cupertinoOfFramework</key>
+	<string>ephemeralBufferFeedback</string>
+	<key>curveInterpreterBorder</key>
+	<string>queueContainForm</string>
+	<key>globalAnimationDirection</key>
+	<string>gradientDespiteType</string>
+	<key>seamlessWorkflowTheme</key>
+	<string>toolVarState</string>
+	<key>symbolOrFlyweight</key>
+	<string>shaderThanBuffer</string>
+</dict>
+</plist>

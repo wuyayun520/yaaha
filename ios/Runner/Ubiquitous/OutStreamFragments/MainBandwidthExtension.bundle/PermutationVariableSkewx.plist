@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAtAction</key>
+	<string>boxFrameworkValidation</string>
+	<key>coordinatorWorkSize</key>
+	<string>modalFromVariable</string>
+	<key>durationKindDelay</key>
+	<string>futureLevelSpeed</string>
+	<key>futureUntilValue</key>
+	<string>descriptionAtVar</string>
+	<key>memberEnvironmentState</key>
+	<string>injectionNearVar</string>
+	<key>multiBatchOffset</key>
+	<string>instructionViaKind</string>
+	<key>sampleShapeLocation</key>
+	<string>widgetCompositeOffset</string>
+	<key>significantCanvasDensity</key>
+	<string>certificateByParam</string>
+</dict>
+</plist>

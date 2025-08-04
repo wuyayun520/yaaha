@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCompositionMode</key>
+	<string>intensityProcessKind</string>
+	<key>diversifiedFutureScale</key>
+	<string>profileAdapterFeedback</string>
+	<key>mainPositionInterval</key>
+	<string>completerInContext</string>
+	<key>materialValueStyle</key>
+	<string>multiTextureTag</string>
+	<key>notifierLayerTint</key>
+	<string>tabviewOutsideTier</string>
+	<key>previewStrategyScale</key>
+	<string>activeViewBrightness</string>
+	<key>responseParameterBorder</key>
+	<string>unsortedNavigationValidation</string>
+	<key>sophisticatedDecorationContrast</key>
+	<string>labelFlyweightDirection</string>
+</dict>
+</plist>

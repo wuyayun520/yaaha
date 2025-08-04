@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateBridgeAppearance</key>
+	<string>routerOutsideBuffer</string>
+	<key>collectionAboutAction</key>
+	<string>rectTypeFormat</string>
+	<key>durationActivityDensity</key>
+	<string>buttonParamContrast</string>
+	<key>grayscaleSystemFormat</key>
+	<string>reductionObserverAlignment</string>
+	<key>localizationActionVisibility</key>
+	<string>unaryInterpreterForce</string>
+	<key>notifierAboutParameter</key>
+	<string>lastStatefulCenter</string>
+	<key>specifierAmongBridge</key>
+	<string>segueVarForce</string>
+	<key>viewKindForce</key>
+	<string>exponentIncludeFacade</string>
+</dict>
+</plist>

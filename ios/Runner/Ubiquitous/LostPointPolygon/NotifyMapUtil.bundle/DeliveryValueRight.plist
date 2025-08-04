@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricInteractorTint</key>
+	<string>resizableTimerBorder</string>
+	<key>greatPageviewOrigin</key>
+	<string>subpixelWithPlatform</string>
+	<key>interfaceFormState</key>
+	<string>prevWidgetDuration</string>
+	<key>painterForPattern</key>
+	<string>delegateFrameworkDuration</string>
+	<key>singletonPerAction</key>
+	<string>frameVersusComposite</string>
+	<key>tweenIncludeMemento</key>
+	<string>brushTypeOrigin</string>
+	<key>uniqueDependencyInteraction</key>
+	<string>commandThroughMethod</string>
+	<key>uniqueObserverTheme</key>
+	<string>sineAwayFunction</string>
+</dict>
+</plist>

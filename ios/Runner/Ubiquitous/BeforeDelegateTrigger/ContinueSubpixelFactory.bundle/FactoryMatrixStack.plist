@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicWidgetSaturation</key>
+	<string>webContainerContrast</string>
+	<key>factoryMediatorRate</key>
+	<string>otherChartVisible</string>
+	<key>localImageTransparency</key>
+	<string>gridviewByEnvironment</string>
+	<key>providerAndState</key>
+	<string>graphInsideEnvironment</string>
+	<key>textfieldThroughObserver</key>
+	<string>tickerAsOperation</string>
+</dict>
+</plist>

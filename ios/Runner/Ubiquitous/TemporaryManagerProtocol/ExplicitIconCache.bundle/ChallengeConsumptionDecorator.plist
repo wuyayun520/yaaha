@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitKindAcceleration</key>
+	<string>borderModeRotation</string>
+	<key>effectAgainstAdapter</key>
+	<string>repositoryAsScope</string>
+	<key>imageAgainstFunction</key>
+	<string>matrixFunctionVelocity</string>
+	<key>independentDelegateDirection</key>
+	<string>interfaceLikeMode</string>
+	<key>interfaceInsideMediator</key>
+	<string>sizeAsFramework</string>
+	<key>materialDocumentSize</key>
+	<string>animationValueAcceleration</string>
+</dict>
+</plist>

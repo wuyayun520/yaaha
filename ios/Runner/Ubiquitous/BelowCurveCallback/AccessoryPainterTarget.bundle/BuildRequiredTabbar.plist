@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModeEdge</key>
+	<string>constRadioVisible</string>
+	<key>explicitAnimationSpeed</key>
+	<string>resizableContainerMomentum</string>
+	<key>hierarchicalAsyncSpacing</key>
+	<string>sequentialProgressbarAcceleration</string>
+	<key>injectionContextResponse</key>
+	<string>rowParameterTheme</string>
+	<key>observerPatternColor</key>
+	<string>sophisticatedZoneAlignment</string>
+	<key>semanticPageviewBehavior</key>
+	<string>widgetTierCoord</string>
+	<key>stampObserverContrast</key>
+	<string>offsetPhaseFlags</string>
+</dict>
+</plist>

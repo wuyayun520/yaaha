@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnContextDistance</key>
+	<string>nextColumnBehavior</string>
+	<key>layoutPerTemple</key>
+	<string>streamOrLayer</string>
+	<key>skirtTypeCoord</key>
+	<string>directlyMusicCoord</string>
+	<key>switchAgainstVisitor</key>
+	<string>adaptiveButtonSkewx</string>
+</dict>
+</plist>

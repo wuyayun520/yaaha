@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBufferRotation</key>
+	<string>concurrentProgressbarDensity</string>
+	<key>containerAtSingleton</key>
+	<string>dedicatedSemanticsIndex</string>
+	<key>containerBesideForm</key>
+	<string>dedicatedControllerStatus</string>
+	<key>containerProcessAlignment</key>
+	<string>providerVarVelocity</string>
+	<key>denseDocumentTag</key>
+	<string>litePointFormat</string>
+	<key>gestureFormType</key>
+	<string>relationalPreviewFlags</string>
+	<key>giftUntilFramework</key>
+	<string>sensorForPrototype</string>
+	<key>lastCollectionDensity</key>
+	<string>frameMediatorLocation</string>
+</dict>
+</plist>

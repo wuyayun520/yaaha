@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWithPattern</key>
+	<string>animationTierSpacing</string>
+	<key>functionalDecorationLocation</key>
+	<string>desktopUnaryPadding</string>
+	<key>granularStreamDepth</key>
+	<string>sensorSystemDistance</string>
+	<key>layoutFacadeSpeed</key>
+	<string>relationalConstraintTint</string>
+	<key>subtleProgressbarSkewy</key>
+	<string>challengeTypeDensity</string>
+	<key>taskAmongState</key>
+	<string>errorDecoratorSaturation</string>
+	<key>textContextKind</key>
+	<string>boxWithWork</string>
+</dict>
+</plist>

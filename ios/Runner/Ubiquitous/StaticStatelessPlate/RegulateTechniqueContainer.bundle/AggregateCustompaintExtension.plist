@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintUntilPhase</key>
+	<string>dependencyInForm</string>
+	<key>exceptionNumberLocation</key>
+	<string>largeViewOrientation</string>
+	<key>extensionAmongAdapter</key>
+	<string>mediumCompositionDistance</string>
+	<key>grainAboutValue</key>
+	<string>fixedTextEdge</string>
+	<key>sharedAllocatorOpacity</key>
+	<string>mobxOperationAlignment</string>
+	<key>textMementoIndex</key>
+	<string>gridPlatformIndex</string>
+</dict>
+</plist>

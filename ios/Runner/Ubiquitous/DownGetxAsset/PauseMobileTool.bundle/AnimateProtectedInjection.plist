@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVersusPlatform</key>
+	<string>dialogsVariableAlignment</string>
+	<key>materialMultiplicationInset</key>
+	<string>dialogsSingletonPadding</string>
+	<key>menuByParameter</key>
+	<string>awaitThroughScope</string>
+	<key>operationWithoutTier</key>
+	<string>geometricMenuVisible</string>
+	<key>pivotalPositionShade</key>
+	<string>taskCompositeHue</string>
+	<key>segueValueTheme</key>
+	<string>composableTitleRate</string>
+</dict>
+</plist>

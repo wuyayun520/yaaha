@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteModelTheme</key>
+	<string>overlayParamBrightness</string>
+	<key>directlyRolePressure</key>
+	<string>baselineSinceSystem</string>
+	<key>finalRichtextType</key>
+	<string>customizedRequestAppearance</string>
+	<key>opaqueOverlayBottom</key>
+	<string>specifyUsecaseHue</string>
+	<key>touchNearSingleton</key>
+	<string>tensorConstraintFormat</string>
+</dict>
+</plist>

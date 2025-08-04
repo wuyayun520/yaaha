@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInkwellFlags</key>
+	<string>brushAmongWork</string>
+	<key>descriptorPatternVisibility</key>
+	<string>cubitAlongMode</string>
+	<key>grayscalePhaseOpacity</key>
+	<string>storyboardTierDistance</string>
+	<key>gridOutsideCycle</key>
+	<string>nibViaSingleton</string>
+	<key>hashProxyLeft</key>
+	<string>disparateResourceStatus</string>
+	<key>hyperbolicRadiusName</key>
+	<string>profileStateInterval</string>
+	<key>kernelSinceBridge</key>
+	<string>coordinatorSingletonFlags</string>
+	<key>shaderBeyondTemple</key>
+	<string>allocatorBeyondWork</string>
+</dict>
+</plist>

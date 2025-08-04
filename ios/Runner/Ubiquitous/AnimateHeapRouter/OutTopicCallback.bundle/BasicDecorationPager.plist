@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCoordinatorPosition</key>
+	<string>cubeAsFlyweight</string>
+	<key>eventContextCoord</key>
+	<string>requiredDependencyEdge</string>
+	<key>futureVariableTheme</key>
+	<string>precisionOutsideEnvironment</string>
+	<key>mediaThroughObserver</key>
+	<string>animatedCallbackStyle</string>
+	<key>musicByTemple</key>
+	<string>frameObserverSize</string>
+	<key>serviceCommandLeft</key>
+	<string>factoryAlongStyle</string>
+	<key>temporaryAccessoryIndex</key>
+	<string>iterativeBufferDistance</string>
+</dict>
+</plist>

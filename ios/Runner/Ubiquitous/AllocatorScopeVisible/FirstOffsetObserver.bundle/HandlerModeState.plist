@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSingletonTheme</key>
+	<string>largeProjectFeedback</string>
+	<key>containerSinceFunction</key>
+	<string>titleIncludeState</string>
+	<key>criticalSinkContrast</key>
+	<string>exceptionByVar</string>
+	<key>decorationStructureOrientation</key>
+	<string>priorityAtForm</string>
+	<key>gramByTask</key>
+	<string>textfieldContainJob</string>
+	<key>reducerTypeDensity</key>
+	<string>adaptivePopupAppearance</string>
+	<key>spotFunctionFormat</key>
+	<string>transitionDuringLevel</string>
+	<key>usecaseStrategyAppearance</key>
+	<string>mobxDespiteCycle</string>
+</dict>
+</plist>

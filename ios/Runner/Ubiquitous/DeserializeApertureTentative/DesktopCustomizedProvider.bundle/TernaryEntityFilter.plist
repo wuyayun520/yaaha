@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterActivityDelay</key>
+	<string>missionOrJob</string>
+	<key>getxPerLevel</key>
+	<string>offsetPhaseCenter</string>
+	<key>graphicStateFeedback</key>
+	<string>fusedMarginSize</string>
+	<key>interactiveUsecaseEdge</key>
+	<string>consultativePresenterContrast</string>
+	<key>petOrType</key>
+	<string>positionedThanBridge</string>
+	<key>radiusStateStatus</key>
+	<string>dependencyNumberInset</string>
+	<key>symmetricPageviewAlignment</key>
+	<string>textureInsideAdapter</string>
+</dict>
+</plist>

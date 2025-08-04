@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxPatternInteraction</key>
+	<string>cubitScopeInteraction</string>
+	<key>cubitValueColor</key>
+	<string>methodThroughParam</string>
+	<key>featureNearSystem</key>
+	<string>asynchronousExtensionVisibility</string>
+	<key>fragmentActionStyle</key>
+	<string>configurationAndForm</string>
+	<key>labelInsideTemple</key>
+	<string>bulletDecoratorSize</string>
+	<key>materialSampleResponse</key>
+	<string>exceptionNearChain</string>
+	<key>promiseAndOperation</key>
+	<string>constraintPatternVisible</string>
+	<key>requestAdapterValidation</key>
+	<string>taskStyleStatus</string>
+	<key>substantialParticleResponse</key>
+	<string>serviceMementoTension</string>
+</dict>
+</plist>

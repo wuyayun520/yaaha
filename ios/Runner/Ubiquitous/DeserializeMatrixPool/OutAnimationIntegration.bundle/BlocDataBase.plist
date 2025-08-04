@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionOfPattern</key>
+	<string>columnAtPattern</string>
+	<key>commandContainPhase</key>
+	<string>intensityAlongChain</string>
+	<key>commandParamTransparency</key>
+	<string>skirtWithComposite</string>
+	<key>dialogsNearMode</key>
+	<string>graphAndLevel</string>
+	<key>lastInstructionAcceleration</key>
+	<string>streamSinceBridge</string>
+	<key>robustMaterialStatus</key>
+	<string>reusableInterfaceLocation</string>
+	<key>routeOutsideValue</key>
+	<string>serviceValueResponse</string>
+	<key>temporaryBoxShade</key>
+	<string>featureAndForm</string>
+	<key>unactivatedSpriteLocation</key>
+	<string>sustainableTransformerDelay</string>
+</dict>
+</plist>

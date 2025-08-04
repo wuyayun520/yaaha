@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesOperationLocation</key>
+	<string>touchOrKind</string>
+	<key>giftAgainstMediator</key>
+	<string>cupertinoProjectionName</string>
+	<key>inactiveResponseDepth</key>
+	<string>promiseAdapterPressure</string>
+	<key>liteServiceOpacity</key>
+	<string>channelsLayerTransparency</string>
+	<key>mapBesideShape</key>
+	<string>custompaintChainRight</string>
+	<key>subpixelSingletonBrightness</key>
+	<string>viewScopeDuration</string>
+	<key>taskPrototypeDuration</key>
+	<string>sliderIncludeType</string>
+</dict>
+</plist>

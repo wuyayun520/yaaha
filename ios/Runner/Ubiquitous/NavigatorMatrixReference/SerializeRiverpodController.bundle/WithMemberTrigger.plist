@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitCycleCount</key>
+	<string>keyRowFrequency</string>
+	<key>customizedExponentLocation</key>
+	<string>rowOrPattern</string>
+	<key>grainFlyweightResponse</key>
+	<string>multiLocalizationDepth</string>
+	<key>requestBufferHead</key>
+	<string>completionPrototypeTension</string>
+</dict>
+</plist>

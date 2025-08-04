@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousArithmeticInset</key>
+	<string>secondDialogsShade</string>
+	<key>effectOfCommand</key>
+	<string>interpolationExceptCommand</string>
+	<key>graphPerType</key>
+	<string>desktopBlocBound</string>
+	<key>intensityInterpreterResponse</key>
+	<string>protocolWithFlyweight</string>
+	<key>protocolPatternDelay</key>
+	<string>drawerAlongSingleton</string>
+	<key>resourceThanStyle</key>
+	<string>dynamicDependencyTint</string>
+	<key>streamContainCycle</key>
+	<string>storyboardChainIndex</string>
+	<key>widgetParamTag</key>
+	<string>ignoredDescriptorType</string>
+</dict>
+</plist>

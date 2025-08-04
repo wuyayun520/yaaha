@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheObserverInset</key>
+	<string>nibStructureTint</string>
+	<key>expandedStyleSpacing</key>
+	<string>commandAlongFramework</string>
+	<key>localizationAtWork</key>
+	<string>respectiveTaskInset</string>
+	<key>petInsideFramework</key>
+	<string>injectionPerForm</string>
+	<key>providerMethodTransparency</key>
+	<string>futureNearFacade</string>
+	<key>reusableSinkLeft</key>
+	<string>secondResponseInteraction</string>
+	<key>routerAlongStyle</key>
+	<string>radiusAtMethod</string>
+	<key>serviceChainOrientation</key>
+	<string>prevLayoutSpacing</string>
+	<key>tableOutsideStructure</key>
+	<string>presenterParamSpacing</string>
+</dict>
+</plist>

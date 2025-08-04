@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyPromiseMode</key>
+	<string>allocatorBufferForce</string>
+	<key>oldTabbarContrast</key>
+	<string>skinFlyweightForce</string>
+	<key>seamlessCanvasMode</key>
+	<string>textFrameworkShade</string>
+	<key>tweenDecoratorInset</key>
+	<string>relationalTextSaturation</string>
+</dict>
+</plist>

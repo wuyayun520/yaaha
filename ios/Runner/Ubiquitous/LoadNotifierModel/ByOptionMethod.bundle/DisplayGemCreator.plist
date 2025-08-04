@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLocalizationAcceleration</key>
+	<string>independentQueueBehavior</string>
+	<key>immediateTangentHead</key>
+	<string>positionOutsideMediator</string>
+	<key>inactiveTopicBrightness</key>
+	<string>usecaseViaVariable</string>
+	<key>playbackAmongFunction</key>
+	<string>hyperbolicConstraintFeedback</string>
+	<key>scrollableChannelSkewy</key>
+	<string>routerShapePadding</string>
+	<key>sliderPerPhase</key>
+	<string>graphSystemPadding</string>
+	<key>standaloneStoryboardSkewy</key>
+	<string>subtleAssetTail</string>
+</dict>
+</plist>

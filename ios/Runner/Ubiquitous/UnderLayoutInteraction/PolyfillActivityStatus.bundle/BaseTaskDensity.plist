@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorShapeDelay</key>
+	<string>methodBeyondProcess</string>
+	<key>aspectInterpreterMargin</key>
+	<string>concurrentLayoutResponse</string>
+	<key>composableChannelFormat</key>
+	<string>mediaAtOperation</string>
+	<key>compositionAwayStage</key>
+	<string>flexibleBatchOffset</string>
+	<key>concreteTransitionAppearance</key>
+	<string>boxContainAction</string>
+	<key>cubeContextDistance</key>
+	<string>channelExceptPhase</string>
+	<key>dedicatedFactoryBehavior</key>
+	<string>concreteIsolateVisible</string>
+	<key>durationWithoutVisitor</key>
+	<string>alignmentOfWork</string>
+	<key>permissiveOptimizerTop</key>
+	<string>directZoneTop</string>
+	<key>touchAsLayer</key>
+	<string>activeDropdownbuttonAlignment</string>
+</dict>
+</plist>

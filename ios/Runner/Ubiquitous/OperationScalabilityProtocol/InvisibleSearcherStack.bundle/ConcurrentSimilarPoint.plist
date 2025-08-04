@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRouteOpacity</key>
+	<string>independentStampTag</string>
+	<key>cycleAgainstComposite</key>
+	<string>tappableRectState</string>
+	<key>diffableThemeShade</key>
+	<string>commandVariableOrigin</string>
+	<key>entityOfVariable</key>
+	<string>alignmentInTier</string>
+	<key>ephemeralViewOpacity</key>
+	<string>profileShapeSpeed</string>
+	<key>inactiveNavigationInset</key>
+	<string>progressbarBufferTail</string>
+	<key>multiplicationBeyondAction</key>
+	<string>swiftDecoratorPadding</string>
+	<key>unactivatedSinkBound</key>
+	<string>cupertinoRadiusState</string>
+</dict>
+</plist>

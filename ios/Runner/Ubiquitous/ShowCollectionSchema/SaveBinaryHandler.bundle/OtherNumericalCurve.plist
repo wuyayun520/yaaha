@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridViaPhase</key>
+	<string>crucialViewInterval</string>
+	<key>integerAmongBridge</key>
+	<string>spriteForKind</string>
+	<key>sortedInjectionInterval</key>
+	<string>requestAmongLevel</string>
+	<key>textExceptBridge</key>
+	<string>activeAllocatorStatus</string>
+</dict>
+</plist>

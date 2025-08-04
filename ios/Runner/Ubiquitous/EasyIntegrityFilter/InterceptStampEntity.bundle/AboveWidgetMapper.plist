@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAndOperation</key>
+	<string>apertureViaScope</string>
+	<key>curveStateMode</key>
+	<string>buttonForTier</string>
+	<key>explicitDrawerAcceleration</key>
+	<string>checklistBufferSkewy</string>
+	<key>fixedChapterDuration</key>
+	<string>priorRowCount</string>
+	<key>gesturedetectorLikeObserver</key>
+	<string>desktopEffectPadding</string>
+	<key>semanticBufferMargin</key>
+	<string>zoneExceptFlyweight</string>
+	<key>storageModeSpeed</key>
+	<string>transitionAboutActivity</string>
+	<key>storeAsJob</key>
+	<string>textParameterType</string>
+	<key>timerPhaseRight</key>
+	<string>subtleVectorHead</string>
+</dict>
+</plist>

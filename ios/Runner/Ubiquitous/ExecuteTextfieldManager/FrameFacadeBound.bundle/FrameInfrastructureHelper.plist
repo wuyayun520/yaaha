@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInsideFramework</key>
+	<string>routeParamDelay</string>
+	<key>completerOperationStyle</key>
+	<string>advancedActionOffset</string>
+	<key>curveModeStyle</key>
+	<string>hardClipperFeedback</string>
+	<key>ephemeralSignBehavior</key>
+	<string>smartResultEdge</string>
+	<key>exceptionFacadeDistance</key>
+	<string>streamKindTail</string>
+	<key>intermediateBuilderType</key>
+	<string>bulletIncludeBuffer</string>
+	<key>keyRouteSpacing</key>
+	<string>mutableCubitDelay</string>
+	<key>labelFormTransparency</key>
+	<string>baselineFacadeSkewy</string>
+	<key>listenerParamAlignment</key>
+	<string>explicitStreamStatus</string>
+</dict>
+</plist>

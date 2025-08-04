@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAsFlyweight</key>
+	<string>previewBesidePhase</string>
+	<key>cursorThroughWork</key>
+	<string>sharedCycleVelocity</string>
+	<key>groupScopeOrientation</key>
+	<string>accordionInterpolationTension</string>
+	<key>rectAsSingleton</key>
+	<string>asyncTypeOffset</string>
+</dict>
+</plist>

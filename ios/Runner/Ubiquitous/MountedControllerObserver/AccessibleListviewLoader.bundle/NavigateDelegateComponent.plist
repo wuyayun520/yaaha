@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionSystemKind</key>
+	<string>usedActivitySkewy</string>
+	<key>delicateIsolateInteraction</key>
+	<string>alignmentAroundForm</string>
+	<key>discardedBufferSpeed</key>
+	<string>gesturePhaseSize</string>
+	<key>multiCallbackSpacing</key>
+	<string>loopVisitorShape</string>
+	<key>pointFromInterpreter</key>
+	<string>sceneProcessHead</string>
+	<key>presenterBeyondCycle</key>
+	<string>typicalEntityDepth</string>
+	<key>storageWorkOpacity</key>
+	<string>imperativeConstraintFrequency</string>
+</dict>
+</plist>

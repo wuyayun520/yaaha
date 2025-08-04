@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedTransitionTag</key>
+	<string>scrollableCoordinatorEdge</string>
+	<key>firstAppbarInterval</key>
+	<string>retainedMethodSpeed</string>
+	<key>hardDescriptorIndex</key>
+	<string>injectionOutsideFlyweight</string>
+	<key>singleMultiplicationScale</key>
+	<string>effectOfSingleton</string>
+</dict>
+</plist>

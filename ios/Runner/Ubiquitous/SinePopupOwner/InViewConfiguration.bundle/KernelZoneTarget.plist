@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledCompleterStyle</key>
+	<string>greatOffsetSkewx</string>
+	<key>effectParameterPressure</key>
+	<string>allocatorDuringActivity</string>
+	<key>inkwellWithoutSingleton</key>
+	<string>declarativeTouchType</string>
+	<key>layoutByParameter</key>
+	<string>overlayVisitorBottom</string>
+	<key>localFrameSkewx</key>
+	<string>spriteOrMode</string>
+	<key>nativeFutureDuration</key>
+	<string>bulletBufferOffset</string>
+	<key>pinchableBatchOrigin</key>
+	<string>vectorPatternLocation</string>
+	<key>radiusLayerRotation</key>
+	<string>cosineIncludeMediator</string>
+	<key>singletonVersusLevel</key>
+	<string>lastNodePadding</string>
+	<key>variantUntilInterpreter</key>
+	<string>timerExceptForm</string>
+</dict>
+</plist>

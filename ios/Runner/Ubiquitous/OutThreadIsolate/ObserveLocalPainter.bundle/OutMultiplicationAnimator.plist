@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryExceptObserver</key>
+	<string>serviceAgainstMediator</string>
+	<key>agileCellType</key>
+	<string>providerBesideObserver</string>
+	<key>alignmentChainBound</key>
+	<string>pointPlatformCount</string>
+	<key>behaviorAndBuffer</key>
+	<string>positionedViaState</string>
+	<key>behaviorVersusFlyweight</key>
+	<string>gridAdapterOrigin</string>
+	<key>builderProxyRight</key>
+	<string>granularHeroSkewy</string>
+	<key>disabledTweenMode</key>
+	<string>bitrateContextLocation</string>
+	<key>lostIndicatorCount</key>
+	<string>progressbarBridgeBehavior</string>
+	<key>sceneForLayer</key>
+	<string>cupertinoBridgeOffset</string>
+	<key>switchPrototypeAlignment</key>
+	<string>stateThroughBuffer</string>
+</dict>
+</plist>

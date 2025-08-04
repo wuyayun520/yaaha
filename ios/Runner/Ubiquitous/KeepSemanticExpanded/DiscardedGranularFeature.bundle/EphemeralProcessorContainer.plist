@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitPerContext</key>
+	<string>mediumControllerVelocity</string>
+	<key>descriptorActivityDirection</key>
+	<string>bufferSystemBound</string>
+	<key>eventAroundType</key>
+	<string>flexibleScaffoldCoord</string>
+	<key>layoutAlongDecorator</key>
+	<string>euclideanLabelMargin</string>
+	<key>missionTaskFlags</key>
+	<string>intensityParameterResponse</string>
+	<key>presenterBufferAcceleration</key>
+	<string>segueNearAdapter</string>
+	<key>resizableCursorStatus</key>
+	<string>buttonCompositeResponse</string>
+	<key>semanticStoreBorder</key>
+	<string>durationParameterVisibility</string>
+	<key>temporaryFactoryScale</key>
+	<string>coordinatorFrameworkTint</string>
+</dict>
+</plist>

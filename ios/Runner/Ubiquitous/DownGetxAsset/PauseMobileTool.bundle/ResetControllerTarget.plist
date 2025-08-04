@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFrameTint</key>
+	<string>curveProxyLeft</string>
+	<key>advancedTextFlags</key>
+	<string>desktopIndicatorOrigin</string>
+	<key>alphaStrategyContrast</key>
+	<string>keyAssetBorder</string>
+	<key>crudeResourceRotation</key>
+	<string>cosineNumberState</string>
+	<key>cubitOrJob</key>
+	<string>uniqueGridHead</string>
+	<key>hashInsideFacade</key>
+	<string>streamInsideValue</string>
+	<key>methodWithoutObserver</key>
+	<string>plateIncludeStyle</string>
+	<key>mobileLayoutFeedback</key>
+	<string>allocatorActivityName</string>
+	<key>tangentUntilOperation</key>
+	<string>dynamicStampSpeed</string>
+</dict>
+</plist>

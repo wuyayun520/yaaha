@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionProcessBehavior</key>
+	<string>mutableEventDelay</string>
+	<key>elasticTextMomentum</key>
+	<string>ignoredViewFormat</string>
+	<key>menuTypeBorder</key>
+	<string>profileBridgeColor</string>
+	<key>symmetricFeatureTransparency</key>
+	<string>tickerFacadeKind</string>
+</dict>
+</plist>

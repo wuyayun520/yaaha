@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForVisitor</key>
+	<string>consultativeMaterialRotation</string>
+	<key>canvasVarDepth</key>
+	<string>pinchableChartSkewx</string>
+	<key>deferredViewCount</key>
+	<string>themeFrameworkShade</string>
+	<key>featureProcessTint</key>
+	<string>robustReducerTheme</string>
+	<key>smartNormMode</key>
+	<string>widgetJobDistance</string>
+</dict>
+</plist>

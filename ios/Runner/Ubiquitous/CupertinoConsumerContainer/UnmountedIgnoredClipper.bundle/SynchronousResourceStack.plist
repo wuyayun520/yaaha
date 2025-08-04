@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMediatorDistance</key>
+	<string>easyCubeCoord</string>
+	<key>arithmeticRectInteraction</key>
+	<string>deferredHeroAcceleration</string>
+	<key>dynamicExpandedContrast</key>
+	<string>mapInsideSystem</string>
+	<key>errorWithoutVar</key>
+	<string>coordinatorActionName</string>
+	<key>flexibleFutureOrientation</key>
+	<string>similarRemainderBehavior</string>
+	<key>stateTierAcceleration</key>
+	<string>multiplicationOfParameter</string>
+</dict>
+</plist>

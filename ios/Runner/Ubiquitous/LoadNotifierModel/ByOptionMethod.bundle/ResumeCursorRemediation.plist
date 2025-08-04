@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAdapterShade</key>
+	<string>segmentAmongType</string>
+	<key>graphPerMode</key>
+	<string>clipperContextContrast</string>
+	<key>interactorOrForm</key>
+	<string>similarDependencyInteraction</string>
+	<key>progressbarMediatorStyle</key>
+	<string>staticScaleTop</string>
+	<key>sceneFrameworkVelocity</key>
+	<string>comprehensiveApertureBottom</string>
+	<key>sharedTaskDirection</key>
+	<string>hyperbolicToolHue</string>
+	<key>statefulOutsideSystem</key>
+	<string>directDelegateTail</string>
+	<key>sustainableAspectLeft</key>
+	<string>protocolAndMode</string>
+	<key>unaryFrameworkVelocity</key>
+	<string>providerOperationHead</string>
+</dict>
+</plist>

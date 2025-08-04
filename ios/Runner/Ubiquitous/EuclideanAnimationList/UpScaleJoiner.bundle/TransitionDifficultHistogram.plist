@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeToolSkewx</key>
+	<string>hyperbolicDocumentSize</string>
+	<key>cupertinoVectorBehavior</key>
+	<string>handlerOrParam</string>
+	<key>dynamicDescriptionRate</key>
+	<string>elasticScaffoldRight</string>
+	<key>dynamicStorageRotation</key>
+	<string>ignoredMenuDensity</string>
+	<key>gesturedetectorChainOrientation</key>
+	<string>completerOrScope</string>
+</dict>
+</plist>

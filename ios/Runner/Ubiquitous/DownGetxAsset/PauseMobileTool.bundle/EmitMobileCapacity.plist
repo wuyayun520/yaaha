@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexModeScale</key>
+	<string>baselinePlatformDelay</string>
+	<key>stackAmongChain</key>
+	<string>descriptionMethodSpeed</string>
+	<key>webAnimationShade</key>
+	<string>semanticPrecisionTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveExceptionForce</key>
+	<string>richtextFormBrightness</string>
+	<key>layerProcessMomentum</key>
+	<string>cubitMementoRate</string>
+	<key>metadataWithoutPhase</key>
+	<string>bulletParamDelay</string>
+	<key>resultOrLevel</key>
+	<string>controllerInsideParam</string>
+	<key>streamProcessAcceleration</key>
+	<string>animationByBridge</string>
+	<key>uniqueCurveFormat</key>
+	<string>isolateBufferName</string>
+</dict>
+</plist>

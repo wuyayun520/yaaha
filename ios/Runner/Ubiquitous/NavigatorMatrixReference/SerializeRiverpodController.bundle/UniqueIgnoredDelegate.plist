@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerActionTail</key>
+	<string>deferredButtonAppearance</string>
+	<key>groupValueOrientation</key>
+	<string>advancedWidgetPadding</string>
+	<key>overlayAndPlatform</key>
+	<string>gesturedetectorLikeStructure</string>
+	<key>positionedPerLevel</key>
+	<string>decorationFormVisible</string>
+	<key>radiusOperationBrightness</key>
+	<string>sliderCycleContrast</string>
+	<key>sharedRowOrigin</key>
+	<string>repositoryDespiteLayer</string>
+</dict>
+</plist>

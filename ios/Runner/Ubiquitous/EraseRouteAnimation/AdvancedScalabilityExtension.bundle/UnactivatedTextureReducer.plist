@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceSingleton</key>
+	<string>requestOutsideVar</string>
+	<key>draggableSceneAppearance</key>
+	<string>gridviewAwayCommand</string>
+	<key>gridviewForJob</key>
+	<string>durationPatternDuration</string>
+	<key>semanticsProxyTag</key>
+	<string>modelFrameworkVelocity</string>
+	<key>signSinceFramework</key>
+	<string>primarySwitchBorder</string>
+</dict>
+</plist>

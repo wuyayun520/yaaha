@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerThanForm</key>
+	<string>skinInsideSystem</string>
+	<key>eagerBufferFormat</key>
+	<string>relationalGramName</string>
+	<key>eventStrategySpeed</key>
+	<string>allocatorFromProcess</string>
+	<key>providerOperationFormat</key>
+	<string>resolverShapeRight</string>
+	<key>subpixelWithoutFacade</key>
+	<string>animatedcontainerPatternSpacing</string>
+</dict>
+</plist>

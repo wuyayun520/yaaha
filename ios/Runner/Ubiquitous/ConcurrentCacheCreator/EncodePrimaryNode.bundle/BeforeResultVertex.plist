@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAlongPlatform</key>
+	<string>streamCycleScale</string>
+	<key>checklistBesideJob</key>
+	<string>methodFrameworkOffset</string>
+	<key>globalMultiplicationSpacing</key>
+	<string>navigatorFromProcess</string>
+	<key>metadataScopeFormat</key>
+	<string>routePlatformStyle</string>
+	<key>oldSignAlignment</key>
+	<string>marginPlatformMargin</string>
+	<key>specifierViaSystem</key>
+	<string>seamlessStackMargin</string>
+	<key>tweenFrameworkHue</key>
+	<string>movementStateFeedback</string>
+</dict>
+</plist>

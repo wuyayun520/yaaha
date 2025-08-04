@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedResolverMode</key>
+	<string>sustainableResponseInset</string>
+	<key>convolutionActionDuration</key>
+	<string>resultDuringBridge</string>
+	<key>flexDuringShape</key>
+	<string>liteTabbarInterval</string>
+	<key>mobileExceptMediator</key>
+	<string>robustTaskSpeed</string>
+	<key>pageviewSingletonColor</key>
+	<string>chartAgainstBridge</string>
+	<key>primaryTextIndex</key>
+	<string>constraintFrameworkIndex</string>
+	<key>relationalNavigationBottom</key>
+	<string>robustCoordinatorEdge</string>
+	<key>visibleMethodMomentum</key>
+	<string>cursorStageVisible</string>
+</dict>
+</plist>

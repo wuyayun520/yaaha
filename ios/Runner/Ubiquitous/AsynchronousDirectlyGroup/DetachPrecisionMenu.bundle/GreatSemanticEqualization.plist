@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCoordinatorContrast</key>
+	<string>rectContextInset</string>
+	<key>displayableMediaTheme</key>
+	<string>graphicProcessColor</string>
+	<key>normalAlignmentState</key>
+	<string>grainFunctionBehavior</string>
+	<key>numericalPrecisionEdge</key>
+	<string>localizationViaStructure</string>
+	<key>relationalCycleOrientation</key>
+	<string>petStateOpacity</string>
+	<key>resilientSkinSkewy</key>
+	<string>callbackContainForm</string>
+	<key>textfieldWorkTheme</key>
+	<string>ignoredManagerSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDecorationFeedback</key>
+	<string>precisionAlongProxy</string>
+	<key>denseGridSpacing</key>
+	<string>pointTierCenter</string>
+	<key>frameStrategyFeedback</key>
+	<string>alphaExceptVisitor</string>
+	<key>interactorOrChain</key>
+	<string>significantEqualizationAlignment</string>
+	<key>oldCacheFrequency</key>
+	<string>delegateTaskInterval</string>
+	<key>rectDecoratorDuration</key>
+	<string>mediaqueryDuringMediator</string>
+	<key>swiftShapeResponse</key>
+	<string>cellOutsideVisitor</string>
+	<key>ternaryStrategySpeed</key>
+	<string>storeVersusStage</string>
+	<key>transitionFormRight</key>
+	<string>providerMementoScale</string>
+</dict>
+</plist>

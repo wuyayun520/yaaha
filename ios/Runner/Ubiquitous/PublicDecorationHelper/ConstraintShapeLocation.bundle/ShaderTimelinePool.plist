@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityActionOffset</key>
+	<string>singletonActivityBrightness</string>
+	<key>alertBeyondFunction</key>
+	<string>draggableInkwellPressure</string>
+	<key>cartesianGraphShade</key>
+	<string>aspectFunctionOpacity</string>
+	<key>dialogsAmongOperation</key>
+	<string>semanticRichtextRate</string>
+	<key>effectViaPhase</key>
+	<string>mediaqueryNearParam</string>
+	<key>isolateForMode</key>
+	<string>asyncContextStatus</string>
+	<key>lostFactorySpeed</key>
+	<string>specifySensorMomentum</string>
+	<key>temporaryPrecisionAppearance</key>
+	<string>coordinatorOutsideMediator</string>
+</dict>
+</plist>

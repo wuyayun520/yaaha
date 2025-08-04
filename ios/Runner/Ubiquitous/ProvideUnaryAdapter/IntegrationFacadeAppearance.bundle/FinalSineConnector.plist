@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroForLevel</key>
+	<string>descriptionStyleShade</string>
+	<key>histogramWithoutComposite</key>
+	<string>composableInstructionSpacing</string>
+	<key>lastSignatureDuration</key>
+	<string>textureVisitorDepth</string>
+	<key>liteDecorationVisible</key>
+	<string>webTabbarForce</string>
+	<key>paddingBufferOrientation</key>
+	<string>matrixWithoutInterpreter</string>
+	<key>persistentSampleBorder</key>
+	<string>boxshadowAtScope</string>
+	<key>significantEffectOpacity</key>
+	<string>serviceAdapterBehavior</string>
+	<key>sortedIntensityContrast</key>
+	<string>spriteFacadeBrightness</string>
+</dict>
+</plist>

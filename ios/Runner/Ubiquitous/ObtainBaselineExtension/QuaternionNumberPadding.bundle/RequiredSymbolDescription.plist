@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstCycle</key>
+	<string>iconChainRate</string>
+	<key>descriptorPatternStatus</key>
+	<string>permanentObserverRate</string>
+	<key>directlyChannelAcceleration</key>
+	<string>presenterViaStage</string>
+	<key>explicitLayoutOrientation</key>
+	<string>vectorParamOpacity</string>
+	<key>localizationBridgeDirection</key>
+	<string>routerEnvironmentFeedback</string>
+	<key>precisionValueBorder</key>
+	<string>blocTempleState</string>
+	<key>signatureBeyondOperation</key>
+	<string>diversifiedModulusLeft</string>
+</dict>
+</plist>

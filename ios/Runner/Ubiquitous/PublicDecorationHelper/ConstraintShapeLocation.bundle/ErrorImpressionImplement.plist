@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStrategyAppearance</key>
+	<string>delegateAtFunction</string>
+	<key>commandFromKind</key>
+	<string>mediaScopeBehavior</string>
+	<key>cycleNearLevel</key>
+	<string>autoPresenterBottom</string>
+	<key>dependencyAmongMemento</key>
+	<string>accordionAllocatorDistance</string>
+	<key>scrollableCubeAlignment</key>
+	<string>independentKernelLocation</string>
+	<key>sizeWithoutKind</key>
+	<string>chartPhaseDuration</string>
+	<key>subsequentProviderHead</key>
+	<string>giftViaLevel</string>
+</dict>
+</plist>

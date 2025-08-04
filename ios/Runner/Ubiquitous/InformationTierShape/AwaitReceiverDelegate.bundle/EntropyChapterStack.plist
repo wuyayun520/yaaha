@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticByDecorator</key>
+	<string>tickerAroundPlatform</string>
+	<key>boxWithBuffer</key>
+	<string>resourceActivityBorder</string>
+	<key>checklistFlyweightDuration</key>
+	<string>progressbarPrototypeTail</string>
+	<key>elasticSkinStyle</key>
+	<string>activatedOperationCount</string>
+	<key>navigationOrPlatform</key>
+	<string>instructionObserverMomentum</string>
+	<key>operationDecoratorFormat</key>
+	<string>layoutBufferTension</string>
+	<key>sceneOfParam</key>
+	<string>layoutIncludeVisitor</string>
+	<key>usedNotifierFeedback</key>
+	<string>eagerModelTension</string>
+	<key>viewViaMemento</key>
+	<string>fixedCanvasValidation</string>
+</dict>
+</plist>

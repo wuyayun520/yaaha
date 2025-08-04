@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderProcessBound</key>
+	<string>concurrentSliderHue</string>
+	<key>controllerStateFormat</key>
+	<string>displayableResolverState</string>
+	<key>disabledGestureVisibility</key>
+	<string>mapContextSkewx</string>
+	<key>retainedStreamBehavior</key>
+	<string>agileTableSkewx</string>
+	<key>shaderViaFacade</key>
+	<string>inactiveFactoryCount</string>
+	<key>slashOperationSkewy</key>
+	<string>assetValueFlags</string>
+	<key>taskCommandDelay</key>
+	<string>statefulCommandFlags</string>
+	<key>tensorGetxAppearance</key>
+	<string>isolateOutsideSystem</string>
+	<key>threadWithSingleton</key>
+	<string>tickerEnvironmentShade</string>
+	<key>workflowAndKind</key>
+	<string>localAlertResponse</string>
+</dict>
+</plist>

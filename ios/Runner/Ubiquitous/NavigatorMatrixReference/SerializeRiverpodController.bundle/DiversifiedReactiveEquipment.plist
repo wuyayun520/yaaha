@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureParameterTint</key>
+	<string>discardedResourceTransparency</string>
+	<key>dynamicSignBound</key>
+	<string>commonTimerOffset</string>
+	<key>interactorThroughVisitor</key>
+	<string>typicalRichtextBrightness</string>
+	<key>layerStrategyType</key>
+	<string>tickerExceptEnvironment</string>
+	<key>lossStrategyLocation</key>
+	<string>responsiveStackCount</string>
+	<key>managerDuringStage</key>
+	<string>compositionalIndicatorVisibility</string>
+	<key>metadataPerBuffer</key>
+	<string>webPromiseContrast</string>
+	<key>opaqueResponseTint</key>
+	<string>segmentOfStage</string>
+</dict>
+</plist>

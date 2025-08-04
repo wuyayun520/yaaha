@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSubscriptionSkewy</key>
+	<string>cursorActionTransparency</string>
+	<key>constraintExceptTask</key>
+	<string>handlerUntilSingleton</string>
+	<key>consumerExceptKind</key>
+	<string>newestExceptionDepth</string>
+	<key>fixedModelOpacity</key>
+	<string>ignoredResolverTransparency</string>
+	<key>progressbarBridgeBehavior</key>
+	<string>appbarProxyKind</string>
+	<key>protocolIncludeMethod</key>
+	<string>modelThanJob</string>
+</dict>
+</plist>

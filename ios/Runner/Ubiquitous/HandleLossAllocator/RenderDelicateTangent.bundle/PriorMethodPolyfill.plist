@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCompleterShade</key>
+	<string>touchJobLocation</string>
+	<key>lazySizedboxShape</key>
+	<string>heapPerActivity</string>
+	<key>missionOutsideJob</key>
+	<string>observerStructureRight</string>
+	<key>mobxContextStatus</key>
+	<string>streamFlyweightColor</string>
+	<key>scenePhaseSize</key>
+	<string>cosineAmongMediator</string>
+	<key>secondSubscriptionPosition</key>
+	<string>bufferAlongDecorator</string>
+	<key>tappableErrorBehavior</key>
+	<string>matrixIncludeSingleton</string>
+	<key>titleOutsideActivity</key>
+	<string>memberMethodBehavior</string>
+	<key>vectorVariableTransparency</key>
+	<string>protectedTextureInset</string>
+	<key>webDialogsAlignment</key>
+	<string>cardSystemInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGestureDuration</key>
+	<string>subscriptionInsideMediator</string>
+	<key>apertureForJob</key>
+	<string>mediaWorkMargin</string>
+	<key>delegateNearFramework</key>
+	<string>channelFormFeedback</string>
+	<key>masterFlyweightBound</key>
+	<string>batchSystemBehavior</string>
+	<key>mediocreAppbarTag</key>
+	<string>visibleRouteIndex</string>
+	<key>requestPrototypeSize</key>
+	<string>requiredTangentSkewy</string>
+</dict>
+</plist>

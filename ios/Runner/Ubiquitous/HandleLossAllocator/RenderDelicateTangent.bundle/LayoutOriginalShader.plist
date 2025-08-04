@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMethodPadding</key>
+	<string>commonLocalizationVelocity</string>
+	<key>associatedStorageRight</key>
+	<string>asynchronousResolverTransparency</string>
+	<key>durationCompositeFeedback</key>
+	<string>mediocreConvolutionFeedback</string>
+	<key>navigatorPatternPadding</key>
+	<string>relationalResourceColor</string>
+	<key>spriteDespiteMode</key>
+	<string>commandProxyRotation</string>
+</dict>
+</plist>

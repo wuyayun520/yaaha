@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystFromOperation</key>
+	<string>keyThemeFormat</string>
+	<key>delegateWithoutInterpreter</key>
+	<string>cubeWithoutMode</string>
+	<key>denseModelBottom</key>
+	<string>modelAroundCommand</string>
+</dict>
+</plist>

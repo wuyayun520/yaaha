@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionByContext</key>
+	<string>sequentialIntensityVisible</string>
+	<key>difficultSubpixelInteraction</key>
+	<string>tabviewPhaseSkewx</string>
+	<key>publicRowStatus</key>
+	<string>normCompositeEdge</string>
+	<key>textPerDecorator</key>
+	<string>lossPerTier</string>
+</dict>
+</plist>

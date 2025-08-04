@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSymbolDirection</key>
+	<string>geometricObserverBehavior</string>
+	<key>flexibleSineBound</key>
+	<string>cartesianGradientSkewx</string>
+	<key>ignoredHandlerLocation</key>
+	<string>priorityOrAction</string>
+	<key>labelWithOperation</key>
+	<string>requestStateAppearance</string>
+</dict>
+</plist>

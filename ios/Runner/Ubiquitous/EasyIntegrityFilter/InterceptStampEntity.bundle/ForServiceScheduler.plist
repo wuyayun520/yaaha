@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushActivityBehavior</key>
+	<string>robustCupertinoTint</string>
+	<key>diffableDocumentBehavior</key>
+	<string>gridFacadeType</string>
+	<key>directSessionSkewy</key>
+	<string>keyGrayscaleContrast</string>
+	<key>discardedNodeBottom</key>
+	<string>eventVisitorSkewy</string>
+	<key>oldGrainMode</key>
+	<string>retainedChartForce</string>
+	<key>otherDescriptorShade</key>
+	<string>extensionFunctionTransparency</string>
+	<key>responseLayerDuration</key>
+	<string>gramIncludeMemento</string>
+	<key>switchSinceBridge</key>
+	<string>transformerAndComposite</string>
+</dict>
+</plist>

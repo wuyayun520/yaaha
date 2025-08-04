@@ -1,0 +1,416 @@
+{
+  "motorcycle_events": [
+    {
+      "id": 1,
+      "event_name": "Vintage City Cruise Rally",
+      "date": "2025-08-15",
+      "time": "14:00-18:00",
+      "location": "Metropolitan Ring Road",
+      "participants": 45,
+      "motorcycle_type": "Vintage Street Bikes",
+      "featured_bikes": ["Royal Enfield", "Vintage Custom Builds", "Classic Cruisers"],
+      "description": "Join us for an epic vintage motorcycle rally featuring the iconic blue Royal Enfield and other classic bikes. Riders will showcase authentic vintage gear while celebrating timeless motorcycle culture through scenic city routes.",
+      "activity_type": "Leisure Cruise",
+      "difficulty_level": "Beginner",
+      "route_distance": "120km",
+      "meeting_point": "Downtown Central Plaza",
+      "organizer": "Vintage Motorcycle Club",
+      "safety_requirements": ["DOT approved helmet", "Protective gear", "Valid motorcycle license"],
+      "activities": [
+        "Group photo session",
+        "Vintage bike showcase",
+        "Classic motorcycle history talk",
+        "Scenic route touring",
+        "Coffee break at historic cafe"
+      ],
+      "prizes": ["Best Vintage Bike Award", "Most Authentic Gear Award"],
+      "weather_contingency": "Indoor venue available for bike display",
+      "image_reference": "assets/activaty/Event_1.jpg"
+    },
+    {
+      "id": 2,
+      "event_name": "Urban Street Style Motorcycle Meet",
+      "date": "2025-08-28",
+      "time": "16:00-20:00",
+      "location": "Industrial District Streets",
+      "participants": 32,
+      "motorcycle_type": "Street Bikes / Naked Bikes",
+      "featured_bikes": ["Custom Street Bikes", "Cafe Racers", "Naked Sport Bikes"],
+      "description": "A gathering focused on personalized motorcycle modifications showcasing unique custom styles and urban motorcycle culture. Experience the creativity and craftsmanship of street bike enthusiasts.",
+      "activity_type": "Show & Tell Gathering",
+      "difficulty_level": "Beginner",
+      "route_distance": "80km",
+      "meeting_point": "Industrial District Parking Lot",
+      "organizer": "Street Motorcycle Alliance",
+      "safety_requirements": ["Helmet mandatory", "Reflective vest", "Insurance proof"],
+      "activities": [
+        "Custom bike competition",
+        "Modification showcase",
+        "Technical workshops",
+        "Photography session",
+        "BBQ dinner",
+        "Live music performance"
+      ],
+      "prizes": ["Best Custom Build", "Most Creative Modification", "People's Choice Award"],
+      "vendors": ["Custom parts dealers", "Motorcycle gear shops", "Food trucks"],
+      "image_reference": "assets/activaty/Event_2.jpg"
+    },
+    {
+      "id": 3,
+      "event_name": "Neon Night City Ride",
+      "date": "2025-09-05",
+      "time": "20:00-23:00",
+      "location": "City Skyline Route",
+      "participants": 28,
+      "motorcycle_type": "Sport Bikes",
+      "featured_bikes": ["Sport Motorcycles", "Super Bikes", "High-Performance Machines"],
+      "description": "Experience the thrill of night riding through illuminated city streets. Professional photographers will capture the essence of speed and passion under neon lights in this exclusive nocturnal adventure.",
+      "activity_type": "Night Riding Experience",
+      "difficulty_level": "Intermediate",
+      "route_distance": "150km",
+      "meeting_point": "City Landmark Building",
+      "organizer": "Night Riders Club",
+      "safety_requirements": ["High-visibility gear", "Headlight check", "Night riding experience required"],
+      "activities": [
+        "Professional photo shoot",
+        "LED light show",
+        "Night photography workshop",
+        "Urban exploration",
+        "Midnight cafe stop",
+        "Scenic overlook gathering"
+      ],
+      "special_features": [
+        "Professional photographer included",
+        "LED lighting setup",
+        "Drone footage",
+        "Social media content creation"
+      ],
+      "image_reference": "assets/activaty/Event_3.jpg"
+    },
+    {
+      "id": 4,
+      "event_name": "Underground Tunnel Challenge",
+      "date": "2025-09-12",
+      "time": "19:00-22:30",
+      "location": "Metropolitan Tunnel Network",
+      "participants": 55,
+      "motorcycle_type": "Sport Motorcycles",
+      "featured_bikes": ["High-Performance Sport Bikes", "Street Warriors", "Racing Machines"],
+      "description": "Navigate through modern tunnel systems in this technical riding challenge that tests rider skill and courage. Experience the unique acoustics and atmosphere of underground motorcycle touring.",
+      "activity_type": "Technical Challenge",
+      "difficulty_level": "Advanced",
+      "route_distance": "200km",
+      "meeting_point": "Tunnel Entrance Assembly Point",
+      "organizer": "Extreme Motorcycle Association",
+      "safety_requirements": ["Advanced riding certification", "Full protective gear", "Emergency contact required"],
+      "activities": [
+        "Technical skills assessment",
+        "Tunnel navigation challenge",
+        "Echo acoustics experience",
+        "Underground photography",
+        "Safety briefing session",
+        "Post-ride analysis meeting"
+      ],
+      "challenges": [
+        "Low-light navigation",
+        "Echo management",
+        "Speed control",
+        "Group formation riding"
+      ],
+      "image_reference": "assets/activaty/Event_4.jpg"
+    },
+    {
+      "id": 5,
+      "event_name": "Interstate Highway Long Distance Tour",
+      "date": "2025-09-20",
+      "time": "08:00-17:00",
+      "location": "Interstate Highway System",
+      "participants": 78,
+      "motorcycle_type": "Touring Motorcycles",
+      "featured_bikes": ["BMW", "Honda", "Yamaha", "Harley-Davidson Touring"],
+      "description": "Embark on an epic long-distance highway journey through breathtaking natural landscapes. Experience the joy of extended motorcycle touring with fellow enthusiasts on this full-day adventure.",
+      "activity_type": "Long Distance Touring",
+      "difficulty_level": "Intermediate",
+      "route_distance": "400km",
+      "meeting_point": "Highway Service Area",
+      "organizer": "Long Distance Touring Club",
+      "safety_requirements": ["Touring experience", "Emergency kit", "Communication device"],
+      "activities": [
+        "Sunrise departure ceremony",
+        "Scenic viewpoint stops",
+        "Group lunch at mountain lodge",
+        "Wildlife observation",
+        "Photography competitions",
+        "Sunset arrival celebration"
+      ],
+      "route_highlights": [
+        "Mountain passes",
+        "Scenic overlooks",
+        "Historic landmarks",
+        "Natural parks",
+        "Countryside vistas"
+      ],
+      "support_services": [
+        "Sweep rider",
+        "Mechanical support",
+        "First aid team",
+        "Fuel stops coordination"
+      ],
+      "image_reference": "assets/activaty/Event_5.jpg"
+    },
+    {
+      "id": 6,
+      "event_name": "Professional Track Experience Day",
+      "date": "2025-10-03",
+      "time": "09:00-16:00",
+      "location": "Professional Racing Circuit",
+      "participants": 35,
+      "motorcycle_type": "Track-Ready Sport Bikes",
+      "featured_bikes": ["KTM", "Ducati", "Kawasaki", "Yamaha R-Series"],
+      "description": "Experience the ultimate thrill of professional track riding with expert instruction and safety equipment. Push your limits on a closed circuit with professional guidance and coaching.",
+      "activity_type": "Track Experience",
+      "difficulty_level": "Advanced",
+      "route_distance": "Calculated in track laps",
+      "meeting_point": "Racing Circuit Pit Area",
+      "organizer": "Track Riding Academy",
+      "safety_requirements": ["Track certification", "Leathers required", "Medical clearance"],
+      "activities": [
+        "Morning safety briefing",
+        "Professional instruction sessions",
+        "Timed lap challenges",
+        "Cornering technique workshops",
+        "Video analysis sessions",
+        "Awards ceremony"
+      ],
+      "instruction_levels": [
+        "Novice group",
+        "Intermediate group",
+        "Advanced group",
+        "Expert level"
+      ],
+      "included_services": [
+        "Professional instructors",
+        "Safety marshals",
+        "Medical team on-site",
+        "Timing equipment",
+        "Video recording"
+      ],
+      "image_reference": "assets/activaty/Event_6.jpg"
+    },
+    {
+      "id": 7,
+      "event_name": "Street Motorcycle Fashion Show",
+      "date": "2025-10-10",
+      "time": "13:00-19:00",
+      "location": "Downtown Exhibition Area",
+      "participants": 62,
+      "motorcycle_type": "Street Style Motorcycles",
+      "featured_bikes": ["Honda CB Series", "Custom Street Builds", "Modern Classics"],
+      "description": "Showcase the latest in street motorcycle customization including paint schemes, accessories, and personalization. A celebration of motorcycle fashion and individual expression.",
+      "activity_type": "Exhibition Event",
+      "difficulty_level": "Beginner",
+      "route_distance": "50km",
+      "meeting_point": "Downtown Motorcycle Exhibition Zone",
+      "organizer": "Street Style Motorcycle Union",
+      "safety_requirements": ["Standard protective gear", "Display insurance"],
+      "activities": [
+        "Custom bike runway show",
+        "Modification competitions",
+        "Vendor exhibitions",
+        "Live customization demos",
+        "Fashion show with riding gear",
+        "Awards ceremony"
+      ],
+      "competition_categories": [
+        "Best Paint Job",
+        "Most Creative Modification",
+        "Best Vintage Restoration",
+        "People's Choice Award",
+        "Best in Show"
+      ],
+      "vendors": [
+        "Custom paint shops",
+        "Aftermarket parts dealers",
+        "Riding gear manufacturers",
+        "Motorcycle accessories"
+      ],
+      "image_reference": "assets/activaty/Event_7.jpg"
+    },
+    {
+      "id": 8,
+      "event_name": "Classic Vintage Motorcycle Heritage Meet",
+      "date": "2025-10-17",
+      "time": "10:00-15:00",
+      "location": "Historic Cultural District",
+      "participants": 41,
+      "motorcycle_type": "Classic Vintage Motorcycles",
+      "featured_bikes": ["Classic Cafe Racers", "Vintage Restorations", "Heritage Models"],
+      "description": "A tribute to classic motorcycle design featuring bikes from different eras and restoration projects. Celebrate the heritage and craftsmanship of vintage motorcycle culture.",
+      "activity_type": "Heritage Exhibition",
+      "difficulty_level": "Beginner",
+      "route_distance": "90km",
+      "meeting_point": "Historic Museum Plaza",
+      "organizer": "Classic Motorcycle Collectors Association",
+      "safety_requirements": ["Period-appropriate gear encouraged", "Insurance documentation"],
+      "activities": [
+        "Vintage bike timeline display",
+        "Restoration workshops",
+        "Historical presentations",
+        "Classic riding techniques demo",
+        "Antique parts swap meet",
+        "Heritage photo exhibition"
+      ],
+      "featured_decades": [
+        "1950s Classic Cruisers",
+        "1960s British Bikes",
+        "1970s Japanese Classics",
+        "1980s Sport Touring"
+      ],
+      "special_guests": [
+        "Vintage motorcycle historians",
+        "Master restoration craftsmen",
+        "Classic bike collectors",
+        "Period riding gear experts"
+      ],
+      "image_reference": "assets/activaty/Event_8.jpg"
+    },
+    {
+      "id": 9,
+      "event_name": "All-Black Themed Motorcycle Gathering",
+      "date": "2025-10-24",
+      "time": "15:00-20:00",
+      "location": "Industrial Complex",
+      "participants": 38,
+      "motorcycle_type": "Sport Motorcycles",
+      "featured_bikes": ["Kawasaki ZX Series", "All-Black Sport Bikes", "Stealth Builds"],
+      "description": "An exclusive gathering celebrating the mystique and elegance of all-black motorcycle designs. Experience the power and sophistication of monochromatic motorcycle aesthetics.",
+      "activity_type": "Themed Gathering",
+      "difficulty_level": "Intermediate",
+      "route_distance": "130km",
+      "meeting_point": "Industrial Complex Center",
+      "organizer": "Black Knights Motorcycle Club",
+      "safety_requirements": ["Black gear preferred", "Reflective elements required for safety"],
+      "activities": [
+        "All-black bike showcase",
+        "Stealth riding formation",
+        "Photography in industrial setting",
+        "Black gear fashion show",
+        "Night vision riding techniques",
+        "Exclusive member induction ceremony"
+      ],
+      "theme_requirements": [
+        "All-black motorcycle preferred",
+        "Black riding gear encouraged",
+        "Minimal chrome/color accents",
+        "Stealth aesthetic focus"
+      ],
+      "special_features": [
+        "Professional dark photography",
+        "LED accent lighting",
+        "Smoke machine effects",
+        "Industrial backdrop"
+      ],
+      "image_reference": "assets/activaty/Event_9.jpg"
+    },
+    {
+      "id": 10,
+      "event_name": "Mountain Cornering Skills Challenge",
+      "date": "2025-10-31",
+      "time": "14:00-18:00",
+      "location": "Mountain Winding Roads",
+      "participants": 29,
+      "motorcycle_type": "Sport Street Bikes",
+      "featured_bikes": ["KTM Duke Series", "High-Performance Street Bikes", "Agile Sport Nakeds"],
+      "description": "Test your cornering technique and motorcycle control skills on challenging mountain curves. This advanced riding challenge focuses on precision, technique, and safety in demanding conditions.",
+      "activity_type": "Skills Competition",
+      "difficulty_level": "Advanced",
+      "route_distance": "180km",
+      "meeting_point": "Mountain Base Assembly Point",
+      "organizer": "Mountain Riding Challenge Association",
+      "safety_requirements": ["Advanced riding certification", "Full protective gear", "Mountain riding experience"],
+      "activities": [
+        "Cornering technique assessment",
+        "Timed section challenges",
+        "Safety briefing sessions",
+        "Professional coaching",
+        "Video analysis of riding style",
+        "Skills improvement workshops"
+      ],
+      "challenge_sections": [
+        "Hairpin turn mastery",
+        "Decreasing radius corners",
+        "Elevation change handling",
+        "Weather condition adaptation"
+      ],
+      "safety_measures": [
+        "Professional safety riders",
+        "Medical team on standby",
+        "Communication systems",
+        "Emergency evacuation plan"
+      ],
+      "prizes": [
+        "Best Technique Award",
+        "Fastest Clean Run",
+        "Most Improved Rider",
+        "Safety Excellence Award"
+      ],
+      "image_reference": "assets/activaty/Event_10.jpg"
+    }
+  ],
+  "event_summary": {
+    "total_events": 10,
+    "date_range": "August - October 2025",
+    "total_participants": 473,
+    "average_participants_per_event": 47,
+    "participant_range": "28-78 participants",
+    "activity_types": [
+      "Leisure Cruise",
+      "Show & Tell Gathering",
+      "Night Riding Experience",
+      "Technical Challenge",
+      "Long Distance Touring",
+      "Track Experience",
+      "Exhibition Event",
+      "Heritage Exhibition",
+      "Themed Gathering",
+      "Skills Competition"
+    ],
+    "featured_motorcycle_brands": [
+      "Royal Enfield",
+      "KTM",
+      "Ducati",
+      "Kawasaki",
+      "Honda",
+      "BMW",
+      "Yamaha",
+      "Harley-Davidson"
+    ],
+    "difficulty_levels": {
+      "Beginner": 4,
+      "Intermediate": 3,
+      "Advanced": 3
+    },
+    "geographical_coverage": [
+      "Urban city routes",
+      "Highway systems",
+      "Mountain roads",
+      "Industrial areas",
+      "Historic districts",
+      "Professional racing circuits"
+    ],
+    "safety_standards": {
+      "helmet_required": "All events",
+      "protective_gear": "Mandatory for advanced events",
+      "insurance": "Required for all participants",
+      "medical_support": "Available at high-risk events"
+    },
+    "additional_services": [
+      "Professional photography",
+      "Technical workshops",
+      "Safety training",
+      "Mechanical support",
+      "Awards ceremonies",
+      "Vendor exhibitions"
+    ]
+  }
+} 

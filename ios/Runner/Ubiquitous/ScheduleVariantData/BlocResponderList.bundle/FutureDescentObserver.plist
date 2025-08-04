@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonShapeFeedback</key>
+	<string>immediateTitleMode</string>
+	<key>cartesianScrollDensity</key>
+	<string>viewSinceProxy</string>
+	<key>materialSpecifierPosition</key>
+	<string>persistentRouteLocation</string>
+	<key>notificationAmongStyle</key>
+	<string>screenOfValue</string>
+	<key>priorFactoryType</key>
+	<string>controllerPrototypeCount</string>
+</dict>
+</plist>

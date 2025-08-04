@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMediaqueryStyle</key>
+	<string>cursorSinceVisitor</string>
+	<key>baselineByScope</key>
+	<string>touchCompositeOrigin</string>
+	<key>frameVisitorEdge</key>
+	<string>smartMemberStyle</string>
+	<key>gateLayerPosition</key>
+	<string>statefulOutsideParam</string>
+	<key>getxStateShape</key>
+	<string>resolverVarDuration</string>
+	<key>respectiveActivityTop</key>
+	<string>gridBesideShape</string>
+	<key>respectiveNibCoord</key>
+	<string>synchronousSlashStyle</string>
+	<key>sessionAroundStructure</key>
+	<string>durationPlatformDepth</string>
+</dict>
+</plist>

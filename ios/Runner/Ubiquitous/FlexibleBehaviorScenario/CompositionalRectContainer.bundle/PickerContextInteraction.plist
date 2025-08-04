@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitProxyAppearance</key>
+	<string>metadataShapeDensity</string>
+	<key>parallelCertificateStatus</key>
+	<string>scrollableBatchCount</string>
+	<key>providerObserverLeft</key>
+	<string>completerAtFramework</string>
+	<key>scaffoldModeValidation</key>
+	<string>animationStageTheme</string>
+	<key>standaloneRiverpodDensity</key>
+	<string>coordinatorPerStyle</string>
+	<key>subtleGridviewRotation</key>
+	<string>mediumStreamOrientation</string>
+	<key>textureNumberTheme</key>
+	<string>deferredResourceBound</string>
+</dict>
+</plist>

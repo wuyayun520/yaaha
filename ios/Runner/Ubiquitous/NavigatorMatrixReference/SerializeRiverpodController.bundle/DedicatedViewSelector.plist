@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryUntilCycle</key>
+	<string>discardedRoleTheme</string>
+	<key>ignoredBoxMargin</key>
+	<string>inactiveObserverRotation</string>
+	<key>immutableActionPressure</key>
+	<string>draggableButtonBorder</string>
+	<key>secondTransitionOpacity</key>
+	<string>pinchableInkwellMode</string>
+</dict>
+</plist>

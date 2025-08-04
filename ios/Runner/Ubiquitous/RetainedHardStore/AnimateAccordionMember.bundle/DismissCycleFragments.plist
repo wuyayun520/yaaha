@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistParameterSkewx</key>
+	<string>directlyLoopCount</string>
+	<key>customizedMasterCoord</key>
+	<string>navigatorForKind</string>
+	<key>errorBeyondLevel</key>
+	<string>dependencyContainCycle</string>
+	<key>functionalAnimationDensity</key>
+	<string>featureIncludeState</string>
+	<key>projectionMementoSize</key>
+	<string>activityPerKind</string>
+	<key>reactiveMethodIndex</key>
+	<string>consultativeCurveBrightness</string>
+	<key>requiredInteractorCoord</key>
+	<string>alphaDuringCycle</string>
+	<key>scaffoldContainComposite</key>
+	<string>specifierLevelInset</string>
+	<key>tickerFacadeSkewy</key>
+	<string>listenerPhaseRotation</string>
+	<key>transformerPatternSkewy</key>
+	<string>requiredLocalizationResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAmongStyle</key>
+	<string>multiplicationFunctionOpacity</string>
+	<key>modulusSinceSingleton</key>
+	<string>textInsideScope</string>
+	<key>modulusThroughDecorator</key>
+	<string>methodAlongProxy</string>
+	<key>specifierThroughScope</key>
+	<string>dependencyFormFeedback</string>
+	<key>topicCycleSaturation</key>
+	<string>providerIncludeStrategy</string>
+</dict>
+</plist>

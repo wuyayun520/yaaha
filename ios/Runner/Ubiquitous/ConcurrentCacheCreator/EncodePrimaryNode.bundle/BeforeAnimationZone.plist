@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyStateTransparency</key>
+	<string>autoLabelBound</string>
+	<key>nativeCupertinoVisibility</key>
+	<string>inactiveButtonState</string>
+	<key>switchFunctionAlignment</key>
+	<string>vectorAsStructure</string>
+	<key>visibleImageDistance</key>
+	<string>prevStackResponse</string>
+</dict>
+</plist>

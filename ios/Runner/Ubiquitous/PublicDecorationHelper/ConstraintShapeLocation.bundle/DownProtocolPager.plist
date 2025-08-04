@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesWorkDirection</key>
+	<string>widgetAtTask</string>
+	<key>draggableRouterShape</key>
+	<string>animationViaPhase</string>
+	<key>dynamicExceptionBehavior</key>
+	<string>localAnimationEdge</string>
+	<key>gradientAlongStyle</key>
+	<string>compositionKindTransparency</string>
+	<key>labelCompositeIndex</key>
+	<string>metadataAmongVar</string>
+	<key>managerPerValue</key>
+	<string>rectEnvironmentDelay</string>
+	<key>opaqueSubscriptionVisibility</key>
+	<string>challengeOrValue</string>
+	<key>plateTempleScale</key>
+	<string>activeMenuInset</string>
+	<key>providerStateStyle</key>
+	<string>transformerWithoutValue</string>
+	<key>scaffoldUntilActivity</key>
+	<string>multiEffectPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateContextShade</key>
+	<string>viewActivityTransparency</string>
+	<key>grayscaleShapeFeedback</key>
+	<string>navigatorActionDuration</string>
+	<key>hyperbolicZoneContrast</key>
+	<string>tweenThroughProxy</string>
+	<key>nextStoreValidation</key>
+	<string>momentumJobContrast</string>
+	<key>persistentLocalizationTail</key>
+	<string>previewCycleVelocity</string>
+	<key>publicConstraintTail</key>
+	<string>commonOptimizerInset</string>
+	<key>signEnvironmentPosition</key>
+	<string>entityBesideMediator</string>
+	<key>specifierMethodOrigin</key>
+	<string>resolverFrameworkAlignment</string>
+</dict>
+</plist>

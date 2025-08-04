@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStageMomentum</key>
+	<string>baselineSystemFeedback</string>
+	<key>axisOrLevel</key>
+	<string>usecaseFromMethod</string>
+	<key>cellTaskIndex</key>
+	<string>threadAlongMediator</string>
+	<key>dependencyFormTheme</key>
+	<string>protocolInterpreterLocation</string>
+	<key>indicatorAtState</key>
+	<string>layoutLevelContrast</string>
+	<key>nibExceptAction</key>
+	<string>subsequentGraphVelocity</string>
+</dict>
+</plist>

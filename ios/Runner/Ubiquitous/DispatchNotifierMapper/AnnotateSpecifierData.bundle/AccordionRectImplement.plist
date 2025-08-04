@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRowSize</key>
+	<string>buttonLikeActivity</string>
+	<key>alignmentOutsideMediator</key>
+	<string>labelVariableSkewx</string>
+	<key>localCoordinatorShade</key>
+	<string>constraintLayerFormat</string>
+	<key>routeLevelForce</key>
+	<string>largeModalDirection</string>
+	<key>statelessLayerCoord</key>
+	<string>opaqueGrainSize</string>
+</dict>
+</plist>

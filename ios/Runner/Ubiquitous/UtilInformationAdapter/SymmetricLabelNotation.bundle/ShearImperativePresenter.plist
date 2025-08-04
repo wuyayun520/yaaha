@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterModeCoord</key>
+	<string>responsiveSensorTop</string>
+	<key>heroAmongProcess</key>
+	<string>optimizerPerAdapter</string>
+	<key>lostCoordinatorTransparency</key>
+	<string>titleBridgeShade</string>
+	<key>prevRequestBottom</key>
+	<string>mobileContextScale</string>
+	<key>sceneTypeBound</key>
+	<string>persistentDecorationShade</string>
+	<key>sizeAtNumber</key>
+	<string>streamIncludeLevel</string>
+	<key>sustainableProtocolFeedback</key>
+	<string>entropyFlyweightBorder</string>
+	<key>uniqueExponentInset</key>
+	<string>entityDuringCycle</string>
+</dict>
+</plist>

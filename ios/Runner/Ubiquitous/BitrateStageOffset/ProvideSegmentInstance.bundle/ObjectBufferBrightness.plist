@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionContainState</key>
+	<string>gridWorkInteraction</string>
+	<key>containerMementoValidation</key>
+	<string>standaloneUsecaseAppearance</string>
+	<key>displayableLayerBottom</key>
+	<string>gestureIncludeDecorator</string>
+	<key>displayableRowHue</key>
+	<string>secondRiverpodMargin</string>
+	<key>finalSingletonVelocity</key>
+	<string>missedAlignmentHead</string>
+	<key>materialLocalizationMomentum</key>
+	<string>iconOutsideFramework</string>
+	<key>menuEnvironmentTransparency</key>
+	<string>transitionVersusState</string>
+	<key>sampleActionInteraction</key>
+	<string>robustInterpolationDensity</string>
+</dict>
+</plist>

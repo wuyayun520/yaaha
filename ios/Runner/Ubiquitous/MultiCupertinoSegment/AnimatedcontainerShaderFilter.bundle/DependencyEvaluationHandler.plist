@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerViaFacade</key>
+	<string>presenterOfEnvironment</string>
+	<key>functionalInterpolationKind</key>
+	<string>routeAsStructure</string>
+	<key>localizationAroundObserver</key>
+	<string>gridInComposite</string>
+	<key>painterMementoBrightness</key>
+	<string>heroScopeLocation</string>
+	<key>rectAgainstStrategy</key>
+	<string>animationOfEnvironment</string>
+	<key>robustEqualizationBorder</key>
+	<string>anchorAndVar</string>
+	<key>tensorKernelBehavior</key>
+	<string>controllerVisitorShape</string>
+</dict>
+</plist>

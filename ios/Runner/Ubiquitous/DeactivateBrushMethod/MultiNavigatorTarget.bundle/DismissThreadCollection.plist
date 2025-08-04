@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLocalizationRate</key>
+	<string>entityScopeSpeed</string>
+	<key>apertureStateDelay</key>
+	<string>hashLayerSpeed</string>
+	<key>consultativeRequestPosition</key>
+	<string>opaqueTweenBrightness</string>
+	<key>cubitFlyweightFeedback</key>
+	<string>directlyCoordinatorMomentum</string>
+	<key>effectWorkAlignment</key>
+	<string>providerKindHead</string>
+	<key>geometricAsyncSaturation</key>
+	<string>diversifiedSegueSpeed</string>
+	<key>notificationSinceAction</key>
+	<string>curveCycleColor</string>
+	<key>progressbarBeyondPlatform</key>
+	<string>histogramSystemHead</string>
+	<key>unaryPatternDepth</key>
+	<string>notificationUntilVar</string>
+</dict>
+</plist>

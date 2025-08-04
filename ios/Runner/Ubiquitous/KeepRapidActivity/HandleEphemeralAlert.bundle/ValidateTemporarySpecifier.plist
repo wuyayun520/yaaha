@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedStepHue</key>
+	<string>smallEquipmentBorder</string>
+	<key>grainModeDepth</key>
+	<string>widgetInsideVariable</string>
+	<key>rowThanAdapter</key>
+	<string>sizedboxActivityInset</string>
+	<key>sceneAboutStructure</key>
+	<string>retainedSingletonKind</string>
+	<key>segueObserverTint</key>
+	<string>normBeyondStage</string>
+</dict>
+</plist>

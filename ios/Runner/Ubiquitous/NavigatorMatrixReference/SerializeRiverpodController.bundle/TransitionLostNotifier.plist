@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChapterAlignment</key>
+	<string>collectionThroughType</string>
+	<key>awaitPlatformDirection</key>
+	<string>smallProviderSkewx</string>
+	<key>compositionalQueueSaturation</key>
+	<string>toolForValue</string>
+	<key>cursorStructureAcceleration</key>
+	<string>mapBesideScope</string>
+	<key>largeNavigatorSaturation</key>
+	<string>discardedCapacitiesCenter</string>
+	<key>parallelTransitionVelocity</key>
+	<string>cycleWithShape</string>
+	<key>storeParamDensity</key>
+	<string>paddingBesideInterpreter</string>
+	<key>transitionScopeStatus</key>
+	<string>transitionPerScope</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentNearPattern</key>
+	<string>taskInStyle</string>
+	<key>consumerFromVariable</key>
+	<string>bulletAndActivity</string>
+	<key>coordinatorMementoDepth</key>
+	<string>localizationPhaseKind</string>
+	<key>draggableStatelessBrightness</key>
+	<string>lostResponseAppearance</string>
+	<key>presenterAgainstMethod</key>
+	<string>tickerPrototypeTag</string>
+	<key>tappableResultStatus</key>
+	<string>widgetTaskSkewy</string>
+</dict>
+</plist>

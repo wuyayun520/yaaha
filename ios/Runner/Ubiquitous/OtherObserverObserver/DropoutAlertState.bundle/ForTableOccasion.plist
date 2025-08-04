@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorDespiteFacade</key>
+	<string>arithmeticUtilKind</string>
+	<key>granularControllerRight</key>
+	<string>cupertinoAnchorValidation</string>
+	<key>navigatorModeHue</key>
+	<string>sessionValueResponse</string>
+	<key>oldRouteIndex</key>
+	<string>projectionShapeInterval</string>
+</dict>
+</plist>

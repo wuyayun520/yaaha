@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPerCommand</key>
+	<string>fixedAssetValidation</string>
+	<key>coordinatorVariableDuration</key>
+	<string>loopFacadeCount</string>
+	<key>directDropdownbuttonContrast</key>
+	<string>streamStateRate</string>
+	<key>primarySignatureStyle</key>
+	<string>methodWithoutInterpreter</string>
+	<key>respectiveIntensityAlignment</key>
+	<string>resizableStatelessDistance</string>
+	<key>tabviewMediatorMomentum</key>
+	<string>chapterProcessDistance</string>
+</dict>
+</plist>

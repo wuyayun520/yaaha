@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModeBehavior</key>
+	<string>uniformCollectionSize</string>
+	<key>asyncEventCoord</key>
+	<string>buttonCycleRate</string>
+	<key>currentResponseInterval</key>
+	<string>positionedOrFramework</string>
+	<key>eagerButtonIndex</key>
+	<string>coordinatorActionBorder</string>
+	<key>enabledRouterPosition</key>
+	<string>integerInterpreterOffset</string>
+	<key>retainedConvolutionTransparency</key>
+	<string>nativeSwitchBound</string>
+	<key>streamFrameworkSize</key>
+	<string>concreteVectorDirection</string>
+	<key>transitionAboutTier</key>
+	<string>temporaryAspectOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedOperationDepth</key>
+	<string>nodeNearCycle</string>
+	<key>hyperbolicTransitionBorder</key>
+	<string>baseAroundAction</string>
+	<key>modulusInChain</key>
+	<string>dependencyAtObserver</string>
+	<key>standalonePaddingTag</key>
+	<string>marginDespiteParam</string>
+	<key>themeCycleTint</key>
+	<string>asyncStyleDistance</string>
+</dict>
+</plist>

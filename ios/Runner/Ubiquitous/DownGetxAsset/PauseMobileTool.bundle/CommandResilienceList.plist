@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintFromParameter</key>
+	<string>viewWithoutStyle</string>
+	<key>diffableStorageFrequency</key>
+	<string>positionByBridge</string>
+	<key>errorPlatformRotation</key>
+	<string>reusableTimerIndex</string>
+	<key>layoutAdapterAppearance</key>
+	<string>serviceAmongVar</string>
+	<key>utilAtScope</key>
+	<string>topicMementoDistance</string>
+</dict>
+</plist>

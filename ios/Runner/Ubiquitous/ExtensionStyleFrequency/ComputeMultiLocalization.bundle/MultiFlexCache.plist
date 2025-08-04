@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customProviderRate</key>
+	<string>certificatePhaseVelocity</string>
+	<key>documentBridgeBehavior</key>
+	<string>responseProxyResponse</string>
+	<key>elasticNormOrientation</key>
+	<string>responsivePointRotation</string>
+	<key>tablePerSystem</key>
+	<string>parallelActionInset</string>
+	<key>tableVarVisible</key>
+	<string>gesturedetectorOperationType</string>
+	<key>taskVarColor</key>
+	<string>entityPlatformScale</string>
+	<key>uniformInterfaceMomentum</key>
+	<string>clipperStructureCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentEnvironmentMode</key>
+	<string>toolOrSystem</string>
+	<key>localizationDespiteTier</key>
+	<string>certificateActivityTint</string>
+	<key>menuKindLeft</key>
+	<string>spriteTypeBrightness</string>
+	<key>primarySlashTop</key>
+	<string>sinkActionShade</string>
+	<key>providerBridgeTail</key>
+	<string>frameStrategyOffset</string>
+	<key>reducerPrototypeBound</key>
+	<string>activatedBoxBrightness</string>
+	<key>visiblePresenterVelocity</key>
+	<string>sliderMementoOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStageCoord</key>
+	<string>nativeCoordinatorLocation</string>
+	<key>assetObserverVisibility</key>
+	<string>collectionPhaseSpacing</string>
+	<key>backwardSwitchSaturation</key>
+	<string>callbackCommandInset</string>
+	<key>displayableSegueTag</key>
+	<string>disabledTechniqueLocation</string>
+	<key>dropdownbuttonCommandSpacing</key>
+	<string>functionalDecorationLocation</string>
+	<key>modelParameterOrientation</key>
+	<string>resultAtBuffer</string>
+	<key>repositoryBridgeInteraction</key>
+	<string>resolverBeyondCycle</string>
+</dict>
+</plist>

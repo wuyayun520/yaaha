@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionModeOpacity</key>
+	<string>symbolFlyweightResponse</string>
+	<key>animationNearScope</key>
+	<string>baselineStyleState</string>
+	<key>basicAllocatorMode</key>
+	<string>providerPhaseSpeed</string>
+	<key>projectionAdapterAppearance</key>
+	<string>compositionAtAdapter</string>
+	<key>shaderAboutStrategy</key>
+	<string>ternaryProxyOrigin</string>
+	<key>specifyPopupResponse</key>
+	<string>associatedDropdownbuttonMode</string>
+	<key>storyboardLikePrototype</key>
+	<string>numericalRoleCenter</string>
+	<key>streamCommandAppearance</key>
+	<string>frameViaInterpreter</string>
+	<key>toolUntilLevel</key>
+	<string>stackJobValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionWorkStyle</key>
+	<string>smallAppbarCoord</string>
+	<key>cupertinoKindTail</key>
+	<string>brushAroundEnvironment</string>
+	<key>featureActivityBound</key>
+	<string>histogramContainCommand</string>
+	<key>frameBridgeInteraction</key>
+	<string>animationBufferColor</string>
+	<key>newestTaskOrigin</key>
+	<string>scaleOutsideComposite</string>
+</dict>
+</plist>

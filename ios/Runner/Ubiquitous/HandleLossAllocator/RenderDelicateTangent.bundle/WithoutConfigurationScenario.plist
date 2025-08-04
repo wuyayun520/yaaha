@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedResultValidation</key>
+	<string>metadataDuringPlatform</string>
+	<key>basicQueueName</key>
+	<string>observerFromProxy</string>
+	<key>callbackStageSaturation</key>
+	<string>collectionPrototypeDirection</string>
+	<key>desktopSpineTension</key>
+	<string>mutableTransformerMomentum</string>
+	<key>loopShapeAppearance</key>
+	<string>bulletDecoratorVelocity</string>
+	<key>semanticSensorDensity</key>
+	<string>stepLayerRotation</string>
+	<key>transitionValueOpacity</key>
+	<string>routerNumberDuration</string>
+</dict>
+</plist>

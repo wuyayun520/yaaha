@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicObserverOpacity</key>
+	<string>actionWithMediator</string>
+	<key>localConstraintSkewy</key>
+	<string>storeBeyondStage</string>
+	<key>permanentExtensionMargin</key>
+	<string>metadataBufferInterval</string>
+	<key>persistentCurvePadding</key>
+	<string>permanentRemainderTail</string>
+	<key>richtextFromValue</key>
+	<string>hardSliderRight</string>
+	<key>taskOfComposite</key>
+	<string>errorAdapterBrightness</string>
+</dict>
+</plist>

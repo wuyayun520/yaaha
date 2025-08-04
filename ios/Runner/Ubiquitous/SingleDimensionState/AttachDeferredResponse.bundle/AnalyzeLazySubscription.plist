@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVersusObserver</key>
+	<string>cursorOfProcess</string>
+	<key>coordinatorAndOperation</key>
+	<string>cosineDuringOperation</string>
+	<key>cubitFromObserver</key>
+	<string>interpolationProcessDistance</string>
+	<key>euclideanSwiftDistance</key>
+	<string>getxInsideSingleton</string>
+	<key>expandedMementoSaturation</key>
+	<string>streamForPattern</string>
+	<key>managerVersusAction</key>
+	<string>precisionProxySkewx</string>
+	<key>petStructureKind</key>
+	<string>scaffoldWithoutState</string>
+	<key>statelessAnchorOrientation</key>
+	<string>adaptiveGraphFrequency</string>
+</dict>
+</plist>

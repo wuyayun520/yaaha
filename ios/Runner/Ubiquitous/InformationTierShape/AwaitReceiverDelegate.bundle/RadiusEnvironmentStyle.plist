@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionVisitorDepth</key>
+	<string>statelessStrategyLocation</string>
+	<key>timerLevelInterval</key>
+	<string>loopVersusMemento</string>
+	<key>variantAsForm</key>
+	<string>storyboardChainTint</string>
+</dict>
+</plist>

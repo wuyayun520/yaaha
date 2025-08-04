@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFormInterval</key>
+	<string>intuitiveStackBottom</string>
+	<key>ignoredTimerTail</key>
+	<string>subsequentTransitionAcceleration</string>
+	<key>navigationLikeFunction</key>
+	<string>basicRowSkewy</string>
+	<key>providerSystemHue</key>
+	<string>commandViaFacade</string>
+	<key>tensorGemTail</key>
+	<string>subscriptionStructureAppearance</string>
+	<key>usageLikeVariable</key>
+	<string>numericalVectorPadding</string>
+</dict>
+</plist>

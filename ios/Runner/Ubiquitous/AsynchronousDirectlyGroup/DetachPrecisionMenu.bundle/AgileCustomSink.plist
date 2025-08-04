@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleTypeMargin</key>
+	<string>widgetNearFramework</string>
+	<key>decorationContainValue</key>
+	<string>segmentTypeLeft</string>
+	<key>menuSingletonRight</key>
+	<string>protectedCompleterShape</string>
+	<key>robustSegmentValidation</key>
+	<string>standaloneAsyncOpacity</string>
+	<key>subscriptionIncludeContext</key>
+	<string>effectPrototypeStatus</string>
+</dict>
+</plist>

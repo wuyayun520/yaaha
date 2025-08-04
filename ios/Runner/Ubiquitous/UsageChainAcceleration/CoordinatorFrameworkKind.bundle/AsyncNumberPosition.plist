@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAgainstValue</key>
+	<string>publicDependencyHead</string>
+	<key>grainPrototypeVisibility</key>
+	<string>diffableStreamAcceleration</string>
+	<key>smallResponseCount</key>
+	<string>priorityCycleInterval</string>
+	<key>vectorFrameworkType</key>
+	<string>futureSinceMemento</string>
+</dict>
+</plist>

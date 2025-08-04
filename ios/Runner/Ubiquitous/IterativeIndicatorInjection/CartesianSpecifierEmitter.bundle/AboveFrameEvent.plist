@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notificationPerScope</key>
+	<string>matrixCommandState</string>
+	<key>positionedBeyondCycle</key>
+	<string>alignmentNearVariable</string>
+	<key>positionedThroughForm</key>
+	<string>progressbarOrValue</string>
+	<key>sensorActionSkewy</key>
+	<string>checklistTemplePressure</string>
+	<key>similarNormStyle</key>
+	<string>batchBesidePlatform</string>
+	<key>skirtProxySaturation</key>
+	<string>singleBufferTag</string>
+	<key>streamByMemento</key>
+	<string>adaptiveIsolateDistance</string>
+	<key>substantialShaderVelocity</key>
+	<string>retainedTextfieldValidation</string>
+	<key>tickerAsProcess</key>
+	<string>radioValueRotation</string>
+	<key>widgetAdapterMomentum</key>
+	<string>gateKindRate</string>
+</dict>
+</plist>

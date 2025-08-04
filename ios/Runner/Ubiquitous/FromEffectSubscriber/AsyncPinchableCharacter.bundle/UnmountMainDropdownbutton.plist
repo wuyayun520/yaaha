@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutTaskMargin</key>
+	<string>basicTabviewValidation</string>
+	<key>metadataInProxy</key>
+	<string>ephemeralDurationBound</string>
+	<key>observerProxyTag</key>
+	<string>injectionMethodOffset</string>
+	<key>optionWithoutMethod</key>
+	<string>workflowWithoutState</string>
+	<key>petWithoutStructure</key>
+	<string>missedDimensionBound</string>
+	<key>priorContainerIndex</key>
+	<string>queueNumberDistance</string>
+	<key>remainderForSingleton</key>
+	<string>signMethodSpacing</string>
+	<key>tappableSessionType</key>
+	<string>characterBeyondStyle</string>
+	<key>transitionViaPrototype</key>
+	<string>statefulStrategyKind</string>
+</dict>
+</plist>

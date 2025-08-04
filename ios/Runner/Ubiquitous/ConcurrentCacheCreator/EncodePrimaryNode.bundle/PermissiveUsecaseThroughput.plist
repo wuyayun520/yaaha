@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDespiteFramework</key>
+	<string>themeScopeTint</string>
+	<key>activatedCatalystContrast</key>
+	<string>intuitiveSceneHue</string>
+	<key>advancedThemeOpacity</key>
+	<string>monsterLikePattern</string>
+	<key>autoGestureVelocity</key>
+	<string>smallServiceOrientation</string>
+	<key>crucialSpecifierOrientation</key>
+	<string>customizedRouterHue</string>
+	<key>hashMediatorSkewy</key>
+	<string>precisionContainMode</string>
+	<key>layerChainSkewx</key>
+	<string>priorityFunctionSize</string>
+	<key>storageStateStatus</key>
+	<string>bitrateFunctionRotation</string>
+</dict>
+</plist>

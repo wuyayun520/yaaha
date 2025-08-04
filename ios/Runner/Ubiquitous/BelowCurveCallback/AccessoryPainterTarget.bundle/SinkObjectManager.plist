@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorThroughProcess</key>
+	<string>presenterIncludeVisitor</string>
+	<key>curveByVisitor</key>
+	<string>explicitMovementFeedback</string>
+	<key>customBlocVisibility</key>
+	<string>graphicAroundMediator</string>
+	<key>rapidSampleScale</key>
+	<string>sceneFromVisitor</string>
+	<key>requestParameterHue</key>
+	<string>frameAsEnvironment</string>
+	<key>requiredAssetColor</key>
+	<string>routeAmongStyle</string>
+	<key>segmentOutsideForm</key>
+	<string>painterIncludeTemple</string>
+	<key>storageJobResponse</key>
+	<string>convolutionSinceBridge</string>
+	<key>synchronousTitleType</key>
+	<string>equipmentCommandSize</string>
+	<key>viewVarDepth</key>
+	<string>optimizerWithoutVariable</string>
+</dict>
+</plist>

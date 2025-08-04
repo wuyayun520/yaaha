@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePatternStyle</key>
+	<string>displayableDecorationBorder</string>
+	<key>requestLayerOrigin</key>
+	<string>animationStageInterval</string>
+	<key>webReducerStatus</key>
+	<string>completionOutsideMode</string>
+</dict>
+</plist>

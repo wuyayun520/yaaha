@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFrameTheme</key>
+	<string>transitionMediatorDelay</string>
+	<key>consultativeConstraintRate</key>
+	<string>lazyBuilderOrientation</string>
+	<key>exceptionStructureRate</key>
+	<string>liteRectTop</string>
+	<key>imageForMethod</key>
+	<string>tappableStoreContrast</string>
+	<key>inactiveFeatureScale</key>
+	<string>toolCompositeOffset</string>
+	<key>musicLevelLocation</key>
+	<string>statefulCoordinatorResponse</string>
+	<key>swiftWorkDelay</key>
+	<string>canvasKindBottom</string>
+	<key>taskVisitorTag</key>
+	<string>diffableResolverPressure</string>
+</dict>
+</plist>

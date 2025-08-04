@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineWithoutEnvironment</key>
+	<string>chapterMementoVelocity</string>
+	<key>boxFunctionInteraction</key>
+	<string>checkboxFormContrast</string>
+	<key>bufferForFacade</key>
+	<string>gestureThroughShape</string>
+	<key>deferredRepositoryTail</key>
+	<string>fixedProfileKind</string>
+	<key>isolateFlyweightVelocity</key>
+	<string>sliderBesideValue</string>
+	<key>sortedReferenceVelocity</key>
+	<string>extensionBeyondProcess</string>
+	<key>transformerTempleContrast</key>
+	<string>adaptiveFactoryOrientation</string>
+</dict>
+</plist>

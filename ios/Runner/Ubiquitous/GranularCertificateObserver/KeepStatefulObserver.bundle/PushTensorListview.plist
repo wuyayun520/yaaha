@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesEnvironmentOffset</key>
+	<string>interactiveThemeFrequency</string>
+	<key>consumerWithoutStyle</key>
+	<string>streamTaskSize</string>
+	<key>immediateInjectionForce</key>
+	<string>tickerBridgeTransparency</string>
+	<key>integerFlyweightSpeed</key>
+	<string>gramAgainstFlyweight</string>
+	<key>kernelAsStyle</key>
+	<string>errorMediatorMode</string>
+	<key>transitionDecoratorSpacing</key>
+	<string>requestActivityFeedback</string>
+</dict>
+</plist>

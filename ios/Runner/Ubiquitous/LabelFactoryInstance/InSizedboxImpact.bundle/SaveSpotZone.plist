@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTextStatus</key>
+	<string>tappableAnimationShape</string>
+	<key>checkboxObserverBottom</key>
+	<string>histogramNumberFeedback</string>
+	<key>contractionCommandDepth</key>
+	<string>nibKindInterval</string>
+	<key>currentLocalizationShade</key>
+	<string>tickerStageBrightness</string>
+	<key>enabledVectorAcceleration</key>
+	<string>radiusCompositeName</string>
+	<key>keyScaffoldName</key>
+	<string>providerFromMemento</string>
+	<key>navigatorAmongMode</key>
+	<string>otherButtonMode</string>
+	<key>pinchableModulusFrequency</key>
+	<string>decorationFacadeDepth</string>
+	<key>pointSystemInterval</key>
+	<string>customizedLabelPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorObserverDepth</key>
+	<string>behaviorAroundFacade</string>
+	<key>boxshadowBesideCycle</key>
+	<string>completionAgainstComposite</string>
+	<key>easyIndicatorDensity</key>
+	<string>themeAboutStructure</string>
+	<key>graphicFrameworkResponse</key>
+	<string>catalystStrategyShape</string>
+	<key>heapNearStructure</key>
+	<string>batchExceptMethod</string>
+	<key>layerAroundValue</key>
+	<string>advancedStackAlignment</string>
+	<key>smartGesturedetectorInset</key>
+	<string>giftOfContext</string>
+	<key>statelessSessionVisibility</key>
+	<string>standaloneTitleSize</string>
+</dict>
+</plist>

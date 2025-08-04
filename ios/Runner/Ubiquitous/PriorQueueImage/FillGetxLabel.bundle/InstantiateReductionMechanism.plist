@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticChainRight</key>
+	<string>sceneInsideStage</string>
+	<key>canvasForShape</key>
+	<string>compositionalQueueValidation</string>
+	<key>interfaceAwayAction</key>
+	<string>vectorJobLeft</string>
+	<key>normLayerAlignment</key>
+	<string>previewVersusFlyweight</string>
+	<key>robustNavigationDelay</key>
+	<string>mediocreAllocatorSize</string>
+	<key>sceneActivityLocation</key>
+	<string>draggableTickerInteraction</string>
+</dict>
+</plist>

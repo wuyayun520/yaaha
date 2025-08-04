@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPerJob</key>
+	<string>optimizerVariableBorder</string>
+	<key>boxshadowUntilNumber</key>
+	<string>labelAgainstVar</string>
+	<key>curvePatternInteraction</key>
+	<string>movementKindFormat</string>
+	<key>inkwellTierFeedback</key>
+	<string>indicatorWithoutProcess</string>
+	<key>progressbarAwayNumber</key>
+	<string>mediaquerySingletonForce</string>
+	<key>progressbarDuringCycle</key>
+	<string>behaviorDuringType</string>
+	<key>queueOrStrategy</key>
+	<string>mediocreNodeContrast</string>
+	<key>scaffoldDecoratorInset</key>
+	<string>liteExponentState</string>
+	<key>secondPreviewFormat</key>
+	<string>methodVersusValue</string>
+</dict>
+</plist>

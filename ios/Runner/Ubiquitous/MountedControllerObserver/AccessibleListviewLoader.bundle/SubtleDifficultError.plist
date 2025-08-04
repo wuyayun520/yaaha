@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInterfaceFlags</key>
+	<string>hardButtonCenter</string>
+	<key>enabledRadioBound</key>
+	<string>currentFactoryOrientation</string>
+	<key>inkwellExceptFramework</key>
+	<string>usedTweenCenter</string>
+	<key>methodLevelKind</key>
+	<string>pointEnvironmentShape</string>
+	<key>originalRemainderOrientation</key>
+	<string>accordionLayerOffset</string>
+	<key>sequentialChapterCenter</key>
+	<string>cubitChainSize</string>
+	<key>standaloneCompleterTint</key>
+	<string>accordionTangentColor</string>
+</dict>
+</plist>

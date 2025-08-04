@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRowResponse</key>
+	<string>mobileBridgeAlignment</string>
+	<key>behaviorObserverOrientation</key>
+	<string>resolverFormStatus</string>
+	<key>pinchableConfigurationPressure</key>
+	<string>instructionContainScope</string>
+	<key>segmentShapeVisible</key>
+	<string>bufferOutsideStructure</string>
+</dict>
+</plist>

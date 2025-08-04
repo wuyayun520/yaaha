@@ -1,0 +1,373 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "RoadWarrior_Jake",
+      "name": "Jake Morrison",
+      "age": 28,
+      "location": "Los Angeles, California",
+      "bio": "Adventure seeker on two wheels 🏍️ | Harley Davidson enthusiast | Weekend warrior exploring the Pacific Coast Highway",
+      "follower_count": 1540,
+      "following_count": 823,
+      "profile_image": "assets/post/1/user.jpg",
+      "background_image": "assets/post/1/userBG.jpg",
+      "bike_model": "Harley Davidson Street Glide",
+      "riding_experience": "8 years",
+      "favorite_routes": ["Pacific Coast Highway", "Route 66", "Angeles Crest Highway"],
+      "posts": [
+        {
+          "id": 1,
+          "content": "Perfect Sunday ride along the coast! Nothing beats the feeling of freedom on the open road. The sunset views were absolutely incredible today 🌅 #MotorcycleLife #PacificCoastHighway #HarleyDavidson",
+          "images": ["assets/post/1/pic_1.jpg", "assets/post/1/pic_2.jpg", "assets/post/1/pic_3.jpg"],
+          "likes": 342,
+          "hashtags": ["#MotorcycleLife", "#PacificCoastHighway", "#HarleyDavidson", "#SunsetRide", "#Freedom"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "ThunderRider_Maria",
+      "name": "Maria Rodriguez",
+      "age": 32,
+      "location": "Austin, Texas",
+      "bio": "Track enthusiast 💨 | Ducati lover | Professional riding instructor | Living life with passion since 2015",
+      "follower_count": 2240,
+      "following_count": 445,
+      "profile_image": "assets/post/2/user.jpg",
+      "background_image": "assets/post/2/userBG.jpg",
+      "bike_model": "Ducati Panigale V4",
+      "riding_experience": "9 years",
+      "favorite_routes": ["Hill Country Loop", "Texas State Highway 16", "Circuit of the Americas"],
+      "posts": [
+        {
+          "id": 2,
+          "content": "Track day at COTA was absolutely insane! 🏁 Hit some personal best lap times on my Panigale. The adrenaline rush never gets old. Ready for the next session! #TrackDay #DucatiLife #CircuitOfTheAmericas",
+          "images": ["assets/post/2/pic_1.jpg", "assets/post/2/pic_2.jpg", "assets/post/2/pic_3.jpg", "assets/post/2/pic_4.jpg", "assets/post/2/pic_5.jpg"],
+          "likes": 567,
+          "hashtags": ["#TrackDay", "#DucatiLife", "#CircuitOfTheAmericas", "#SpeedDemon", "#PersonalBest"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "MountainCruiser_Alex",
+      "name": "Alex Thompson",
+      "age": 35,
+      "location": "Denver, Colorado",
+      "bio": "Mountain roads & fresh air ⛰️ | BMW adventure rider | Photographer capturing the journey | Elevation is my medication",
+      "follower_count": 1890,
+      "following_count": 612,
+      "profile_image": "assets/post/3/user.jpg",
+      "background_image": "assets/post/3/userBG.jpg",
+      "bike_model": "BMW R1250GS Adventure",
+      "riding_experience": "12 years",
+      "favorite_routes": ["Trail Ridge Road", "Independence Pass", "Mount Evans Scenic Byway"],
+      "posts": [
+        {
+          "id": 3,
+          "content": "Another epic ride through the Rockies! 🏔️ The BMW handled those mountain curves like a dream. At 11,000 feet elevation, both me and the bike were breathing heavy, but the views made it all worth it! #BMWAdventure #RockyMountains #ElevationGain",
+          "images": ["assets/post/3/pic_1.jpg", "assets/post/3/pic_2.jpg", "assets/post/3/pic_3.jpg"],
+          "likes": 445,
+          "hashtags": ["#BMWAdventure", "#RockyMountains", "#ElevationGain", "#MountainRiding", "#AdventureTouring"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "StreetKing_Tony",
+      "name": "Tony Chen",
+      "age": 26,
+      "location": "New York City, New York",
+      "bio": "Urban jungle navigator 🌆 | Yamaha R6 rider | Street photography enthusiast | Concrete canyons are my playground",
+      "follower_count": 3120,
+      "following_count": 289,
+      "profile_image": "assets/post/4/user.jpg",
+      "background_image": "assets/post/4/userBG.jpg",
+      "bike_model": "Yamaha YZF-R6",
+      "riding_experience": "6 years",
+      "favorite_routes": ["West Side Highway", "Brooklyn Bridge", "Central Park Loop"],
+      "posts": [
+        {
+          "id": 4,
+          "content": "Late night rides through the city that never sleeps 🌃 The R6 sounds incredible echoing through the concrete canyons. NYC traffic might be busy, but nothing beats the joy of riding through these iconic streets! #NYCRiding #YamahaR6 #UrbanRider",
+          "images": ["assets/post/4/pic_1.jpg", "assets/post/4/pic_2.jpg", "assets/post/4/pic_3.jpg"],
+          "likes": 789,
+          "hashtags": ["#NYCRiding", "#YamahaR6", "#UrbanRider", "#CityLife", "#ConcreteJungle"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "username": "DesertRacer_Sam",
+      "name": "Samantha Williams",
+      "age": 29,
+      "location": "Phoenix, Arizona",
+      "bio": "Desert storm chaser 🌵 | KTM Duke enthusiast | Off-road warrior | Heat doesn't stop me, it fuels me",
+      "follower_count": 1675,
+      "following_count": 734,
+      "profile_image": "assets/post/5/user.jpg",
+      "background_image": "assets/post/5/userBG.jpg",
+      "bike_model": "KTM 890 Duke R",
+      "riding_experience": "7 years",
+      "favorite_routes": ["Apache Trail", "Salt River Canyon", "Carefree Highway"],
+      "posts": [
+        {
+          "id": 5,
+          "content": "Desert sunrise ride before the heat kicks in! 🌄 105°F by noon but at 6am it's absolutely perfect. The KTM just devours these desert highways. Nothing like the silence of the Sonoran Desert broken only by the Duke's engine note 🏍️ #DesertRiding #KTMDuke #SunriseRide",
+          "images": ["assets/post/5/pic_1.jpg", "assets/post/5/pic_2.jpg", "assets/post/5/pic_3.jpg"],
+          "likes": 523,
+          "hashtags": ["#DesertRiding", "#KTMDuke", "#SunriseRide", "#ArizonaLife", "#SonoranDesert"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "username": "CoastalCruiser_Emma",
+      "name": "Emma Johnson",
+      "age": 31,
+      "location": "Seattle, Washington",
+      "bio": "Pacific Northwest explorer 🌲 | Triumph Bonneville rider | Coffee & curves enthusiast | Rain or shine, I ride",
+      "follower_count": 2890,
+      "following_count": 456,
+      "profile_image": "assets/post/6/user.jpg",
+      "background_image": "assets/post/6/userBG.jpg",
+      "bike_model": "Triumph Bonneville T120",
+      "riding_experience": "10 years",
+      "favorite_routes": ["Cascade Loop", "Hurricane Ridge", "Deception Pass Bridge"],
+      "posts": [
+        {
+          "id": 6,
+          "content": "Misty morning ride through the Cascades ☁️ Yeah, it's drizzling, but that's what makes the PNW magical! The Bonneville cuts through the fog like a dream. Stopped for the best coffee at a little mountain café - perfect fuel for more twisties ahead! ☕ #PNWRiding #TriumphBonneville #MistyMorning",
+          "images": ["assets/post/6/pic_1.jpg", "assets/post/6/pic_2.jpg", "assets/post/6/pic_3.jpg"],
+          "likes": 634,
+          "hashtags": ["#PNWRiding", "#TriumphBonneville", "#MistyMorning", "#CascadeLoop", "#CoffeeAndCurves"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "username": "VintageRider_Marcus",
+      "name": "Marcus Williams",
+      "age": 38,
+      "location": "Nashville, Tennessee",
+      "bio": "Classic bike collector 🏛️ | Indian Motorcycle devotee | Vintage soul on modern roads | Preserving motorcycle heritage one ride at a time",
+      "follower_count": 2150,
+      "following_count": 567,
+      "profile_image": "assets/post/7/user.jpg",
+      "background_image": "assets/post/7/userBG.jpg",
+      "bike_model": "Indian Scout Bobber",
+      "riding_experience": "15 years",
+      "favorite_routes": ["Natchez Trace Parkway", "Blue Ridge Parkway", "Tail of the Dragon"],
+      "posts": [
+        {
+          "id": 7,
+          "content": "Took the Scout out for a heritage ride through the Tennessee hills 🎸 There's something magical about riding a machine that carries decades of American motorcycle history. The rumble of that Thunder Stroke engine never gets old! #IndianMotorcycle #VintageVibes #TennesseeRiding",
+          "images": ["assets/post/7/pic_1.jpg", "assets/post/7/pic_2.jpg", "assets/post/7/pic_3.jpg"],
+          "likes": 423,
+          "hashtags": ["#IndianMotorcycle", "#VintageVibes", "#TennesseeRiding", "#AmericanHeritage", "#ClassicBikes"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "username": "SpeedQueen_Lisa",
+      "name": "Lisa Park",
+      "age": 27,
+      "location": "Miami, Florida",
+      "bio": "Kawasaki Ninja enthusiast 🥷 | Riding is my passion | Ocean breeze & smooth rides | Life's too short for boring bikes",
+      "follower_count": 3450,
+      "following_count": 234,
+      "profile_image": "assets/post/8/user.jpg",
+      "background_image": "assets/post/8/userBG.jpg",
+      "bike_model": "Kawasaki Ninja ZX-10R",
+      "riding_experience": "5 years",
+      "favorite_routes": ["Ocean Drive", "Seven Mile Bridge", "Alligator Alley"],
+      "posts": [
+        {
+          "id": 8,
+          "content": "Miami sunset rides are magical cruising along Ocean Drive 🌴 The Ninja handles beautifully, and who am I to deny her? Salt air, neon lights, and that sweet ZX-10R exhaust note - pure paradise! #KawasakiNinja #MiamiNights #RidingLife",
+          "images": ["assets/post/8/pic_1.jpg", "assets/post/8/pic_2.jpg", "assets/post/8/pic_3.jpg"],
+          "likes": 892,
+          "hashtags": ["#KawasakiNinja", "#MiamiNights", "#RidingLife", "#OceanDrive", "#FloridaRiding"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "username": "AdventureSeeker_Ryan",
+      "name": "Ryan O'Connor",
+      "age": 33,
+      "location": "Portland, Oregon",
+      "bio": "Off-road explorer 🌲 | Honda Africa Twin rider | Dirt roads are my highway | Adventure before comfort, always",
+      "follower_count": 1780,
+      "following_count": 890,
+      "profile_image": "assets/post/9/user.jpg",
+      "background_image": "assets/post/9/userBG.jpg",
+      "bike_model": "Honda Africa Twin Adventure Sports",
+      "riding_experience": "11 years",
+      "favorite_routes": ["Oregon Backcountry Discovery Route", "Mount Hood Loop", "Cascade Range Trails"],
+      "posts": [
+        {
+          "id": 9,
+          "content": "Deep into the Oregon wilderness where GPS signals die and adventure begins! 🏔️ The Africa Twin ate up 200 miles of fire roads like breakfast. Mud, rocks, river crossings - this is what the bike was born for! #HondaAfricaTwin #OffRoadAdventure #OregonBackcountry",
+          "images": ["assets/post/9/pic_1.jpg", "assets/post/9/pic_2.jpg", "assets/post/9/pic_3.jpg"],
+          "likes": 567,
+          "hashtags": ["#HondaAfricaTwin", "#OffRoadAdventure", "#OregonBackcountry", "#DirtRoads", "#AdventureTouring"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "username": "CruiserKing_Dave",
+      "name": "David Martinez",
+      "age": 42,
+      "location": "San Diego, California",
+      "bio": "Laid-back cruiser lifestyle 🌊 | Harley Street Bob rider | Sunset chaser | Low, slow, and steady wins the race",
+      "follower_count": 2340,
+      "following_count": 445,
+      "profile_image": "assets/post/10/user.jpg",
+      "background_image": "assets/post/10/userBG.jpg",
+      "bike_model": "Harley Davidson Street Bob",
+      "riding_experience": "18 years",
+      "favorite_routes": ["Pacific Coast Highway", "Sunrise Highway", "Palomar Mountain"],
+      "posts": [
+        {
+          "id": 10,
+          "content": "Perfect San Diego evening cruise down to Sunset Cliffs 🌅 The Street Bob and I have been doing this ritual for years. Sometimes the best rides aren't about speed - they're about soaking in the moment. #HarleyDavidson #SanDiegoSunset #CruiserLife",
+          "images": ["assets/post/10/pic_1.jpg", "assets/post/10/pic_2.jpg", "assets/post/10/pic_3.jpg"],
+          "likes": 445,
+          "hashtags": ["#HarleyDavidson", "#SanDiegoSunset", "#CruiserLife", "#SunsetCliffs", "#LaidBackRiding"]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "username": "TouringPro_Jennifer",
+      "name": "Jennifer Adams",
+      "age": 36,
+      "location": "Chicago, Illinois",
+      "bio": "Long-distance touring specialist 🛣️ | BMW K1600GT rider | Miles are my meditation | Comfort meets performance",
+      "follower_count": 1950,
+      "following_count": 623,
+      "profile_image": "assets/post/11/user.jpg",
+      "background_image": "assets/post/11/userBG.jpg",
+      "bike_model": "BMW K1600GT",
+      "riding_experience": "13 years",
+      "favorite_routes": ["Great Lakes Circle Tour", "Route 66", "Trans-America Trail"],
+      "posts": [
+        {
+          "id": 11,
+          "content": "1,200 miles in 2 days across the Midwest! 🗺️ The K1600GT is an absolute mile-eating machine. Heated grips, cruise control, and that silky-smooth inline-6 engine make even the longest days feel effortless. Chicago to Denver, here we come! #BMWTouring #LongDistance #GreatLakesTour",
+          "images": ["assets/post/11/pic_1.jpg", "assets/post/11/pic_2.jpg", "assets/post/11/pic_3.jpg"],
+          "likes": 378,
+          "hashtags": ["#BMWTouring", "#LongDistance", "#GreatLakesTour", "#MileEater", "#TouringLife"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "username": "SportTourer_Mike",
+      "name": "Michael Thompson",
+      "age": 30,
+      "location": "Atlanta, Georgia",
+      "bio": "Sport touring enthusiast 🏁 | Suzuki Hayabusa pilot | Scenic curves & long straights | Riding with purpose",
+      "follower_count": 2780,
+      "following_count": 356,
+      "profile_image": "assets/post/12/user.jpg",
+      "background_image": "assets/post/12/userBG.jpg",
+      "bike_model": "Suzuki Hayabusa",
+      "riding_experience": "9 years",
+      "favorite_routes": ["Tail of the Dragon", "Blue Ridge Parkway", "Cherohala Skyway"],
+      "posts": [
+        {
+          "id": 12,
+          "content": "The Busa and I conquered the Dragon's 318 curves today! 🐉 Those Appalachian mountains are perfect for this amazing Suzuki engineering. The perfect blend of sport bike precision and touring comfort. #SuzukiHayabusa #TailOfTheDragon #SportTouring",
+          "images": ["assets/post/12/pic_1.jpg", "assets/post/12/pic_2.jpg", "assets/post/12/pic_3.jpg", "assets/post/12/pic_4.jpg"],
+          "likes": 923,
+          "hashtags": ["#SuzukiHayabusa", "#TailOfTheDragon", "#SportTouring", "#318Curves", "#AppalachianMountains"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "username": "SkillRider_Carlos",
+      "name": "Carlos Rodriguez",
+      "age": 25,
+      "location": "Las Vegas, Nevada",
+      "bio": "Riding skills instructor 🤸‍♂️ | Yamaha MT-09 enthusiast | Safety is my priority | Teaching proper techniques always",
+      "follower_count": 4230,
+      "following_count": 189,
+      "profile_image": "assets/post/13/user.jpg",
+      "background_image": "assets/post/13/userBG.jpg",
+      "bike_model": "Yamaha MT-09",
+      "riding_experience": "7 years",
+      "favorite_routes": ["Las Vegas Strip", "Valley of Fire", "Red Rock Canyon"],
+      "posts": [
+        {
+          "id": 13,
+          "content": "Desert riding skills practice in controlled environment! 🔥 The MT-09's balance makes technique training enjoyable - check out this controlled practice session! Always remember: proper training, safety gear, and closed courses only. Education first! 🤘 #YamahaMT09 #RidingSkills #SafetyFirst",
+          "images": ["assets/post/13/pic_1.jpg"],
+          "video": "assets/post/13/video.mp4",
+          "likes": 1245,
+          "hashtags": ["#YamahaMT09", "#RidingSkills", "#SafetyFirst", "#ControlledPractice", "#RiderEducation"]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "username": "RetroRider_Sarah",
+      "name": "Sarah Mitchell",
+      "age": 34,
+      "location": "San Francisco, California",
+      "bio": "Vintage bike restorer 🔧 | Café racer enthusiast | Bringing classics back to life | Old school cool with modern soul",
+      "follower_count": 1680,
+      "following_count": 712,
+      "profile_image": "assets/post/14/user.jpg",
+      "background_image": "assets/post/14/userBG.jpg",
+      "bike_model": "Custom Café Racer (Honda CB750 base)",
+      "riding_experience": "12 years",
+      "favorite_routes": ["Highway 1", "Skyline Boulevard", "Mount Tamalpais"],
+      "posts": [
+        {
+          "id": 14,
+          "content": "Sunday morning café run through the SF hills on my custom CB750 café racer ☕ Six months of restoration work paying off with every twist of the throttle. There's nothing quite like the soul of a classic Honda inline-4! #CafeRacer #HondaCB750 #VintageMotorcycles",
+          "images": ["assets/post/14/pic_1.jpg"],
+          "likes": 567,
+          "hashtags": ["#CafeRacer", "#HondaCB750", "#VintageMotorcycles", "#CustomBuild", "#SanFranciscoRiding"]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "username": "PowerCruiser_Frank",
+      "name": "Frank Johnson",
+      "age": 45,
+      "location": "Dallas, Texas",
+      "bio": "Power cruiser devotee 💪 | Ducati Diavel rider | Muscle meets comfort | Texas-sized rides for Texas-sized dreams",
+      "follower_count": 2120,
+      "following_count": 445,
+      "profile_image": "assets/post/15/user.jpg",
+      "background_image": "assets/post/15/userBG.jpg",
+      "bike_model": "Ducati Diavel V4",
+      "riding_experience": "20 years",
+      "favorite_routes": ["Hill Country Loop", "Big Bend Scenic Loop", "Palo Duro Canyon"],
+      "posts": [
+        {
+          "id": 15,
+          "content": "Texas Hill Country never disappoints! 🤠 The Diavel V4 is the perfect marriage of cruiser comfort and superbike performance. 168hp of Italian fury wrapped in a laid-back riding position - that's how you do 500 miles in a day! #DucatiDiavel #TexasHillCountry #PowerCruiser",
+          "images": ["assets/post/15/pic_1.jpg"],
+          "likes": 445,
+          "hashtags": ["#DucatiDiavel", "#TexasHillCountry", "#PowerCruiser", "#ItalianMuscle", "#LongDistanceComfort"]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "generated_date": "2025-08-15",
+    "total_users": 15,
+    "regions_covered": ["California", "Texas", "Colorado", "New York", "Arizona", "Washington", "Tennessee", "Florida", "Oregon", "Illinois", "Georgia", "Nevada"],
+    "bike_brands": ["Harley Davidson", "Ducati", "BMW", "Yamaha", "KTM", "Triumph", "Indian", "Kawasaki", "Honda", "Suzuki"],
+    "content_types": ["images", "video"],
+    "riding_styles": ["Cruising", "Sport", "Adventure", "Touring", "Stunt", "Vintage", "Off-road", "Track", "Urban", "Desert"]
+  }
+} 

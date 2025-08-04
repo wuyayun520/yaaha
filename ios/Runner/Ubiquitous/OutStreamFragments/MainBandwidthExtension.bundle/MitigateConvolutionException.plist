@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCoordinatorOrigin</key>
+	<string>buttonLayerBehavior</string>
+	<key>constSingletonValidation</key>
+	<string>singletonContainStage</string>
+	<key>greatErrorFeedback</key>
+	<string>materialInteractorTop</string>
+	<key>gridFacadeInterval</key>
+	<string>animationInsideProcess</string>
+	<key>navigatorPatternHead</key>
+	<string>optionWithoutEnvironment</string>
+	<key>normalEffectFrequency</key>
+	<string>titleVariableBehavior</string>
+	<key>prioritySystemLocation</key>
+	<string>topicBySingleton</string>
+	<key>smallBoxResponse</key>
+	<string>rowCommandDelay</string>
+	<key>taskOfFunction</key>
+	<string>popupAgainstWork</string>
+	<key>visibleDurationTag</key>
+	<string>localObserverBehavior</string>
+</dict>
+</plist>

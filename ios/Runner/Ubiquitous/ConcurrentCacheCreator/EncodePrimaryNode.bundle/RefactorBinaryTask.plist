@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityPerOperation</key>
+	<string>resultWithForm</string>
+	<key>fixedAspectRotation</key>
+	<string>channelFlyweightScale</string>
+	<key>movementOutsideStage</key>
+	<string>finalUsageName</string>
+	<key>requiredUsecaseRate</key>
+	<string>commandLevelCount</string>
+	<key>rowScopeMomentum</key>
+	<string>unsortedScaffoldName</string>
+	<key>symmetricMaterialShape</key>
+	<string>statelessNearStructure</string>
+</dict>
+</plist>

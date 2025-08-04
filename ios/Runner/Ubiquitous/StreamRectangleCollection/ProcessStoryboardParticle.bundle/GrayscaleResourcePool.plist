@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerBridgeTop</key>
+	<string>factoryAdapterVisibility</string>
+	<key>graphPerPhase</key>
+	<string>sceneStrategyInset</string>
+	<key>invisibleArithmeticFlags</key>
+	<string>getxStrategyVisible</string>
+	<key>loopShapeEdge</key>
+	<string>statelessCaptionOrigin</string>
+	<key>materialParameterColor</key>
+	<string>hardSpriteTension</string>
+	<key>optimizerTaskPadding</key>
+	<string>mediaqueryNumberTint</string>
+	<key>protectedIndicatorDistance</key>
+	<string>customBuilderAcceleration</string>
+	<key>spriteFacadeStatus</key>
+	<string>asynchronousRouterRotation</string>
+	<key>tweenVarContrast</key>
+	<string>streamParameterSkewy</string>
+	<key>workflowWithKind</key>
+	<string>previewActivityAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnBeyondMemento</key>
+	<string>discardedAllocatorOrigin</string>
+	<key>delicateCapacitiesRate</key>
+	<string>dropdownbuttonActionInset</string>
+	<key>errorWithoutFramework</key>
+	<string>firstMobileTop</string>
+	<key>listviewVariablePadding</key>
+	<string>zoneFormBottom</string>
+	<key>navigatorCommandType</key>
+	<string>immediateLayoutFlags</string>
+</dict>
+</plist>

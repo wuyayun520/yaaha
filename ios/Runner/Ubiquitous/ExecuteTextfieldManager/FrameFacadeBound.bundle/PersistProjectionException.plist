@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartTaskDepth</key>
+	<string>gateByBuffer</string>
+	<key>clipperCyclePosition</key>
+	<string>entropyAgainstMode</string>
+	<key>notificationStrategyName</key>
+	<string>priorityValueDistance</string>
+	<key>sessionFacadeShape</key>
+	<string>taskAwaySystem</string>
+</dict>
+</plist>

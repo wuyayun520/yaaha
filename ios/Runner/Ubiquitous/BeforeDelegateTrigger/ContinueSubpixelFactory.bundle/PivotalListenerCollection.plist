@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStreamBottom</key>
+	<string>sizeNearProcess</string>
+	<key>bufferPatternPadding</key>
+	<string>standaloneResponseBottom</string>
+	<key>cubitFacadePosition</key>
+	<string>drawerAtStrategy</string>
+	<key>factoryJobDepth</key>
+	<string>displayablePlaybackInteraction</string>
+	<key>keyCapsuleStatus</key>
+	<string>directTransitionSpacing</string>
+	<key>largeResourceState</key>
+	<string>cubitPlatformRate</string>
+	<key>navigatorWithFramework</key>
+	<string>mediaNearLayer</string>
+	<key>numericalRadiusSize</key>
+	<string>composableSceneDistance</string>
+	<key>remainderObserverKind</key>
+	<string>queueVisitorTransparency</string>
+	<key>synchronousGroupBehavior</key>
+	<string>featureInContext</string>
+</dict>
+</plist>

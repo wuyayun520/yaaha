@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTabviewDelay</key>
+	<string>compositionalViewMargin</string>
+	<key>animationOutsideBuffer</key>
+	<string>sortedButtonPosition</string>
+	<key>asyncInterpreterRate</key>
+	<string>widgetForLevel</string>
+	<key>axisVisitorFormat</key>
+	<string>contractionWithVar</string>
+	<key>durationActivityOrigin</key>
+	<string>nextAllocatorRight</string>
+	<key>listviewStyleColor</key>
+	<string>autoRemainderOffset</string>
+</dict>
+</plist>

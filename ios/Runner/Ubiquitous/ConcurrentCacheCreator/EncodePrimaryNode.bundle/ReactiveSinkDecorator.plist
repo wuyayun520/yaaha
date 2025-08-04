@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerValueSkewy</key>
+	<string>otherStorageFrequency</string>
+	<key>awaitVersusBridge</key>
+	<string>asyncMethodSkewy</string>
+	<key>constraintDespiteStrategy</key>
+	<string>semanticSpriteMode</string>
+	<key>eventMementoInset</key>
+	<string>layoutChainForce</string>
+	<key>opaqueSignatureInset</key>
+	<string>routerMediatorPosition</string>
+	<key>segueOfProxy</key>
+	<string>challengeViaProcess</string>
+	<key>sizeContainVar</key>
+	<string>spineBeyondLayer</string>
+	<key>smartConfigurationDirection</key>
+	<string>histogramByPhase</string>
+</dict>
+</plist>

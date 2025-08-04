@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedFrameSpeed</key>
+	<string>intermediateListenerTop</string>
+	<key>layerLikeStage</key>
+	<string>permissiveChannelContrast</string>
+	<key>nextScrollAcceleration</key>
+	<string>alertActionDensity</string>
+	<key>reductionChainTail</key>
+	<string>customAnimationState</string>
+</dict>
+</plist>

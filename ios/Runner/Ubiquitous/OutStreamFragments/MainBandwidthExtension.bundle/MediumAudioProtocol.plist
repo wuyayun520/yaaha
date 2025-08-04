@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopLabelDelay</key>
+	<string>boxOrMemento</string>
+	<key>gesturedetectorAgainstPhase</key>
+	<string>liteTimerResponse</string>
+	<key>imageContainFacade</key>
+	<string>tappablePlaybackLocation</string>
+	<key>isolateTierPosition</key>
+	<string>backwardProjectionAcceleration</string>
+	<key>prismaticDimensionRate</key>
+	<string>labelNumberOrigin</string>
+	<key>semanticRowBehavior</key>
+	<string>aspectratioDuringInterpreter</string>
+	<key>stateThroughShape</key>
+	<string>usecaseIncludeFacade</string>
+	<key>statefulOutsideStyle</key>
+	<string>delegateProxyAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSpotInteraction</key>
+	<string>scrollStrategyRight</string>
+	<key>intermediateDropdownbuttonTheme</key>
+	<string>skinOperationOpacity</string>
+	<key>listenerThroughComposite</key>
+	<string>alertThroughDecorator</string>
+	<key>sampleWithoutBuffer</key>
+	<string>blocJobPressure</string>
+	<key>sessionCycleSaturation</key>
+	<string>mobileOffsetPosition</string>
+	<key>stampScopeBorder</key>
+	<string>interactiveTransformerEdge</string>
+	<key>storeBufferBorder</key>
+	<string>navigatorAgainstLevel</string>
+	<key>transformerOrFramework</key>
+	<string>accessibleRepositoryBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutBesideSystem</key>
+	<string>callbackFrameworkScale</string>
+	<key>menuAwayFunction</key>
+	<string>transitionByStrategy</string>
+	<key>movementWithWork</key>
+	<string>appbarVisitorVelocity</string>
+	<key>roleForStrategy</key>
+	<string>associatedHandlerBrightness</string>
+	<key>signBeyondNumber</key>
+	<string>rowStageTension</string>
+	<key>sophisticatedAppbarOffset</key>
+	<string>completionByLayer</string>
+</dict>
+</plist>

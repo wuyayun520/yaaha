@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanZoneBehavior</key>
+	<string>groupFromPattern</string>
+	<key>gridByStrategy</key>
+	<string>cellUntilBridge</string>
+	<key>reducerFacadeType</key>
+	<string>durationOrVar</string>
+	<key>retainedMobxBottom</key>
+	<string>alphaFormBorder</string>
+	<key>routerScopeKind</key>
+	<string>interactorPrototypeEdge</string>
+	<key>sinkAtAdapter</key>
+	<string>transformerPerWork</string>
+</dict>
+</plist>

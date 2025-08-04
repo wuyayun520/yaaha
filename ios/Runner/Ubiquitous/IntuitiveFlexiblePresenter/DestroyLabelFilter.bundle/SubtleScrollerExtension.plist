@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveFunctionFlags</key>
+	<string>enabledExponentBrightness</string>
+	<key>customSingletonBottom</key>
+	<string>curveStageShape</string>
+	<key>movementDespiteShape</key>
+	<string>desktopTickerVisible</string>
+	<key>permissiveChannelLeft</key>
+	<string>handlerFlyweightFlags</string>
+	<key>sophisticatedRadioStyle</key>
+	<string>nextEffectResponse</string>
+	<key>switchOrAction</key>
+	<string>geometricCapsuleInset</string>
+	<key>temporaryLoopRate</key>
+	<string>stateAtShape</string>
+</dict>
+</plist>

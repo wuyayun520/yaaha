@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayablePositionVelocity</key>
+	<string>presenterAgainstActivity</string>
+	<key>paddingViaContext</key>
+	<string>customCursorState</string>
+	<key>routeChainCount</key>
+	<string>alignmentByLayer</string>
+	<key>scrollableWidgetSkewy</key>
+	<string>specifyPriorityBottom</string>
+	<key>topicInsideStrategy</key>
+	<string>semanticCardResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPositionVelocity</key>
+	<string>cosineOutsideMode</string>
+	<key>borderOutsideFramework</key>
+	<string>menuBeyondBuffer</string>
+	<key>gateVarTint</key>
+	<string>uniqueHandlerDistance</string>
+	<key>grayscaleAmongVar</key>
+	<string>crudeMasterBottom</string>
+	<key>inactivePrecisionSaturation</key>
+	<string>textfieldAndChain</string>
+	<key>listenerAlongTask</key>
+	<string>finalResponseBorder</string>
+	<key>modalCycleResponse</key>
+	<string>controllerAlongActivity</string>
+	<key>timerLevelSkewx</key>
+	<string>rowActivityMargin</string>
+</dict>
+</plist>

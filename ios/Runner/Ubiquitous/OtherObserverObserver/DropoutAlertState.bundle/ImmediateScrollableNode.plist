@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>optimizerModeType</key>
+	<string>normActivityRight</string>
+	<key>serviceVariableDirection</key>
+	<string>compositionPrototypeState</string>
+	<key>sliderBufferDelay</key>
+	<string>sliderStrategyLeft</string>
+	<key>tangentDuringOperation</key>
+	<string>positionAroundLevel</string>
+</dict>
+</plist>

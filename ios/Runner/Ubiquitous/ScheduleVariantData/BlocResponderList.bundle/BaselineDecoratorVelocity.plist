@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDescriptionVisibility</key>
+	<string>protocolAboutContext</string>
+	<key>cellVariableMargin</key>
+	<string>staticCubitBehavior</string>
+	<key>concurrentGraphForce</key>
+	<string>usedTaskIndex</string>
+	<key>directListenerFrequency</key>
+	<string>autoMovementBound</string>
+	<key>fragmentOperationType</key>
+	<string>symbolObserverDirection</string>
+	<key>originalDurationBorder</key>
+	<string>threadCycleVisible</string>
+	<key>sessionWithoutCommand</key>
+	<string>injectionExceptComposite</string>
+	<key>unsortedRectTransparency</key>
+	<string>interfaceLayerSize</string>
+</dict>
+</plist>

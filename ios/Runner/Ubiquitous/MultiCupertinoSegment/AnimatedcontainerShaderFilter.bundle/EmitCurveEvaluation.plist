@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseAccessoryInteraction</key>
+	<string>gesturedetectorAgainstAction</string>
+	<key>difficultTabviewCoord</key>
+	<string>constraintDespiteBuffer</string>
+	<key>priorCompleterDistance</key>
+	<string>storeEnvironmentValidation</string>
+	<key>skirtDespiteShape</key>
+	<string>logScopeResponse</string>
+	<key>specifySpotValidation</key>
+	<string>geometricEntropyDuration</string>
+	<key>storyboardInsideStyle</key>
+	<string>layerBesidePlatform</string>
+	<key>widgetPhaseDirection</key>
+	<string>taskOrAdapter</string>
+</dict>
+</plist>

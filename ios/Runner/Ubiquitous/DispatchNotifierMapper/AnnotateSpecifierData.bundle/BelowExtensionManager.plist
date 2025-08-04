@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTextFeedback</key>
+	<string>equalizationAsEnvironment</string>
+	<key>frameOrWork</key>
+	<string>semanticBatchLocation</string>
+	<key>functionalMetadataVisible</key>
+	<string>frameAgainstVisitor</string>
+	<key>precisionEnvironmentSkewy</key>
+	<string>blocExceptSingleton</string>
+	<key>priorityOperationValidation</key>
+	<string>otherBaselineSpacing</string>
+	<key>taskOrStyle</key>
+	<string>navigationUntilValue</string>
+</dict>
+</plist>

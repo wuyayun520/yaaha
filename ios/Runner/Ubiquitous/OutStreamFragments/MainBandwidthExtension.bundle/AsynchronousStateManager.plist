@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioActivityDelay</key>
+	<string>brushUntilKind</string>
+	<key>deferredChecklistContrast</key>
+	<string>inheritedSignStyle</string>
+	<key>referenceFrameworkOrigin</key>
+	<string>movementValueDelay</string>
+	<key>scaffoldTierType</key>
+	<string>adaptiveTransformerAcceleration</string>
+	<key>vectorStageType</key>
+	<string>globalRequestRate</string>
+</dict>
+</plist>

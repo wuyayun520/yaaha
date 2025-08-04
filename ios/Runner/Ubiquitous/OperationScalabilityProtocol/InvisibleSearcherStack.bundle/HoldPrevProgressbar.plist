@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionVectorFormat</key>
+	<string>cupertinoUnaryInset</string>
+	<key>autoBufferInteraction</key>
+	<string>themeViaParameter</string>
+	<key>custompaintNumberHue</key>
+	<string>imperativeReducerOrientation</string>
+	<key>durationMementoColor</key>
+	<string>storageActivityAppearance</string>
+	<key>interfaceEnvironmentColor</key>
+	<string>builderParameterResponse</string>
+	<key>lazyLoopInset</key>
+	<string>topicPatternBehavior</string>
+	<key>mapVersusMethod</key>
+	<string>eagerTextSkewx</string>
+	<key>publicInstructionPadding</key>
+	<string>localConstraintTop</string>
+	<key>radioChainVisibility</key>
+	<string>managerActivityHead</string>
+	<key>resultWorkTint</key>
+	<string>lostRequestShape</string>
+</dict>
+</plist>

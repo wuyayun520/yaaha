@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalListenerColor</key>
+	<string>providerCycleBrightness</string>
+	<key>dependencyDespiteShape</key>
+	<string>routerAwayFacade</string>
+	<key>entityScopeBehavior</key>
+	<string>subscriptionLayerAlignment</string>
+	<key>inactiveDecorationDuration</key>
+	<string>gridviewAwayAdapter</string>
+	<key>reusableDocumentTail</key>
+	<string>subtleViewScale</string>
+	<key>rowThroughMethod</key>
+	<string>sharedButtonEdge</string>
+	<key>segueChainScale</key>
+	<string>associatedCompleterRate</string>
+</dict>
+</plist>

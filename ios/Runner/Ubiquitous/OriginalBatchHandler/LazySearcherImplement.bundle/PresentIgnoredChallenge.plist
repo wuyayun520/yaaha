@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstType</key>
+	<string>exceptionInsideFlyweight</string>
+	<key>contractionAmongMethod</key>
+	<string>robustTickerInterval</string>
+	<key>featureBeyondPattern</key>
+	<string>featureCycleValidation</string>
+	<key>gridTaskSkewx</key>
+	<string>chartShapeDelay</string>
+	<key>inheritedRepositoryRotation</key>
+	<string>eventInStyle</string>
+	<key>lostSensorDelay</key>
+	<string>bufferStrategyTransparency</string>
+	<key>resultModeOffset</key>
+	<string>movementOfShape</string>
+	<key>textureParamFeedback</key>
+	<string>concurrentRepositoryBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderWithFramework</key>
+	<string>observerForBuffer</string>
+	<key>containerAndStage</key>
+	<string>graphViaPhase</string>
+	<key>relationalPreviewDuration</key>
+	<string>streamAdapterSaturation</string>
+	<key>threadLevelEdge</key>
+	<string>tabbarNearPrototype</string>
+</dict>
+</plist>

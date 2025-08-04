@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedButtonAppearance</key>
+	<string>deferredDecorationName</string>
+	<key>featureNearFlyweight</key>
+	<string>sortedSkirtTop</string>
+	<key>ignoredResponseAppearance</key>
+	<string>temporaryEntitySaturation</string>
+	<key>queryAsCommand</key>
+	<string>tweenOutsideObserver</string>
+	<key>semanticEntityTail</key>
+	<string>builderOutsideObserver</string>
+	<key>toolBeyondCommand</key>
+	<string>sinkVisitorDelay</string>
+	<key>viewEnvironmentColor</key>
+	<string>stateBesideSingleton</string>
+</dict>
+</plist>

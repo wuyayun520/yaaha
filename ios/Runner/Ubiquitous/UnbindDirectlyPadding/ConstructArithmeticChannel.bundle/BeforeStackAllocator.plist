@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderModeRate</key>
+	<string>opaqueMenuColor</string>
+	<key>constraintAndAdapter</key>
+	<string>resourcePlatformFlags</string>
+	<key>permissiveIsolateAppearance</key>
+	<string>flexibleSpriteBehavior</string>
+	<key>pointVisitorEdge</key>
+	<string>exceptionObserverResponse</string>
+	<key>repositoryAsNumber</key>
+	<string>remainderInProcess</string>
+	<key>scrollableSkirtOrientation</key>
+	<string>listviewModeInset</string>
+</dict>
+</plist>

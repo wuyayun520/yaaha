@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureLayerOrientation</key>
+	<string>completerByLevel</string>
+	<key>extensionPhaseMode</key>
+	<string>containerForProcess</string>
+	<key>futureVisitorDelay</key>
+	<string>cupertinoViaAdapter</string>
+	<key>hierarchicalPageviewLocation</key>
+	<string>dialogsSinceWork</string>
+	<key>pivotalAsyncBound</key>
+	<string>ternaryStageSkewy</string>
+	<key>subsequentAsyncPressure</key>
+	<string>substantialTransitionResponse</string>
+</dict>
+</plist>

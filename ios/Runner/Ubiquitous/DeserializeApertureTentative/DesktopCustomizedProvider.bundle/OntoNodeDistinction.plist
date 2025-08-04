@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventFromMethod</key>
+	<string>nodeMethodSaturation</string>
+	<key>exponentByParam</key>
+	<string>primaryControllerSaturation</string>
+	<key>factoryFlyweightSize</key>
+	<string>publicNotificationLocation</string>
+	<key>mediocreTimerVisibility</key>
+	<string>themeFromMediator</string>
+	<key>mobileTempleState</key>
+	<string>previewPrototypeDuration</string>
+	<key>mobxFromPlatform</key>
+	<string>normalDrawerKind</string>
+	<key>numericalSpecifierPadding</key>
+	<string>widgetThroughJob</string>
+	<key>sampleAndFramework</key>
+	<string>invisibleZoneTension</string>
+	<key>storeBeyondCommand</key>
+	<string>usecaseForVariable</string>
+	<key>tickerFlyweightMomentum</key>
+	<string>curveFrameworkBrightness</string>
+</dict>
+</plist>

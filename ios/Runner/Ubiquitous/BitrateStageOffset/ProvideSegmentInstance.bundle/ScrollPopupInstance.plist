@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerForCycle</key>
+	<string>stampWithoutAdapter</string>
+	<key>managerAroundTask</key>
+	<string>singleEquipmentTransparency</string>
+	<key>resizableDecorationCenter</key>
+	<string>chartFromBridge</string>
+	<key>resolverForValue</key>
+	<string>resourceAroundVar</string>
+</dict>
+</plist>

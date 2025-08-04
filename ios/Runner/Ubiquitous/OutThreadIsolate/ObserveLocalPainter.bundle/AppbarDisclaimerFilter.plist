@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRequestTint</key>
+	<string>animatedcontainerModeValidation</string>
+	<key>binaryProcessContrast</key>
+	<string>cursorLayerOpacity</string>
+	<key>compositionalIntensityLocation</key>
+	<string>matrixCompositeDistance</string>
+	<key>queryTierFeedback</key>
+	<string>methodWithPlatform</string>
+</dict>
+</plist>

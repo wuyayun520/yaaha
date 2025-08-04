@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnIncludeBuffer</key>
+	<string>convolutionProxyFeedback</string>
+	<key>denseCurveOpacity</key>
+	<string>rapidRectInset</string>
+	<key>graphicForParameter</key>
+	<string>prevSkinBehavior</string>
+	<key>ignoredResourceOrientation</key>
+	<string>touchBufferOrigin</string>
+	<key>notificationJobInterval</key>
+	<string>granularDurationBorder</string>
+	<key>progressbarScopeRight</key>
+	<string>imageStructureOffset</string>
+	<key>routerBufferMode</key>
+	<string>newestInteractorDistance</string>
+	<key>spineNearState</key>
+	<string>typicalSingletonDuration</string>
+	<key>widgetTemplePosition</key>
+	<string>flexibleMediaqueryInterval</string>
+</dict>
+</plist>

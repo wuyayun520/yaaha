@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteAspectMode</key>
+	<string>arithmeticAlongAction</string>
+	<key>heapFlyweightFormat</key>
+	<string>convolutionPerLayer</string>
+	<key>hyperbolicReductionCoord</key>
+	<string>pageviewFromMode</string>
+	<key>memberModeCount</key>
+	<string>composableFragmentDistance</string>
+	<key>projectFromFacade</key>
+	<string>parallelSegueInterval</string>
+	<key>reactiveAwaitOrientation</key>
+	<string>sensorDuringProcess</string>
+	<key>semanticsStageFrequency</key>
+	<string>dedicatedSkirtResponse</string>
+	<key>sliderNearProcess</key>
+	<string>dropdownbuttonValueSize</string>
+</dict>
+</plist>

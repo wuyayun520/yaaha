@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartCompositeInterval</key>
+	<string>protocolSingletonSpacing</string>
+	<key>descriptionAlongJob</key>
+	<string>bitrateContextFeedback</string>
+	<key>layoutAlongKind</key>
+	<string>uniqueTimerCount</string>
+	<key>robustExpandedCount</key>
+	<string>transitionAroundStyle</string>
+	<key>tickerAgainstPhase</key>
+	<string>axisAsLayer</string>
+</dict>
+</plist>

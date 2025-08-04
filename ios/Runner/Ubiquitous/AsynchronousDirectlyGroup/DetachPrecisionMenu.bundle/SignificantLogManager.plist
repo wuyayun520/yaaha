@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAtContext</key>
+	<string>methodPerParam</string>
+	<key>curveDecoratorEdge</key>
+	<string>navigatorByParam</string>
+	<key>enabledConstraintDensity</key>
+	<string>axisViaBridge</string>
+	<key>flexibleNavigatorName</key>
+	<string>currentOffsetFormat</string>
+	<key>geometricStackOpacity</key>
+	<string>persistentSliderBrightness</string>
+	<key>multiplicationBufferAlignment</key>
+	<string>presenterScopeTop</string>
+	<key>otherProjectEdge</key>
+	<string>enabledCertificateRight</string>
+	<key>pinchableSinkAlignment</key>
+	<string>statefulMasterBound</string>
+	<key>statelessTaskTension</key>
+	<string>statelessShaderTail</string>
+</dict>
+</plist>

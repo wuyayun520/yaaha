@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelViaPlatform</key>
+	<string>inheritedScrollStatus</string>
+	<key>localImageOrientation</key>
+	<string>previewCompositeLeft</string>
+	<key>localizationAgainstBridge</key>
+	<string>remainderStateMode</string>
+	<key>mediocreTaskTail</key>
+	<string>compositionalRichtextMode</string>
+	<key>nextButtonOffset</key>
+	<string>movementUntilValue</string>
+	<key>statefulBridgeBrightness</key>
+	<string>navigationAdapterSkewx</string>
+</dict>
+</plist>

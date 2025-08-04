@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardBesideType</key>
+	<string>pinchableStepPosition</string>
+	<key>cupertinoLevelStyle</key>
+	<string>awaitContextLocation</string>
+	<key>dialogsThroughEnvironment</key>
+	<string>delegateActionDirection</string>
+	<key>elasticAssetBrightness</key>
+	<string>textureStateSkewx</string>
+	<key>featureEnvironmentOrientation</key>
+	<string>durationDecoratorFormat</string>
+	<key>metadataContainJob</key>
+	<string>signPlatformVelocity</string>
+	<key>opaquePreviewStyle</key>
+	<string>specifierJobOpacity</string>
+	<key>specifierPrototypeMargin</key>
+	<string>interactiveEntitySize</string>
+</dict>
+</plist>

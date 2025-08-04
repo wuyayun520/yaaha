@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredMemberShade</key>
+	<string>constraintForChain</string>
+	<key>keyPresenterKind</key>
+	<string>fixedContainerTransparency</string>
+	<key>multiplicationViaInterpreter</key>
+	<string>priorSinkOrigin</string>
+	<key>sortedScaffoldMargin</key>
+	<string>sinkBesideWork</string>
+	<key>statelessRadiusResponse</key>
+	<string>errorSinceValue</string>
+</dict>
+</plist>

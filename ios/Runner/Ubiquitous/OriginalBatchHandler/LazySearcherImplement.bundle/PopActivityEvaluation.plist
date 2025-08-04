@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerActivityTransparency</key>
+	<string>easyIsolateMomentum</string>
+	<key>grainVarLocation</key>
+	<string>chapterWithBuffer</string>
+	<key>localCompleterBehavior</key>
+	<string>grainVersusCommand</string>
+	<key>sliderVersusComposite</key>
+	<string>segueActivityTail</string>
+	<key>uniformEventBound</key>
+	<string>binaryInTask</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticFutureRate</key>
+	<string>observerBeyondCycle</string>
+	<key>immediateRowTop</key>
+	<string>futureUntilBuffer</string>
+	<key>notifierAtStyle</key>
+	<string>semanticSpineBehavior</string>
+	<key>originalSingletonTint</key>
+	<string>intuitiveRowBrightness</string>
+	<key>prevDependencyLocation</key>
+	<string>concurrentGraphShade</string>
+	<key>respectiveConstraintFrequency</key>
+	<string>vectorShapeSkewy</string>
+	<key>routeDecoratorResponse</key>
+	<string>sizeCycleIndex</string>
+	<key>smartManagerStyle</key>
+	<string>rowScopeInset</string>
+	<key>taskViaAdapter</key>
+	<string>respectiveDecorationAlignment</string>
+</dict>
+</plist>

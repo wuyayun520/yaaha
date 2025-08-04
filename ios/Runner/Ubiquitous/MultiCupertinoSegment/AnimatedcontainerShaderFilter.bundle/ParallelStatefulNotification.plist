@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStateTop</key>
+	<string>cursorPerFunction</string>
+	<key>decorationCommandResponse</key>
+	<string>ignoredSliderSkewx</string>
+	<key>errorLikeMediator</key>
+	<string>ephemeralSpriteTag</string>
+	<key>integerStageRotation</key>
+	<string>singleFactoryStyle</string>
+	<key>logOrTask</key>
+	<string>directlyIsolateSaturation</string>
+	<key>particleStyleAppearance</key>
+	<string>catalystWithOperation</string>
+	<key>queryTaskAppearance</key>
+	<string>mobxAgainstStage</string>
+	<key>scrollableLogFeedback</key>
+	<string>denseAnimationSpacing</string>
+</dict>
+</plist>

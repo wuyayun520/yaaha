@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderOutsideInterpreter</key>
+	<string>storagePlatformLeft</string>
+	<key>consumerParamInterval</key>
+	<string>diffableListenerShade</string>
+	<key>displayableListenerFlags</key>
+	<string>dimensionStageTint</string>
+	<key>effectWithMediator</key>
+	<string>exceptionModeAcceleration</string>
+	<key>eventPhaseTail</key>
+	<string>presenterNearLayer</string>
+	<key>mediocreCharacterBorder</key>
+	<string>priorAlphaCenter</string>
+	<key>menuProcessAcceleration</key>
+	<string>subscriptionProxySize</string>
+	<key>semanticEquipmentContrast</key>
+	<string>semanticActionTag</string>
+	<key>taskMediatorDistance</key>
+	<string>semanticKernelColor</string>
+</dict>
+</plist>

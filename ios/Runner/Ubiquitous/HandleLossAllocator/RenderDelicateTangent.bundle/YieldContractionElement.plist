@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCompositeRate</key>
+	<string>statelessAnchorPadding</string>
+	<key>certificateVersusVisitor</key>
+	<string>basicMaterialBrightness</string>
+	<key>custompaintKindSkewx</key>
+	<string>equalizationOutsideActivity</string>
+	<key>flexibleSwitchCenter</key>
+	<string>scrollablePopupContrast</string>
+	<key>graphAtVisitor</key>
+	<string>tabviewOrState</string>
+	<key>navigatorStateStyle</key>
+	<string>labelContainStage</string>
+	<key>staticControllerDelay</key>
+	<string>interfaceContextSpacing</string>
+	<key>synchronousTransformerType</key>
+	<string>cubeSingletonBehavior</string>
+</dict>
+</plist>

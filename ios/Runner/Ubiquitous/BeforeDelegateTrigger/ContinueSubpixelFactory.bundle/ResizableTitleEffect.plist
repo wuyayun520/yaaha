@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferModeBehavior</key>
+	<string>handlerLikePhase</string>
+	<key>dedicatedDescriptorTransparency</key>
+	<string>protectedCurveValidation</string>
+	<key>isolateParamMode</key>
+	<string>allocatorForCommand</string>
+	<key>mobxTaskSize</key>
+	<string>awaitAmongFacade</string>
+</dict>
+</plist>

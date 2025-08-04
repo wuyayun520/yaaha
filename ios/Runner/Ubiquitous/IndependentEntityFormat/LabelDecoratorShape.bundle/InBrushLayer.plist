@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBlocAlignment</key>
+	<string>fragmentLikeStyle</string>
+	<key>animatedAsyncInset</key>
+	<string>pivotalSingletonLeft</string>
+	<key>buttonStrategyEdge</key>
+	<string>standaloneExponentContrast</string>
+	<key>graphOutsideOperation</key>
+	<string>criticalEntropySkewy</string>
+	<key>immediateGesturedetectorBorder</key>
+	<string>activatedHandlerRate</string>
+	<key>petObserverRate</key>
+	<string>completionExceptInterpreter</string>
+	<key>primaryRectCoord</key>
+	<string>resolverDuringProxy</string>
+	<key>remainderTypeBound</key>
+	<string>statefulDurationDistance</string>
+	<key>tweenAtJob</key>
+	<string>textureVersusKind</string>
+</dict>
+</plist>

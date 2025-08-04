@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyInterpolationStyle</key>
+	<string>diffableCommandBorder</string>
+	<key>managerShapeInset</key>
+	<string>resolverCommandOffset</string>
+	<key>otherOperationIndex</key>
+	<string>textActivityPadding</string>
+	<key>signVariableBehavior</key>
+	<string>responsiveSceneScale</string>
+	<key>smartChannelTail</key>
+	<string>widgetSinceFunction</string>
+	<key>textureFacadeCount</key>
+	<string>coordinatorVarCenter</string>
+</dict>
+</plist>

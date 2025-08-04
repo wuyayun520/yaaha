@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveRectKind</key>
+	<string>delegateAroundObserver</string>
+	<key>methodInsideVar</key>
+	<string>liteViewForce</string>
+	<key>requiredErrorDelay</key>
+	<string>promiseFunctionEdge</string>
+	<key>spotThroughShape</key>
+	<string>heroOutsideForm</string>
+	<key>storyboardWithComposite</key>
+	<string>newestTransformerShape</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryProcessAppearance</key>
+	<string>cubitScopeSpacing</string>
+	<key>concurrentServiceAppearance</key>
+	<string>challengeAgainstActivity</string>
+	<key>descriptionLevelBound</key>
+	<string>usecaseLikeNumber</string>
+	<key>pinchableEffectCoord</key>
+	<string>radiusCycleFlags</string>
+	<key>providerSystemType</key>
+	<string>cupertinoQueueEdge</string>
+	<key>resizableCallbackEdge</key>
+	<string>storageAroundBuffer</string>
+	<key>staticIntensityPressure</key>
+	<string>accessoryAsFacade</string>
+	<key>textureAgainstBridge</key>
+	<string>nibOfVisitor</string>
+	<key>texturePerState</key>
+	<string>explicitContainerValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBaseOrientation</key>
+	<string>singleAccessoryTheme</string>
+	<key>decorationBufferDepth</key>
+	<string>rowAwayNumber</string>
+	<key>descriptorBesideStrategy</key>
+	<string>reusableGridFrequency</string>
+	<key>displayableScaffoldDistance</key>
+	<string>cubitForStage</string>
+	<key>entityBesideType</key>
+	<string>materialCacheSaturation</string>
+	<key>featureForStage</key>
+	<string>storageOperationPadding</string>
+	<key>interpolationIncludeContext</key>
+	<string>layerAwayProxy</string>
+	<key>persistentOptimizerOffset</key>
+	<string>radiusAndVar</string>
+	<key>tickerLikeTemple</key>
+	<string>standaloneTitleMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsWithComposite</key>
+	<string>swiftBesideComposite</string>
+	<key>commandNearFlyweight</key>
+	<string>shaderAsAdapter</string>
+	<key>constraintExceptCommand</key>
+	<string>directlyMovementTransparency</string>
+	<key>currentEffectMode</key>
+	<string>substantialActivityType</string>
+	<key>intensityDespiteObserver</key>
+	<string>rectBridgeBorder</string>
+	<key>nodeFunctionResponse</key>
+	<string>missionAtLevel</string>
+	<key>referenceAlongChain</key>
+	<string>skirtOrState</string>
+	<key>sceneMementoMode</key>
+	<string>skirtOrFramework</string>
+</dict>
+</plist>

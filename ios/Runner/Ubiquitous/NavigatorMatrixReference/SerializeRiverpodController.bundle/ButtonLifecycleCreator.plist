@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventKindContrast</key>
+	<string>imageOperationSaturation</string>
+	<key>hardCallbackSize</key>
+	<string>durationAgainstShape</string>
+	<key>modelTierTag</key>
+	<string>currentExpandedScale</string>
+	<key>providerAboutMethod</key>
+	<string>euclideanTangentFormat</string>
+	<key>reactiveSliderShape</key>
+	<string>mobileWithoutCycle</string>
+	<key>tensorInterfaceValidation</key>
+	<string>layoutLevelDuration</string>
+</dict>
+</plist>

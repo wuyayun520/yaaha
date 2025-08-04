@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelVersusCycle</key>
+	<string>mobxNumberVelocity</string>
+	<key>cubitThroughFramework</key>
+	<string>movementAlongSystem</string>
+	<key>oldStreamBorder</key>
+	<string>rectFrameworkBehavior</string>
+	<key>switchCommandScale</key>
+	<string>tappableListenerSkewy</string>
+	<key>temporaryGramAcceleration</key>
+	<string>custompaintExceptTier</string>
+</dict>
+</plist>

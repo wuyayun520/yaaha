@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseContainActivity</key>
+	<string>managerAboutFacade</string>
+	<key>callbackKindLocation</key>
+	<string>momentumNearDecorator</string>
+	<key>iconStateOpacity</key>
+	<string>mediumGradientSkewy</string>
+	<key>resourceTypeDepth</key>
+	<string>robustFlexHue</string>
+	<key>tablePerBridge</key>
+	<string>symbolSingletonBrightness</string>
+</dict>
+</plist>

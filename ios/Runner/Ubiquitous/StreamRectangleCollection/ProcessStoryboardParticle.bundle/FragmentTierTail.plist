@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAboutChain</key>
+	<string>axisParameterDirection</string>
+	<key>inactiveWidgetDepth</key>
+	<string>coordinatorOrAction</string>
+	<key>materialBridgeState</key>
+	<string>transitionAmongFramework</string>
+	<key>originalPlaybackLeft</key>
+	<string>oldTextfieldPadding</string>
+	<key>requiredVectorVisibility</key>
+	<string>deferredNavigatorAlignment</string>
+	<key>resourceDuringVisitor</key>
+	<string>mobxFromMediator</string>
+	<key>sensorPhaseCenter</key>
+	<string>symbolAroundMediator</string>
+	<key>specifierMediatorLocation</key>
+	<string>mobxCompositeSaturation</string>
+</dict>
+</plist>

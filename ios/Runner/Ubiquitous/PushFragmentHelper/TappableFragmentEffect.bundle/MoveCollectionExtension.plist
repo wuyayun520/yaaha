@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalLoopDirection</key>
+	<string>sharedStreamStyle</string>
+	<key>previewTaskValidation</key>
+	<string>persistentSpriteBound</string>
+	<key>profileExceptFramework</key>
+	<string>tickerInPlatform</string>
+	<key>protectedLabelShade</key>
+	<string>dimensionInsideChain</string>
+	<key>reducerStrategyValidation</key>
+	<string>notifierPatternBorder</string>
+	<key>subscriptionSystemVelocity</key>
+	<string>cursorNearAction</string>
+</dict>
+</plist>

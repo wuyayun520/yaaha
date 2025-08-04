@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseStageOffset</key>
+	<string>isolateAmongStrategy</string>
+	<key>cupertinoCapsuleOrientation</key>
+	<string>immediateAllocatorPosition</string>
+	<key>discardedOffsetVelocity</key>
+	<string>lastDurationPosition</string>
+	<key>modelPlatformBehavior</key>
+	<string>projectOrBuffer</string>
+	<key>positionedInComposite</key>
+	<string>activityShapeSpacing</string>
+	<key>sliderStageCount</key>
+	<string>storyboardFunctionSaturation</string>
+	<key>tensorGatePosition</key>
+	<string>webRowShape</string>
+</dict>
+</plist>

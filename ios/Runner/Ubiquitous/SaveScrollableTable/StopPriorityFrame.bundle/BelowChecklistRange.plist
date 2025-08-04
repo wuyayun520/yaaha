@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistAmongCycle</key>
+	<string>mutableAppbarVelocity</string>
+	<key>dependencyPerSingleton</key>
+	<string>sliderViaTier</string>
+	<key>frameAwayStyle</key>
+	<string>serviceChainShade</string>
+	<key>oldSemanticsTag</key>
+	<string>lossFormTop</string>
+	<key>viewTypeOrientation</key>
+	<string>seamlessActivityTop</string>
+</dict>
+</plist>

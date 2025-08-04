@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCycleOffset</key>
+	<string>observerWithStage</string>
+	<key>baselineContextAppearance</key>
+	<string>collectionThroughInterpreter</string>
+	<key>directInteractorInteraction</key>
+	<string>eventLevelDirection</string>
+	<key>grainStateInset</key>
+	<string>permissiveQueryPosition</string>
+	<key>inheritedPositionMode</key>
+	<string>allocatorAlongFlyweight</string>
+	<key>materialKernelTransparency</key>
+	<string>zoneDespiteProcess</string>
+	<key>primaryModelBorder</key>
+	<string>crucialDurationSkewx</string>
+	<key>resilientSignatureValidation</key>
+	<string>listenerProcessSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRepositoryRotation</key>
+	<string>deferredOffsetDelay</string>
+	<key>builderBeyondContext</key>
+	<string>opaqueAllocatorTail</string>
+	<key>directAppbarOpacity</key>
+	<string>bufferBeyondScope</string>
+	<key>logForFlyweight</key>
+	<string>interpolationAlongAdapter</string>
+	<key>previewAlongMediator</key>
+	<string>explicitPrecisionBound</string>
+</dict>
+</plist>

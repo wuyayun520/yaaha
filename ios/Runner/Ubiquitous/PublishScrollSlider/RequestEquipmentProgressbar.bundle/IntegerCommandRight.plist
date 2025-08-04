@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationKindRight</key>
+	<string>logarithmWithoutComposite</string>
+	<key>chartStrategyOrientation</key>
+	<string>statefulModeTransparency</string>
+	<key>constraintFromValue</key>
+	<string>beginnerEffectDepth</string>
+	<key>intuitivePlaybackAcceleration</key>
+	<string>entropyAdapterTransparency</string>
+</dict>
+</plist>

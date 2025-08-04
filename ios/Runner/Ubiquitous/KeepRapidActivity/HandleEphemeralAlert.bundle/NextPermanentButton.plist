@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectKindFlags</key>
+	<string>sessionPerActivity</string>
+	<key>beginnerButtonCenter</key>
+	<string>effectChainAcceleration</string>
+	<key>cardNumberVelocity</key>
+	<string>lostAllocatorShade</string>
+	<key>nativeIndicatorDepth</key>
+	<string>navigatorBesideWork</string>
+	<key>rapidSwiftHue</key>
+	<string>imperativeScreenValidation</string>
+	<key>singleCubitTop</key>
+	<string>accessibleTitleHead</string>
+</dict>
+</plist>

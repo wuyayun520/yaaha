@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterLayerDelay</key>
+	<string>resolverAwayStrategy</string>
+	<key>navigatorChainState</key>
+	<string>oldNavigatorShape</string>
+	<key>presenterInEnvironment</key>
+	<string>instructionAgainstComposite</string>
+	<key>previewAsLayer</key>
+	<string>listviewPatternAppearance</string>
+	<key>projectFlyweightInteraction</key>
+	<string>immediateInkwellOrigin</string>
+	<key>sharedRouteTop</key>
+	<string>methodAndProxy</string>
+	<key>streamFormMargin</key>
+	<string>decorationParameterPadding</string>
+</dict>
+</plist>

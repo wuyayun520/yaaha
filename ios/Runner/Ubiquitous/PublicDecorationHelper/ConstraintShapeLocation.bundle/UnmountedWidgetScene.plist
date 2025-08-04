@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOperationBound</key>
+	<string>mutableColumnValidation</string>
+	<key>composableExponentOffset</key>
+	<string>secondRowMode</string>
+	<key>decorationShapeRight</key>
+	<string>significantCompleterBehavior</string>
+	<key>indicatorViaProcess</key>
+	<string>multiTextRight</string>
+	<key>localizationTierTag</key>
+	<string>immediateDecorationCenter</string>
+	<key>materialCacheFlags</key>
+	<string>positionThanInterpreter</string>
+	<key>presenterPlatformBorder</key>
+	<string>durationScopeScale</string>
+	<key>routerFacadeVisible</key>
+	<string>granularFrameShape</string>
+	<key>semanticButtonAppearance</key>
+	<string>animationStyleShape</string>
+	<key>tickerOfInterpreter</key>
+	<string>unsortedSliderOpacity</string>
+</dict>
+</plist>

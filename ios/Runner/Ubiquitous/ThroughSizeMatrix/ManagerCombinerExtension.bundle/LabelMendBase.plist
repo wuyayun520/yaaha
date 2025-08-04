@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableScalePadding</key>
+	<string>otherRowBehavior</string>
+	<key>offsetAtState</key>
+	<string>prismaticStateTransparency</string>
+	<key>persistentColumnTag</key>
+	<string>interfaceForBuffer</string>
+	<key>semanticsOrStage</key>
+	<string>declarativeResourcePadding</string>
+	<key>tabbarTierState</key>
+	<string>alertLevelEdge</string>
+</dict>
+</plist>

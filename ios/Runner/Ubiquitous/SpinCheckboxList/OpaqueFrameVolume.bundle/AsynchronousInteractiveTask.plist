@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedUsageShape</key>
+	<string>mediocrePlaybackFrequency</string>
+	<key>constTextureMargin</key>
+	<string>sizeNearPattern</string>
+	<key>controllerAtBuffer</key>
+	<string>chapterWithoutCycle</string>
+	<key>masterStyleSkewx</key>
+	<string>accessibleSpecifierSaturation</string>
+	<key>opaqueHistogramDirection</key>
+	<string>assetModeBorder</string>
+	<key>otherSliderVisibility</key>
+	<string>reducerBesidePrototype</string>
+	<key>requiredChallengeMargin</key>
+	<string>consumerOutsideObserver</string>
+	<key>statelessRepositoryTransparency</key>
+	<string>layoutVariableShape</string>
+	<key>subscriptionShapeShape</key>
+	<string>asynchronousShaderContrast</string>
+</dict>
+</plist>

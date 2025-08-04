@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryModeDelay</key>
+	<string>streamAlongFramework</string>
+	<key>characterFrameworkState</key>
+	<string>bufferBesideLayer</string>
+	<key>commandVarBorder</key>
+	<string>axisViaAction</string>
+	<key>composableDurationStyle</key>
+	<string>intermediateDialogsTop</string>
+	<key>entityProxyStyle</key>
+	<string>easyUtilCenter</string>
+	<key>fusedToolResponse</key>
+	<string>utilContainCycle</string>
+	<key>sustainableLayoutAcceleration</key>
+	<string>bulletInsideMemento</string>
+</dict>
+</plist>

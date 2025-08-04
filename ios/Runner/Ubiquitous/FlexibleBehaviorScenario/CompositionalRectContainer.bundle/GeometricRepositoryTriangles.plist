@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationScopeRotation</key>
+	<string>directErrorDistance</string>
+	<key>enabledExpandedShape</key>
+	<string>specifyResolverName</string>
+	<key>lazyStatelessContrast</key>
+	<string>intuitiveGraphicDensity</string>
+	<key>resolverChainName</key>
+	<string>activeGraphValidation</string>
+	<key>storeShapeSaturation</key>
+	<string>viewAroundTier</string>
+</dict>
+</plist>

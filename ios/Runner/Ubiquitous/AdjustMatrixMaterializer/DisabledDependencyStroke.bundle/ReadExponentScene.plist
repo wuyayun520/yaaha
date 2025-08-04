@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionSystemFrequency</key>
+	<string>uniqueInterfaceAppearance</string>
+	<key>enabledLayerSpacing</key>
+	<string>grayscaleAroundMode</string>
+	<key>isolateOfSingleton</key>
+	<string>buttonLikeTask</string>
+	<key>labelNearAdapter</key>
+	<string>publicLabelMode</string>
+	<key>modelVariableName</key>
+	<string>requestOrVisitor</string>
+	<key>sinkContainProxy</key>
+	<string>injectionVarLeft</string>
+	<key>workflowStageSpacing</key>
+	<string>elasticMetadataKind</string>
+</dict>
+</plist>

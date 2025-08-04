@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCommandHue</key>
+	<string>localizationByPhase</string>
+	<key>draggableGrayscaleFormat</key>
+	<string>resourceLikeStructure</string>
+	<key>heapOperationVisible</key>
+	<string>gridThroughAction</string>
+	<key>lostSpriteColor</key>
+	<string>streamActionOrigin</string>
+	<key>mobxNumberRight</key>
+	<string>cubitFlyweightKind</string>
+	<key>oldInkwellDensity</key>
+	<string>statelessCoordinatorRotation</string>
+	<key>popupTypeDistance</key>
+	<string>descriptionKindTop</string>
+	<key>similarNormHue</key>
+	<string>riverpodMementoTop</string>
+</dict>
+</plist>

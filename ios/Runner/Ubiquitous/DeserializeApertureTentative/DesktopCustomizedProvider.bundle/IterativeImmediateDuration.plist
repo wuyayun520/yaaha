@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocModeShape</key>
+	<string>queryShapeFeedback</string>
+	<key>bulletObserverOrigin</key>
+	<string>priorButtonRate</string>
+	<key>capsuleAgainstTask</key>
+	<string>widgetAndVar</string>
+	<key>decorationFacadeColor</key>
+	<string>invisibleSpineVisibility</string>
+	<key>nativeMethodContrast</key>
+	<string>tweenThanMemento</string>
+	<key>reducerFromMode</key>
+	<string>subsequentRowBrightness</string>
+	<key>unsortedCosineValidation</key>
+	<string>descriptionTaskTint</string>
+</dict>
+</plist>

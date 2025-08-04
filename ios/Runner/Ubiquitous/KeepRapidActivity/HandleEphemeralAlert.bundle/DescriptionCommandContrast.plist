@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerInsideProxy</key>
+	<string>eventAlongParam</string>
+	<key>optimizerPrototypeAppearance</key>
+	<string>cupertinoModulusAcceleration</string>
+	<key>uniformReducerOrientation</key>
+	<string>resilientWidgetState</string>
+</dict>
+</plist>

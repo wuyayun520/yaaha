@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePlaybackAlignment</key>
+	<string>normalEventAppearance</string>
+	<key>explicitErrorInteraction</key>
+	<string>customizedRectBorder</string>
+	<key>gridviewStyleTheme</key>
+	<string>equipmentOperationCount</string>
+	<key>intensityTypeVisibility</key>
+	<string>aspectPerBuffer</string>
+	<key>logWithoutParam</key>
+	<string>blocAmongTier</string>
+	<key>multiplicationVisitorAppearance</key>
+	<string>reactiveNibAppearance</string>
+	<key>responsiveRectScale</key>
+	<string>axisThanBridge</string>
+	<key>techniqueEnvironmentBrightness</key>
+	<string>denseBrushAlignment</string>
+	<key>temporaryInteractorTransparency</key>
+	<string>reusableBulletDistance</string>
+</dict>
+</plist>

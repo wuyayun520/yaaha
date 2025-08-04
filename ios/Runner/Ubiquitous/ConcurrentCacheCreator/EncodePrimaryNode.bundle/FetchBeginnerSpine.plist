@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOperationSkewy</key>
+	<string>titleOrScope</string>
+	<key>builderParamPosition</key>
+	<string>euclideanInterfaceSize</string>
+	<key>capsuleInProcess</key>
+	<string>disparateAnchorAcceleration</string>
+	<key>dialogsSingletonAlignment</key>
+	<string>memberFormAcceleration</string>
+	<key>inheritedCardEdge</key>
+	<string>presenterLevelMargin</string>
+	<key>particleShapeSkewy</key>
+	<string>nativeMobxState</string>
+	<key>resultOutsideFlyweight</key>
+	<string>enabledSessionEdge</string>
+	<key>subtleRichtextFormat</key>
+	<string>routeOperationBorder</string>
+</dict>
+</plist>

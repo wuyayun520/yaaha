@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxUntilParam</key>
+	<string>specifyCubeKind</string>
+	<key>commandStyleFormat</key>
+	<string>entityInterpreterState</string>
+	<key>dynamicIntensityValidation</key>
+	<string>animatedCubitDirection</string>
+	<key>eagerCubitAppearance</key>
+	<string>musicOfPlatform</string>
+	<key>modulusModeRight</key>
+	<string>ternaryAsNumber</string>
+	<key>sliderWithoutEnvironment</key>
+	<string>textfieldPlatformAlignment</string>
+	<key>tickerPlatformColor</key>
+	<string>gestureActionRight</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisByTier</key>
+	<string>menuVarOpacity</string>
+	<key>completerIncludeScope</key>
+	<string>checklistFrameworkTop</string>
+	<key>fusedSliderInteraction</key>
+	<string>scaleAroundStrategy</string>
+	<key>imperativeServiceDepth</key>
+	<string>extensionAndDecorator</string>
+	<key>intuitiveVectorTail</key>
+	<string>grayscaleBridgeAcceleration</string>
+	<key>queryMediatorResponse</key>
+	<string>optionAsContext</string>
+	<key>textureBufferFrequency</key>
+	<string>backwardRowLeft</string>
+	<key>zoneEnvironmentPressure</key>
+	<string>cartesianAnimatedcontainerTop</string>
+</dict>
+</plist>

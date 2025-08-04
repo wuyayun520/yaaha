@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerPrototypeDuration</key>
+	<string>cellBufferAcceleration</string>
+	<key>functionalArithmeticLeft</key>
+	<string>dependencyVersusStructure</string>
+	<key>layoutContextColor</key>
+	<string>gridviewByStyle</string>
+	<key>normSingletonShade</key>
+	<string>coordinatorSystemHue</string>
+	<key>optimizerContainObserver</key>
+	<string>routerOperationType</string>
+	<key>smallMenuValidation</key>
+	<string>providerCommandSpeed</string>
+	<key>spineWithoutBridge</key>
+	<string>managerParamName</string>
+</dict>
+</plist>

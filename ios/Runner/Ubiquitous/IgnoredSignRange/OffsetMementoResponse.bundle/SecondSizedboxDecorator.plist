@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileTransitionOrientation</key>
+	<string>listviewFromPattern</string>
+	<key>observerLikeType</key>
+	<string>unsortedEffectDelay</string>
+	<key>permanentTableForce</key>
+	<string>associatedRectOpacity</string>
+	<key>resourceInsideType</key>
+	<string>animationAsAdapter</string>
+	<key>streamInsideScope</key>
+	<string>priorBoxTop</string>
+	<key>textureAdapterEdge</key>
+	<string>nodeAmongPhase</string>
+	<key>toolInsideForm</key>
+	<string>capacitiesActivityBound</string>
+	<key>tweenNearMode</key>
+	<string>presenterProxyInterval</string>
+</dict>
+</plist>

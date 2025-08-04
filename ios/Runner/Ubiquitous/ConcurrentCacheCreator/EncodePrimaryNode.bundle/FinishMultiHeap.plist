@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderIncludeCycle</key>
+	<string>coordinatorOperationCount</string>
+	<key>chartDuringShape</key>
+	<string>intensityInterpreterRate</string>
+	<key>declarativeConsumerBrightness</key>
+	<string>positionedOutsideMethod</string>
+	<key>denseResultValidation</key>
+	<string>sceneStageVelocity</string>
+	<key>reactiveDescriptorInterval</key>
+	<string>promiseCompositeHue</string>
+	<key>titleAroundPhase</key>
+	<string>deferredOverlayTag</string>
+</dict>
+</plist>

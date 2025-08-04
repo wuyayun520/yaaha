@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constLoopInset</key>
+	<string>explicitLayoutIndex</string>
+	<key>directTransformerLocation</key>
+	<string>listenerAndSystem</string>
+	<key>errorVisitorBorder</key>
+	<string>customizedSpecifierShape</string>
+	<key>fragmentForMediator</key>
+	<string>listenerLayerDepth</string>
+	<key>sampleOfCycle</key>
+	<string>associatedCheckboxDelay</string>
+</dict>
+</plist>

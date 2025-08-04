@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxCommandCenter</key>
+	<string>ternaryCommandDuration</string>
+	<key>flexWithNumber</key>
+	<string>previewTypeMargin</string>
+	<key>globalActivityRotation</key>
+	<string>sineCompositeSaturation</string>
+	<key>inactiveActionColor</key>
+	<string>sliderByJob</string>
+	<key>logarithmVariableDensity</key>
+	<string>spriteCycleSpacing</string>
+	<key>particleOrValue</key>
+	<string>baseCommandPadding</string>
+	<key>rectInsideSystem</key>
+	<string>listenerOperationFeedback</string>
+	<key>statefulAwaitTransparency</key>
+	<string>usecaseNearOperation</string>
+	<key>subpixelFrameworkSize</key>
+	<string>buttonFrameworkBehavior</string>
+	<key>touchStrategyRotation</key>
+	<string>containerAboutDecorator</string>
+</dict>
+</plist>

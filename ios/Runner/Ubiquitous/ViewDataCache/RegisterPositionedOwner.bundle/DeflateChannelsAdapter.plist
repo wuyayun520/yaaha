@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentActivityShape</key>
+	<string>delegateThanCommand</string>
+	<key>bulletSystemSkewx</key>
+	<string>composableProgressbarLeft</string>
+	<key>buttonTierInset</key>
+	<string>textfieldMediatorOrientation</string>
+	<key>constStorageBehavior</key>
+	<string>intensityIncludeDecorator</string>
+	<key>lazyStepHead</key>
+	<string>precisionForShape</string>
+	<key>optionDuringComposite</key>
+	<string>sizeOfContext</string>
+	<key>scaffoldFromParam</key>
+	<string>protectedSinkSkewy</string>
+	<key>subsequentControllerInset</key>
+	<string>oldTextfieldMode</string>
+	<key>unactivatedConsumerTheme</key>
+	<string>activeExtensionTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorByLayer</key>
+	<string>popupForTemple</string>
+	<key>configurationBesideAdapter</key>
+	<string>sequentialObserverTransparency</string>
+	<key>deferredBrushColor</key>
+	<string>labelShapeContrast</string>
+	<key>heapViaAction</key>
+	<string>layerCycleValidation</string>
+	<key>symmetricCoordinatorStatus</key>
+	<string>animationFromPlatform</string>
+</dict>
+</plist>

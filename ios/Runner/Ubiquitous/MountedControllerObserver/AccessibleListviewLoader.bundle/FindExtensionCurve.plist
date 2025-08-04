@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigationVisibility</key>
+	<string>difficultNotificationLeft</string>
+	<key>blocBeyondActivity</key>
+	<string>nibContextDepth</string>
+	<key>eagerZoneTag</key>
+	<string>desktopEntityFlags</string>
+	<key>elasticAspectratioVisible</key>
+	<string>seamlessRepositoryFlags</string>
+	<key>exceptionTierBrightness</key>
+	<string>chartTaskCount</string>
+	<key>missedTernaryBorder</key>
+	<string>difficultMenuContrast</string>
+	<key>mobileDrawerState</key>
+	<string>aspectratioNumberInterval</string>
+	<key>permanentChallengeSkewy</key>
+	<string>adaptiveDecorationSkewx</string>
+	<key>relationalMomentumSkewx</key>
+	<string>usedVectorHue</string>
+</dict>
+</plist>

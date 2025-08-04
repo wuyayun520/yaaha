@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStateBound</key>
+	<string>originalSubpixelAlignment</string>
+	<key>flexibleObserverEdge</key>
+	<string>specifyModulusRate</string>
+	<key>sequentialControllerDensity</key>
+	<string>gemAroundStrategy</string>
+	<key>textfieldSystemDepth</key>
+	<string>sophisticatedProgressbarDirection</string>
+</dict>
+</plist>

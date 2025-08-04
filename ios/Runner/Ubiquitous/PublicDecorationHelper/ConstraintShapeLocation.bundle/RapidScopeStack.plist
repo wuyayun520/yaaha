@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBufferKind</key>
+	<string>missionIncludeWork</string>
+	<key>optimizerModeSaturation</key>
+	<string>spineDuringBuffer</string>
+	<key>parallelIsolateTag</key>
+	<string>sizeNumberStatus</string>
+	<key>similarSizeSpeed</key>
+	<string>robustRichtextSkewy</string>
+</dict>
+</plist>

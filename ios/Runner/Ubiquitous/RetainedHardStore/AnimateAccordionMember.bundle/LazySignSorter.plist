@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredNodeDistance</key>
+	<string>containerDespiteFunction</string>
+	<key>permissiveFrameAcceleration</key>
+	<string>viewAsFlyweight</string>
+	<key>plateUntilParameter</key>
+	<string>activatedProviderPosition</string>
+	<key>routeViaLayer</key>
+	<string>heapPatternName</string>
+	<key>sharedMobileCoord</key>
+	<string>eventKindMargin</string>
+	<key>singleUsecaseTransparency</key>
+	<string>nibFromPhase</string>
+	<key>staticTaskAlignment</key>
+	<string>textureWithInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationLayerAppearance</key>
+	<string>injectionIncludeOperation</string>
+	<key>mediumCallbackFormat</key>
+	<string>controllerBesideTask</string>
+	<key>reusableSignatureInterval</key>
+	<string>criticalViewDuration</string>
+	<key>zoneDuringState</key>
+	<string>petPerType</string>
+</dict>
+</plist>

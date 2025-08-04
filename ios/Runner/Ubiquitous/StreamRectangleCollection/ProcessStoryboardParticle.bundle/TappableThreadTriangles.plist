@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonIncludePrototype</key>
+	<string>layoutCycleValidation</string>
+	<key>completerOperationSkewy</key>
+	<string>retainedOffsetSize</string>
+	<key>convolutionOutsideMode</key>
+	<string>reducerFromVisitor</string>
+	<key>exceptionCycleSpeed</key>
+	<string>memberStyleTension</string>
+	<key>gemDespiteMethod</key>
+	<string>protocolFlyweightAlignment</string>
+	<key>reusableIntegerLocation</key>
+	<string>newestFutureTransparency</string>
+</dict>
+</plist>

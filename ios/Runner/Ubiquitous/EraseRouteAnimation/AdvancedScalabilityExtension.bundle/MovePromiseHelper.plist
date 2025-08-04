@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCycleValidation</key>
+	<string>currentCompletionTheme</string>
+	<key>columnSystemShape</key>
+	<string>taskAlongEnvironment</string>
+	<key>managerTierStyle</key>
+	<string>progressbarLevelMomentum</string>
+	<key>originalNavigationSkewy</key>
+	<string>signatureScopeTop</string>
+	<key>particleNearLayer</key>
+	<string>agileFuturePadding</string>
+	<key>pinchableNavigationContrast</key>
+	<string>repositoryOperationScale</string>
+	<key>presenterForStage</key>
+	<string>segmentVersusAdapter</string>
+	<key>statefulIntensityTint</key>
+	<string>interactiveLayoutDensity</string>
+	<key>statelessStepKind</key>
+	<string>lastMethodTint</string>
+</dict>
+</plist>

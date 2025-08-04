@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeButtonSkewx</key>
+	<string>gateLikeFlyweight</string>
+	<key>chartOrStrategy</key>
+	<string>diffableTransformerSkewx</string>
+	<key>cupertinoMatrixLocation</key>
+	<string>layoutFromShape</string>
+	<key>currentSubpixelPadding</key>
+	<string>similarModelFormat</string>
+	<key>finalResolverStyle</key>
+	<string>pageviewTypeSpeed</string>
+	<key>grainObserverVelocity</key>
+	<string>flexPerPattern</string>
+</dict>
+</plist>

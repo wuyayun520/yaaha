@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPlatformFeedback</key>
+	<string>popupPatternShape</string>
+	<key>exceptionFromTask</key>
+	<string>routerScopeAppearance</string>
+	<key>listenerStateDensity</key>
+	<string>layerFromMediator</string>
+	<key>methodInBridge</key>
+	<string>iterativeGroupForce</string>
+	<key>protectedInterfaceIndex</key>
+	<string>rowStageOrientation</string>
+	<key>queryAboutValue</key>
+	<string>unsortedResponseTail</string>
+	<key>resourceDecoratorValidation</key>
+	<string>timerAmongFramework</string>
+	<key>sensorStateStatus</key>
+	<string>frameAroundBridge</string>
+	<key>spriteCommandKind</key>
+	<string>priorityFlyweightHue</string>
+</dict>
+</plist>

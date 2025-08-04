@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerPerSystem</key>
+	<string>interfaceAdapterAcceleration</string>
+	<key>materialBufferFormat</key>
+	<string>groupOfAction</string>
+	<key>pointTempleTension</key>
+	<string>smartTabviewBorder</string>
+	<key>popupOutsideCycle</key>
+	<string>resultForScope</string>
+	<key>touchDecoratorBorder</key>
+	<string>indicatorFacadeBottom</string>
+</dict>
+</plist>

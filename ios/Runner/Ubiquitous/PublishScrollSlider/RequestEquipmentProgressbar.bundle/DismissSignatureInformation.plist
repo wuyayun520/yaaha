@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveEventVisible</key>
+	<string>tabbarBeyondDecorator</string>
+	<key>controllerForValue</key>
+	<string>routeOfComposite</string>
+	<key>spriteCompositeShape</key>
+	<string>entityTaskCenter</string>
+	<key>toolAdapterDuration</key>
+	<string>hierarchicalUsecaseLocation</string>
+</dict>
+</plist>

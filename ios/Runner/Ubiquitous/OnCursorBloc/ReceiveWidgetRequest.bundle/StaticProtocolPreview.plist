@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerVersusInterpreter</key>
+	<string>standaloneVectorSaturation</string>
+	<key>descriptorCycleMomentum</key>
+	<string>iterativeListenerSkewx</string>
+	<key>masterOrVar</key>
+	<string>cardContextState</string>
+	<key>pageviewAsWork</key>
+	<string>routerOrMediator</string>
+	<key>plateModeSize</key>
+	<string>fixedTabbarOrigin</string>
+	<key>positionBesideComposite</key>
+	<string>interactiveStateStatus</string>
+	<key>protocolVersusState</key>
+	<string>bulletAboutBridge</string>
+</dict>
+</plist>

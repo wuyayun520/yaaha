@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainDialogsInterval</key>
+	<string>featureVarCenter</string>
+	<key>previewExceptCycle</key>
+	<string>paddingBufferTransparency</string>
+	<key>previewStrategyStatus</key>
+	<string>nodeAgainstComposite</string>
+	<key>responseWithJob</key>
+	<string>beginnerTabviewInterval</string>
+	<key>serviceLevelVisible</key>
+	<string>catalystParameterMomentum</string>
+	<key>standaloneLogColor</key>
+	<string>presenterTypeBottom</string>
+	<key>uniqueMusicOrigin</key>
+	<string>serviceOutsideSingleton</string>
+</dict>
+</plist>

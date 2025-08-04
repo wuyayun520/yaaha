@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengePatternAppearance</key>
+	<string>captionProcessTop</string>
+	<key>checklistForMode</key>
+	<string>profileBesideStructure</string>
+	<key>compositionalSliderHue</key>
+	<string>constraintFormAppearance</string>
+	<key>queryTypeValidation</key>
+	<string>multiplicationProxyTransparency</string>
+	<key>specifyStoreFeedback</key>
+	<string>statefulProxyEdge</string>
+</dict>
+</plist>

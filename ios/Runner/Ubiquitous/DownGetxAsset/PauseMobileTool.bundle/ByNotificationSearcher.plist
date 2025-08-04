@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPaddingOrigin</key>
+	<string>slashInState</string>
+	<key>cycleActionStyle</key>
+	<string>previewAlongStage</string>
+	<key>gridStageContrast</key>
+	<string>futureWithoutStage</string>
+	<key>permanentTransitionDepth</key>
+	<string>dynamicInjectionEdge</string>
+	<key>slashCompositeScale</key>
+	<string>consultativeBlocPadding</string>
+	<key>sustainableTernaryShape</key>
+	<string>composableMetadataStatus</string>
+	<key>taskPerFunction</key>
+	<string>positionedVisitorSkewx</string>
+	<key>vectorVersusVariable</key>
+	<string>alignmentLikeCycle</string>
+</dict>
+</plist>

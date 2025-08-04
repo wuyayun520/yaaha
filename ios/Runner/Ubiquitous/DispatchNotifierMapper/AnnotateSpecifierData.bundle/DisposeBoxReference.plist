@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStrategyVisibility</key>
+	<string>mobileSystemHead</string>
+	<key>awaitTierEdge</key>
+	<string>constraintVarDepth</string>
+	<key>progressbarPhaseFeedback</key>
+	<string>notifierActionTag</string>
+	<key>requiredPresenterLeft</key>
+	<string>navigatorStrategyPadding</string>
+	<key>textureWorkContrast</key>
+	<string>enabledRoleKind</string>
+</dict>
+</plist>

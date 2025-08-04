@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVersusDecorator</key>
+	<string>checklistCycleDelay</string>
+	<key>checklistInsideLayer</key>
+	<string>gridviewBesidePhase</string>
+	<key>instructionOfStructure</key>
+	<string>buttonValueBound</string>
+	<key>labelPerDecorator</key>
+	<string>heapFlyweightLeft</string>
+</dict>
+</plist>

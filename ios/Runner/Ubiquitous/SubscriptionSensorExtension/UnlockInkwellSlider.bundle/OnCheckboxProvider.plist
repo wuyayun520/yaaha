@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByStyle</key>
+	<string>challengeParameterResponse</string>
+	<key>borderCommandInterval</key>
+	<string>desktopSingletonBrightness</string>
+	<key>compositionVariableVisible</key>
+	<string>activeFragmentState</string>
+	<key>labelThroughSystem</key>
+	<string>responsePerScope</string>
+	<key>rowContextSpacing</key>
+	<string>cartesianStreamRate</string>
+	<key>smallAnimationPadding</key>
+	<string>gemEnvironmentShade</string>
+	<key>widgetPlatformTheme</key>
+	<string>callbackViaTemple</string>
+</dict>
+</plist>

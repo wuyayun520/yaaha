@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCubitBorder</key>
+	<string>constraintTaskSpeed</string>
+	<key>flexibleHandlerTag</key>
+	<string>extensionContainBridge</string>
+	<key>independentConvolutionDepth</key>
+	<string>viewByJob</string>
+	<key>mediaOutsideEnvironment</key>
+	<string>radiusDuringEnvironment</string>
+	<key>pinchableChartDepth</key>
+	<string>decorationSinceProxy</string>
+	<key>pointLikeOperation</key>
+	<string>sequentialAlphaContrast</string>
+	<key>sustainableRouteOrigin</key>
+	<string>exponentForParam</string>
+	<key>taskInMode</key>
+	<string>resultInsideMediator</string>
+	<key>topicActionFormat</key>
+	<string>concreteCosineHead</string>
+</dict>
+</plist>

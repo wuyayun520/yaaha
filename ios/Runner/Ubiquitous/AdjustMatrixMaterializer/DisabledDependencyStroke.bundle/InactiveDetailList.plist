@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerTierOffset</key>
+	<string>isolateProcessScale</string>
+	<key>cycleActivityDistance</key>
+	<string>intermediateActivityDelay</string>
+	<key>eagerTweenTag</key>
+	<string>modelMediatorAppearance</string>
+	<key>staticLabelDuration</key>
+	<string>durationSingletonAcceleration</string>
+	<key>subscriptionDespiteFacade</key>
+	<string>memberContainCommand</string>
+	<key>typicalTransitionPosition</key>
+	<string>popupByState</string>
+	<key>usageProcessMomentum</key>
+	<string>progressbarValueSpeed</string>
+</dict>
+</plist>

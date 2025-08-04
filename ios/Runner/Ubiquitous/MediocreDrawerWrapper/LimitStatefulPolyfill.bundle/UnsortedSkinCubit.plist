@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxWithType</key>
+	<string>stackFacadeCount</string>
+	<key>callbackAboutDecorator</key>
+	<string>providerAdapterTint</string>
+	<key>consumerActivityForce</key>
+	<string>sensorTaskDepth</string>
+	<key>delegateAmongVariable</key>
+	<string>apertureFlyweightSaturation</string>
+	<key>durationIncludeSystem</key>
+	<string>dedicatedMethodValidation</string>
+	<key>granularSingletonFeedback</key>
+	<string>kernelVersusBuffer</string>
+	<key>mapCycleDelay</key>
+	<string>disabledSpriteOrigin</string>
+	<key>popupWithoutDecorator</key>
+	<string>particleStageCoord</string>
+	<key>timerBesideLevel</key>
+	<string>interactiveCubeInset</string>
+	<key>utilMediatorStyle</key>
+	<string>resultAboutStyle</string>
+</dict>
+</plist>

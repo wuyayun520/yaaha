@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionAtPlatform</key>
+	<string>invisibleActionMode</string>
+	<key>commonConstraintLocation</key>
+	<string>requestInterpreterFlags</string>
+	<key>mainInjectionBehavior</key>
+	<string>titleAmongStructure</string>
+	<key>priorChapterKind</key>
+	<string>streamNearContext</string>
+	<key>unactivatedRouteSpacing</key>
+	<string>mutableMediaScale</string>
+</dict>
+</plist>

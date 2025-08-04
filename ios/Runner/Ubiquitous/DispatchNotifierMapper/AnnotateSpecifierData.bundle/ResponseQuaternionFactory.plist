@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedBrushPressure</key>
+	<string>disabledPriorityRotation</string>
+	<key>frameStateBrightness</key>
+	<string>cursorAndCommand</string>
+	<key>repositoryExceptVar</key>
+	<string>pointDuringLevel</string>
+	<key>resizableMenuValidation</key>
+	<string>consumerAgainstComposite</string>
+	<key>spotUntilPattern</key>
+	<string>interactorInsideOperation</string>
+	<key>statelessControllerSkewy</key>
+	<string>mediaFromStrategy</string>
+	<key>transitionWorkMargin</key>
+	<string>numericalOptionSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopGramShade</key>
+	<string>webMetadataDirection</string>
+	<key>nativeEffectSize</key>
+	<string>awaitOutsideComposite</string>
+	<key>pointForTask</key>
+	<string>lossWithoutBridge</string>
+	<key>positionLikeBuffer</key>
+	<string>sinkStageMomentum</string>
+	<key>themeStyleSkewy</key>
+	<string>iconAwayWork</string>
+</dict>
+</plist>

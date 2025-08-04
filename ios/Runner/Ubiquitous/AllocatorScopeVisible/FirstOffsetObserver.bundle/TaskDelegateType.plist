@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAtState</key>
+	<string>durationFacadeAcceleration</string>
+	<key>cubitPatternTag</key>
+	<string>webGetxFormat</string>
+	<key>finalInterpolationStyle</key>
+	<string>listviewAndPrototype</string>
+	<key>radioAgainstActivity</key>
+	<string>relationalMediaStatus</string>
+</dict>
+</plist>

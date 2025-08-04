@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderJobOffset</key>
+	<string>rowModeSpacing</string>
+	<key>greatNavigatorMode</key>
+	<string>granularTouchAppearance</string>
+	<key>inkwellVarStyle</key>
+	<string>completerDuringChain</string>
+	<key>lastMemberDistance</key>
+	<string>activeVectorState</string>
+	<key>rectViaValue</key>
+	<string>relationalGraphTheme</string>
+	<key>routeStateHue</key>
+	<string>statelessSystemColor</string>
+	<key>symbolPatternHead</key>
+	<string>asynchronousBitrateAppearance</string>
+</dict>
+</plist>

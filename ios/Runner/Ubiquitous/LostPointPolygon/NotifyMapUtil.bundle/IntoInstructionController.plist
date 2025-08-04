@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheOutsideScope</key>
+	<string>cartesianMediaqueryDistance</string>
+	<key>cupertinoToolInset</key>
+	<string>activatedViewInteraction</string>
+	<key>equalizationAmongStrategy</key>
+	<string>allocatorBesideLevel</string>
+	<key>mediaqueryStrategyRight</key>
+	<string>alignmentWithPattern</string>
+	<key>mediocreInteractorInterval</key>
+	<string>usageInsideLevel</string>
+	<key>presenterWithoutOperation</key>
+	<string>finalBaselineRate</string>
+	<key>sequentialSessionPosition</key>
+	<string>subsequentRequestType</string>
+	<key>sliderWithLayer</key>
+	<string>builderSinceMode</string>
+	<key>stateParameterRate</key>
+	<string>navigatorLayerSkewx</string>
+	<key>touchStylePosition</key>
+	<string>mediaqueryPerPhase</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSegmentStyle</key>
+	<string>beginnerAnchorSaturation</string>
+	<key>builderWithoutSingleton</key>
+	<string>gradientMediatorScale</string>
+	<key>easyNodeSpacing</key>
+	<string>gridviewDecoratorEdge</string>
+	<key>featureParamSkewy</key>
+	<string>playbackVariableValidation</string>
+	<key>frameViaProxy</key>
+	<string>futureFromVariable</string>
+	<key>groupAtLayer</key>
+	<string>borderOfOperation</string>
+	<key>lostGestureVisible</key>
+	<string>catalystTempleVelocity</string>
+	<key>newestResultRotation</key>
+	<string>reducerIncludeState</string>
+	<key>riverpodContainInterpreter</key>
+	<string>eventVisitorVisible</string>
+	<key>specifierPatternForce</key>
+	<string>textAmongStage</string>
+</dict>
+</plist>

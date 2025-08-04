@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBridgeShape</key>
+	<string>specifySceneTop</string>
+	<key>controllerThroughProxy</key>
+	<string>easyAsyncBottom</string>
+	<key>gesturePatternName</key>
+	<string>tappableRequestDepth</string>
+	<key>multiplicationAboutContext</key>
+	<string>backwardRoleStatus</string>
+	<key>relationalAlphaInset</key>
+	<string>spriteBesideMethod</string>
+	<key>specifyScaffoldContrast</key>
+	<string>textureShapePosition</string>
+</dict>
+</plist>

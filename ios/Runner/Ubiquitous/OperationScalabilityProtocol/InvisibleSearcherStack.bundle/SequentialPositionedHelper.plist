@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTickerValidation</key>
+	<string>directlyFutureStatus</string>
+	<key>chartStageInset</key>
+	<string>appbarFlyweightDistance</string>
+	<key>clipperThroughPattern</key>
+	<string>blocOrPlatform</string>
+	<key>customizedZoneForce</key>
+	<string>numericalResourceTop</string>
+	<key>queueDespiteAction</key>
+	<string>handlerPerStage</string>
+	<key>topicValueIndex</key>
+	<string>textureFacadeTail</string>
+</dict>
+</plist>

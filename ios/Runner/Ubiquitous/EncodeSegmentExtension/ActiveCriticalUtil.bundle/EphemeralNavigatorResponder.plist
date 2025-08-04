@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePreviewPosition</key>
+	<string>semanticThemeContrast</string>
+	<key>agileTopicState</key>
+	<string>prevFuturePadding</string>
+	<key>asynchronousLabelDistance</key>
+	<string>responseStatePosition</string>
+	<key>delegateAgainstComposite</key>
+	<string>rectOrChain</string>
+	<key>elasticDialogsInterval</key>
+	<string>uniformDependencyPadding</string>
+	<key>featureAroundWork</key>
+	<string>opaqueTabbarEdge</string>
+	<key>localizationFrameworkName</key>
+	<string>injectionExceptStyle</string>
+	<key>localizationIncludeChain</key>
+	<string>dimensionWithPlatform</string>
+	<key>materialVersusObserver</key>
+	<string>entropyBeyondFramework</string>
+	<key>tweenOrCommand</key>
+	<string>mapForValue</string>
+</dict>
+</plist>

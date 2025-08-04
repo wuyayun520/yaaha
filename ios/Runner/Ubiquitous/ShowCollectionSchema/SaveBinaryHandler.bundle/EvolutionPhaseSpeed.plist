@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSubscriptionScale</key>
+	<string>subtleCubitMargin</string>
+	<key>buttonAsType</key>
+	<string>playbackDuringNumber</string>
+	<key>certificateShapePosition</key>
+	<string>futureFromPhase</string>
+	<key>challengeAsStrategy</key>
+	<string>taskLevelContrast</string>
+	<key>sortedRadiusVelocity</key>
+	<string>listviewTierName</string>
+	<key>temporaryConfigurationState</key>
+	<string>cellVarAppearance</string>
+</dict>
+</plist>

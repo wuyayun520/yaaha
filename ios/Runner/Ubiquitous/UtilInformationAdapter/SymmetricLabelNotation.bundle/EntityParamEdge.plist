@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorProcessDuration</key>
+	<string>scrollableKernelFrequency</string>
+	<key>animatedcontainerTierFormat</key>
+	<string>appbarFunctionInteraction</string>
+	<key>intuitiveStreamAlignment</key>
+	<string>parallelScaffoldOpacity</string>
+	<key>paddingTierRotation</key>
+	<string>requestInterpreterOrientation</string>
+	<key>petDespiteSingleton</key>
+	<string>ignoredChannelIndex</string>
+	<key>subscriptionAsChain</key>
+	<string>rowFromSystem</string>
+</dict>
+</plist>

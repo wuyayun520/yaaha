@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardContextPadding</key>
+	<string>alignmentProcessRate</string>
+	<key>cubitMethodForce</key>
+	<string>alignmentActionForce</string>
+	<key>interfaceOutsideMediator</key>
+	<string>positionParamDuration</string>
+	<key>loopAtWork</key>
+	<string>composableDialogsIndex</string>
+	<key>permanentVectorFlags</key>
+	<string>queueThanPrototype</string>
+	<key>reactiveVectorName</key>
+	<string>challengeDuringLayer</string>
+	<key>uniqueEventTransparency</key>
+	<string>interpolationForMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxOutsideBuffer</key>
+	<string>spotScopeTail</string>
+	<key>lastPreviewOffset</key>
+	<string>dedicatedKernelRotation</string>
+	<key>playbackSystemBehavior</key>
+	<string>storyboardAsLayer</string>
+	<key>priorNormOrigin</key>
+	<string>constAlignmentBorder</string>
+	<key>transformerIncludeType</key>
+	<string>clipperAlongLevel</string>
+</dict>
+</plist>

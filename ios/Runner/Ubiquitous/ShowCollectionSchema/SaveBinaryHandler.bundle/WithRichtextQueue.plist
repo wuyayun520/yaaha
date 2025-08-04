@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationMementoTheme</key>
+	<string>viewWithShape</string>
+	<key>materialBaseInterval</key>
+	<string>primaryBlocForce</string>
+	<key>providerMediatorIndex</key>
+	<string>usedInstructionTag</string>
+	<key>rapidLayoutVisible</key>
+	<string>directlyControllerCoord</string>
+	<key>subsequentPreviewTag</key>
+	<string>associatedRectStyle</string>
+</dict>
+</plist>

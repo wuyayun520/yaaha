@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateTempleStatus</key>
+	<string>interactorSystemHue</string>
+	<key>entityForObserver</key>
+	<string>navigationCycleLeft</string>
+	<key>materialGateLeft</key>
+	<string>greatNavigatorPosition</string>
+	<key>navigatorPhaseInterval</key>
+	<string>priorityBeyondLevel</string>
+	<key>notificationBridgeFormat</key>
+	<string>precisionForNumber</string>
+	<key>projectContainJob</key>
+	<string>invisibleProviderBehavior</string>
+	<key>subtlePaddingPadding</key>
+	<string>concreteLabelSpacing</string>
+	<key>unsortedStorageRate</key>
+	<string>inkwellSincePrototype</string>
+	<key>widgetNumberContrast</key>
+	<string>delegateDecoratorState</string>
+</dict>
+</plist>

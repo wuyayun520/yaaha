@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePrototypeResponse</key>
+	<string>singletonProxyRotation</string>
+	<key>gestureObserverTop</key>
+	<string>gesturedetectorObserverRotation</string>
+	<key>iterativeBinaryBehavior</key>
+	<string>textfieldWithStrategy</string>
+	<key>musicActionEdge</key>
+	<string>scrollableGridTension</string>
+	<key>normalAccessoryDensity</key>
+	<string>decorationStructureEdge</string>
+	<key>notifierDespiteVisitor</key>
+	<string>viewUntilFramework</string>
+	<key>transformerOrType</key>
+	<string>anchorEnvironmentMargin</string>
+	<key>webBorderMomentum</key>
+	<string>animationModeOpacity</string>
+</dict>
+</plist>

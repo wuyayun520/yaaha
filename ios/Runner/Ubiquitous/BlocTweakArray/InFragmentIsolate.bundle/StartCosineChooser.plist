@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoViewVisible</key>
+	<string>assetStyleTransparency</string>
+	<key>eventBufferContrast</key>
+	<string>iterativeNavigatorFeedback</string>
+	<key>gestureTierInteraction</key>
+	<string>directPopupSpeed</string>
+	<key>handlerMethodDuration</key>
+	<string>protectedChartOffset</string>
+	<key>isolateBesideMediator</key>
+	<string>vectorMediatorAcceleration</string>
+	<key>signModeFrequency</key>
+	<string>positionedVisitorType</string>
+</dict>
+</plist>

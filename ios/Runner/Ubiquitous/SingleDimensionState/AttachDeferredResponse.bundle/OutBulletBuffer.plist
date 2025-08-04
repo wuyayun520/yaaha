@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCompletionInteraction</key>
+	<string>constraintPhaseMode</string>
+	<key>greatRiverpodInterval</key>
+	<string>kernelStateTag</string>
+	<key>promiseInterpreterRotation</key>
+	<string>frameExceptPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerForActivity</key>
+	<string>buttonStateDirection</string>
+	<key>fixedPositionedSkewx</key>
+	<string>disabledTangentDepth</string>
+	<key>gridviewInsideCommand</key>
+	<string>storageAlongMediator</string>
+	<key>memberIncludeNumber</key>
+	<string>positionTaskBehavior</string>
+	<key>resourceCycleMomentum</key>
+	<string>grayscalePlatformInteraction</string>
+	<key>robustConstraintScale</key>
+	<string>segueInterpreterSaturation</string>
+	<key>robustTernaryRotation</key>
+	<string>menuTaskShape</string>
+	<key>widgetCycleSkewy</key>
+	<string>durationWithOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>scrollableEqualizationBehavior</key>
+	<string>futureLikeFlyweight</string>
+	<key>streamContainTask</key>
+	<string>compositionAmongStrategy</string>
+	<key>titleJobRotation</key>
+	<string>viewEnvironmentSkewy</string>
+</dict>
+</plist>

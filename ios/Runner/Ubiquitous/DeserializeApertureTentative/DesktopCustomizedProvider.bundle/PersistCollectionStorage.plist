@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutSystemAlignment</key>
+	<string>rectInsideSingleton</string>
+	<key>metadataInterpreterPressure</key>
+	<string>gesturedetectorVersusChain</string>
+	<key>originalQueueSpacing</key>
+	<string>completerBesideMethod</string>
+	<key>secondCubeDelay</key>
+	<string>errorAgainstForm</string>
+</dict>
+</plist>

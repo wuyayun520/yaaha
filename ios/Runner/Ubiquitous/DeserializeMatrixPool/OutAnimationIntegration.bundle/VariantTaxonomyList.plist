@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeLikeStyle</key>
+	<string>notificationJobStyle</string>
+	<key>disabledScrollSpacing</key>
+	<string>inactiveSpecifierShape</string>
+	<key>logarithmExceptSingleton</key>
+	<string>futureBeyondPlatform</string>
+	<key>marginBeyondParameter</key>
+	<string>eventChainMargin</string>
+	<key>resizableReducerLocation</key>
+	<string>popupBesideLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConfigurationValidation</key>
+	<string>reducerPerFlyweight</string>
+	<key>dropdownbuttonWithFunction</key>
+	<string>autoSineVisibility</string>
+	<key>effectAdapterStatus</key>
+	<string>seamlessResponseForce</string>
+	<key>listviewSystemBehavior</key>
+	<string>publicClipperInset</string>
+	<key>localizationScopeSpeed</key>
+	<string>deferredChartSize</string>
+	<key>menuActionTag</key>
+	<string>hashMediatorTop</string>
+	<key>spotIncludeScope</key>
+	<string>workflowFlyweightTransparency</string>
+	<key>transformerVariableInterval</key>
+	<string>sliderDuringTask</string>
+	<key>viewKindInset</key>
+	<string>textBesideMethod</string>
+</dict>
+</plist>

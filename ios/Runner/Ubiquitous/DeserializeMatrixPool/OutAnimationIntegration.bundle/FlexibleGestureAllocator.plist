@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAgainstOperation</key>
+	<string>immutableSliderInterval</string>
+	<key>dependencyProcessOpacity</key>
+	<string>groupAroundMode</string>
+	<key>explicitBatchCount</key>
+	<string>listenerVersusOperation</string>
+	<key>progressbarFormCoord</key>
+	<string>controllerAdapterSkewy</string>
+	<key>significantTransitionFeedback</key>
+	<string>otherContainerValidation</string>
+	<key>sortedLabelResponse</key>
+	<string>transformerCycleTop</string>
+</dict>
+</plist>

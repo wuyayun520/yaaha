@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDrawerContrast</key>
+	<string>heapSingletonDirection</string>
+	<key>geometricTitleSkewy</key>
+	<string>activatedStreamDelay</string>
+	<key>inkwellContextEdge</key>
+	<string>localBulletTop</string>
+	<key>intuitiveTickerSpacing</key>
+	<string>particleIncludeMediator</string>
+	<key>profileAgainstLevel</key>
+	<string>configurationContainTier</string>
+	<key>sharedDecorationScale</key>
+	<string>typicalEventRotation</string>
+	<key>tickerPrototypeMode</key>
+	<string>autoGroupRate</string>
+	<key>zoneCompositeFeedback</key>
+	<string>referenceTypeColor</string>
+</dict>
+</plist>

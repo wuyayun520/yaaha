@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsJobInset</key>
+	<string>referenceAsFunction</string>
+	<key>concurrentProgressbarSkewy</key>
+	<string>lastGraphicSaturation</string>
+	<key>fixedSubpixelContrast</key>
+	<string>controllerCycleResponse</string>
+	<key>protectedScreenSkewx</key>
+	<string>bufferActivityVelocity</string>
+	<key>specifierInValue</key>
+	<string>keyModelSaturation</string>
+</dict>
+</plist>

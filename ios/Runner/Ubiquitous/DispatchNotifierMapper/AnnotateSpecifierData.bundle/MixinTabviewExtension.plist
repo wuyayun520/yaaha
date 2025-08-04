@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAtStage</key>
+	<string>commonThreadRight</string>
+	<key>discardedEntityLocation</key>
+	<string>frameCycleRotation</string>
+	<key>notificationAgainstPrototype</key>
+	<string>taskNearNumber</string>
+	<key>optionContextPosition</key>
+	<string>sineLevelAcceleration</string>
+	<key>progressbarAmongDecorator</key>
+	<string>usageFlyweightRotation</string>
+	<key>requiredAnchorAppearance</key>
+	<string>semanticQueryAppearance</string>
+	<key>responsiveProgressbarColor</key>
+	<string>routeParamMode</string>
+</dict>
+</plist>

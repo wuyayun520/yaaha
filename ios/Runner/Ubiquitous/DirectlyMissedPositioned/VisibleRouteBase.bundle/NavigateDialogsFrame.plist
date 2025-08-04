@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerAlongFlyweight</key>
+	<string>tweenIncludeBuffer</string>
+	<key>segmentAndBuffer</key>
+	<string>optimizerVersusMode</string>
+	<key>seguePrototypeShape</key>
+	<string>previewFromComposite</string>
+</dict>
+</plist>

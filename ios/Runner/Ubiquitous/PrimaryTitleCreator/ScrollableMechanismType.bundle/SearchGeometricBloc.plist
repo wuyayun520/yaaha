@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAdapterInteraction</key>
+	<string>featureMementoStatus</string>
+	<key>gridviewOutsideProcess</key>
+	<string>compositionalListenerLeft</string>
+	<key>independentWidgetAcceleration</key>
+	<string>referenceFunctionVisible</string>
+	<key>nativeMobxBound</key>
+	<string>ephemeralSliderVisibility</string>
+	<key>observerAwayContext</key>
+	<string>disabledModulusPressure</string>
+	<key>optionUntilType</key>
+	<string>transitionOperationMomentum</string>
+	<key>reducerBesideFlyweight</key>
+	<string>secondSemanticsForce</string>
+	<key>requestShapeRate</key>
+	<string>remainderWorkAlignment</string>
+	<key>topicProcessHue</key>
+	<string>asyncLikeDecorator</string>
+</dict>
+</plist>

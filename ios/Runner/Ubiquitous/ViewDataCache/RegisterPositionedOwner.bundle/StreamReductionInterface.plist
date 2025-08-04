@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTickerVisible</key>
+	<string>exceptionByProcess</string>
+	<key>configurationVersusProxy</key>
+	<string>statefulThroughDecorator</string>
+	<key>cubeCyclePadding</key>
+	<string>assetStructureOffset</string>
+	<key>missionInProcess</key>
+	<string>methodNumberSize</string>
+</dict>
+</plist>

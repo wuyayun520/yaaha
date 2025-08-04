@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonModeCount</key>
+	<string>techniqueCycleBound</string>
+	<key>capacitiesBesideActivity</key>
+	<string>gesturedetectorAsMemento</string>
+	<key>checkboxCycleBound</key>
+	<string>textAtValue</string>
+	<key>cubitCommandTheme</key>
+	<string>graphPrototypeEdge</string>
+	<key>injectionPatternRotation</key>
+	<string>rectProcessSpacing</string>
+	<key>multiIntegerOrigin</key>
+	<string>reactiveMobxVisible</string>
+	<key>persistentAxisTheme</key>
+	<string>smallPointStyle</string>
+	<key>sizeExceptPlatform</key>
+	<string>multiplicationAwayAction</string>
+	<key>spotByPlatform</key>
+	<string>presenterAndStyle</string>
+	<key>storeAndActivity</key>
+	<string>previewDuringVar</string>
+</dict>
+</plist>

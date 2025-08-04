@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyLayoutStyle</key>
+	<string>layoutWithoutContext</string>
+	<key>painterNearFunction</key>
+	<string>textfieldProxySaturation</string>
+	<key>plateAdapterSpacing</key>
+	<string>constIsolateVelocity</string>
+	<key>sampleBeyondEnvironment</key>
+	<string>originalPaddingType</string>
+</dict>
+</plist>

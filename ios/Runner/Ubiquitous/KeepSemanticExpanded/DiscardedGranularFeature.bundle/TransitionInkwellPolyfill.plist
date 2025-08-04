@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOfActivity</key>
+	<string>multiHeapStyle</string>
+	<key>effectByMode</key>
+	<string>flexInterpreterInterval</string>
+	<key>finalCoordinatorBehavior</key>
+	<string>radiusStatePosition</string>
+	<key>geometricTabbarName</key>
+	<string>futureDecoratorTint</string>
+	<key>lossJobShade</key>
+	<string>listenerLevelResponse</string>
+	<key>sceneExceptTask</key>
+	<string>alignmentAsProcess</string>
+	<key>tickerCompositeFeedback</key>
+	<string>nodeMethodDensity</string>
+	<key>viewStateKind</key>
+	<string>cubitAgainstInterpreter</string>
+</dict>
+</plist>

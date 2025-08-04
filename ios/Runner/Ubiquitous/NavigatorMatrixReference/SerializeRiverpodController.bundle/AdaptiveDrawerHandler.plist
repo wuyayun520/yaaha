@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertModeRate</key>
+	<string>disparateConfigurationHue</string>
+	<key>eventModeOpacity</key>
+	<string>reducerMementoAcceleration</string>
+	<key>hardCanvasHue</key>
+	<string>sortedPriorityVelocity</string>
+	<key>layerOfProcess</key>
+	<string>allocatorAsProcess</string>
+	<key>mediocreSceneVisible</key>
+	<string>publicResponseVelocity</string>
+	<key>queueWithForm</key>
+	<string>pointStrategyDepth</string>
+	<key>tabbarBufferVelocity</key>
+	<string>materialPositionDistance</string>
+</dict>
+</plist>

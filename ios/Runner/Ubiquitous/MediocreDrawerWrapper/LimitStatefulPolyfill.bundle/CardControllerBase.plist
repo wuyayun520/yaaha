@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInShape</key>
+	<string>ignoredGraphForce</string>
+	<key>constChannelName</key>
+	<string>equalizationAsSingleton</string>
+	<key>disparateFrameType</key>
+	<string>pageviewScopeOffset</string>
+	<key>ephemeralSubpixelVisible</key>
+	<string>usageNearObserver</string>
+	<key>futureViaValue</key>
+	<string>prismaticEventKind</string>
+	<key>listenerWorkSize</key>
+	<string>mediaOfAdapter</string>
+	<key>mobileUntilEnvironment</key>
+	<string>heapTypeAcceleration</string>
+	<key>positionedStyleBound</key>
+	<string>capsuleModeTop</string>
+</dict>
+</plist>

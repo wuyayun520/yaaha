@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativePrioritySaturation</key>
+	<string>methodWithVar</string>
+	<key>gesturedetectorContextBehavior</key>
+	<string>descriptorUntilPhase</string>
+	<key>positionedStyleScale</key>
+	<string>multiplicationInPlatform</string>
+	<key>tablePerInterpreter</key>
+	<string>eagerSpecifierFlags</string>
+	<key>tappableSemanticsMargin</key>
+	<string>statelessJobIndex</string>
+	<key>topicThanFlyweight</key>
+	<string>containerLikeVar</string>
+</dict>
+</plist>

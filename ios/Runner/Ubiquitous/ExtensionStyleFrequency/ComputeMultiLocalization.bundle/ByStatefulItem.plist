@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionStructureShape</key>
+	<string>displayableCubeStyle</string>
+	<key>explicitTransitionOffset</key>
+	<string>pivotalCellOffset</string>
+	<key>methodObserverState</key>
+	<string>discardedScaffoldShade</string>
+	<key>priorEquipmentTint</key>
+	<string>storyboardAroundStyle</string>
+	<key>reusableRectBound</key>
+	<string>cardFrameworkAlignment</string>
+</dict>
+</plist>

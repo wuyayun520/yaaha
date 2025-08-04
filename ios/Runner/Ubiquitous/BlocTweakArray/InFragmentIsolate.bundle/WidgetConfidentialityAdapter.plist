@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAccessoryInteraction</key>
+	<string>layoutStyleOpacity</string>
+	<key>cosinePerChain</key>
+	<string>scrollForTier</string>
+	<key>decorationAroundBridge</key>
+	<string>transitionProxyPadding</string>
+	<key>immutableTangentForce</key>
+	<string>utilCommandBrightness</string>
+	<key>mobileNotificationState</key>
+	<string>symbolStructureValidation</string>
+	<key>spriteContextName</key>
+	<string>uniqueOperationName</string>
+	<key>tappableTickerInterval</key>
+	<string>nativeFragmentForce</string>
+	<key>taskObserverRate</key>
+	<string>factoryModeTheme</string>
+</dict>
+</plist>

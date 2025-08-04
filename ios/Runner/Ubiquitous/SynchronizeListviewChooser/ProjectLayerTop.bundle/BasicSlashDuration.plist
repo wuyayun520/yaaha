@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaJob</key>
+	<string>constraintPerType</string>
+	<key>gridviewSingletonResponse</key>
+	<string>eventDecoratorRight</string>
+	<key>queuePerCycle</key>
+	<string>skinOfActivity</string>
+	<key>sessionFrameworkRotation</key>
+	<string>intensityCompositeShade</string>
+	<key>topicStageEdge</key>
+	<string>chapterAndPattern</string>
+</dict>
+</plist>

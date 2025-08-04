@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferInJob</key>
+	<string>standaloneCycleBorder</string>
+	<key>easyMatrixStyle</key>
+	<string>uniqueToolVelocity</string>
+	<key>inactivePopupAcceleration</key>
+	<string>synchronousReductionSkewx</string>
+	<key>intensityOperationLeft</key>
+	<string>radioEnvironmentLeft</string>
+	<key>lossValueSkewx</key>
+	<string>providerParameterOffset</string>
+	<key>mediumAlertColor</key>
+	<string>sharedPositionMargin</string>
+	<key>titleLevelSpeed</key>
+	<string>constraintOrWork</string>
+</dict>
+</plist>

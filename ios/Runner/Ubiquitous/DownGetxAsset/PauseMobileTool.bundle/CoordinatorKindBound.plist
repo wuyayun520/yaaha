@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInMode</key>
+	<string>tappableSignDistance</string>
+	<key>fragmentCycleContrast</key>
+	<string>completerVersusVar</string>
+	<key>futureVarHead</key>
+	<string>declarativeContainerScale</string>
+	<key>intuitiveBlocValidation</key>
+	<string>hierarchicalMissionRight</string>
+	<key>musicJobBound</key>
+	<string>reactiveReducerLocation</string>
+	<key>requestStageBehavior</key>
+	<string>radiusStrategyDirection</string>
+	<key>sortedCompletionSpeed</key>
+	<string>toolSingletonName</string>
+</dict>
+</plist>

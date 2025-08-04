@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAgainstParam</key>
+	<string>catalystStructureRotation</string>
+	<key>basicSkirtMode</key>
+	<string>eagerRadiusShade</string>
+	<key>largeCollectionDensity</key>
+	<string>priorObserverOrigin</string>
+	<key>multiCompleterShape</key>
+	<string>cellInsideLevel</string>
+	<key>nodeKindCount</key>
+	<string>factoryBySystem</string>
+	<key>skinWithoutFramework</key>
+	<string>decorationFrameworkVisibility</string>
+	<key>typicalSlashDuration</key>
+	<string>mediaOrEnvironment</string>
+</dict>
+</plist>

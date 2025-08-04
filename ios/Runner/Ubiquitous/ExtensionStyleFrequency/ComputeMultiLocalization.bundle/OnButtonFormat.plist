@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCompositeTail</key>
+	<string>explicitLogTop</string>
+	<key>drawerBeyondState</key>
+	<string>expandedModeMargin</string>
+	<key>handlerMediatorContrast</key>
+	<string>mediaPrototypeOrigin</string>
+	<key>mobileLayerBottom</key>
+	<string>statelessCompositeOrigin</string>
+	<key>repositoryPlatformStyle</key>
+	<string>monsterAboutValue</string>
+</dict>
+</plist>

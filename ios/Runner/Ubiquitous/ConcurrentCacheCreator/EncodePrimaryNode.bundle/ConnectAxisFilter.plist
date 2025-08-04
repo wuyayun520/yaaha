@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSubpixelBottom</key>
+	<string>overlayProcessVisible</string>
+	<key>gridviewAndStyle</key>
+	<string>chapterByProxy</string>
+	<key>resourceModeKind</key>
+	<string>composableAlignmentBrightness</string>
+	<key>singletonTempleDepth</key>
+	<string>alertSingletonAppearance</string>
+	<key>viewIncludeForm</key>
+	<string>mutableTextureResponse</string>
+</dict>
+</plist>

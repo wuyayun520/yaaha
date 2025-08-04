@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAmongDecorator</key>
+	<string>sinkContainCommand</string>
+	<key>collectionAroundSingleton</key>
+	<string>stepAroundNumber</string>
+	<key>easySignTail</key>
+	<string>agileMatrixDirection</string>
+	<key>functionalParticleStyle</key>
+	<string>criticalLayoutRate</string>
+	<key>positionExceptStyle</key>
+	<string>persistentBoxshadowAppearance</string>
+	<key>referenceOrSingleton</key>
+	<string>protocolPhaseTag</string>
+	<key>reusableProtocolVisible</key>
+	<string>rectThanFramework</string>
+	<key>tappableDrawerOpacity</key>
+	<string>projectAlongParam</string>
+</dict>
+</plist>

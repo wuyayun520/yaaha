@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentInterpolationCenter</key>
+	<string>bulletAsCommand</string>
+	<key>declarativeInkwellTheme</key>
+	<string>memberMethodDelay</string>
+	<key>flexibleDimensionValidation</key>
+	<string>sizePatternTheme</string>
+	<key>graphBridgeInteraction</key>
+	<string>iconActionTheme</string>
+	<key>memberAdapterMode</key>
+	<string>liteShaderState</string>
+</dict>
+</plist>

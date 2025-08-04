@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellStrategyType</key>
+	<string>tabviewOfTier</string>
+	<key>compositionalProfileDistance</key>
+	<string>hyperbolicSizedboxAlignment</string>
+	<key>constraintAboutLayer</key>
+	<string>cubitAgainstBuffer</string>
+	<key>modulusPerProxy</key>
+	<string>discardedAsyncMode</string>
+	<key>optimizerFacadeRotation</key>
+	<string>radioLikeMediator</string>
+	<key>presenterFormCount</key>
+	<string>normalContainerBehavior</string>
+	<key>routerAboutAdapter</key>
+	<string>giftFormScale</string>
+	<key>spriteTempleVisible</key>
+	<string>publicPrecisionTint</string>
+	<key>utilIncludeLayer</key>
+	<string>streamKindTop</string>
+</dict>
+</plist>

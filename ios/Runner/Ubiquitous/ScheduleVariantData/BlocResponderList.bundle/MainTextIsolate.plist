@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInteractorShade</key>
+	<string>cardScopeBorder</string>
+	<key>consumerExceptEnvironment</key>
+	<string>heroInPattern</string>
+	<key>mediaqueryAboutProxy</key>
+	<string>observerBeyondWork</string>
+	<key>projectionCycleMargin</key>
+	<string>multiPaddingVisibility</string>
+	<key>similarBoxInset</key>
+	<string>usecaseOfEnvironment</string>
+	<key>timerStructureEdge</key>
+	<string>concurrentProfileKind</string>
+	<key>widgetOrStructure</key>
+	<string>interactiveAsyncAppearance</string>
+</dict>
+</plist>

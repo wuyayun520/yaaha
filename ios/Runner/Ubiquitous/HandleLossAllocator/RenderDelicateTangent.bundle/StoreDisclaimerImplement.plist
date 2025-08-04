@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateWorkflowDensity</key>
+	<string>dynamicDurationEdge</string>
+	<key>mobxVarVisibility</key>
+	<string>descriptionAtKind</string>
+	<key>publicContainerRight</key>
+	<string>routerContextState</string>
+	<key>resourceOfNumber</key>
+	<string>aspectratioSingletonFormat</string>
+	<key>scrollValueInset</key>
+	<string>lostActivityColor</string>
+	<key>smartTickerFeedback</key>
+	<string>semanticLayerBorder</string>
+	<key>standaloneHashTint</key>
+	<string>symmetricNavigatorPosition</string>
+	<key>statefulDurationSkewy</key>
+	<string>servicePlatformFlags</string>
+	<key>touchInterpreterLocation</key>
+	<string>invisibleServiceRight</string>
+</dict>
+</plist>

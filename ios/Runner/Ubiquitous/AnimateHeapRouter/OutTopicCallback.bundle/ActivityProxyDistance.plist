@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperUntilJob</key>
+	<string>desktopMobileSaturation</string>
+	<key>constQueryDuration</key>
+	<string>notificationProxyState</string>
+	<key>durationBufferPressure</key>
+	<string>providerAdapterPadding</string>
+	<key>extensionMethodName</key>
+	<string>textAroundBridge</string>
+	<key>modelChainHead</key>
+	<string>movementEnvironmentSaturation</string>
+	<key>rowProxyType</key>
+	<string>chartAtFacade</string>
+	<key>titleProxyBrightness</key>
+	<string>gridByContext</string>
+	<key>tweenTypeOpacity</key>
+	<string>boxThanVar</string>
+</dict>
+</plist>

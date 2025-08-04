@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPerAdapter</key>
+	<string>textureJobState</string>
+	<key>capacitiesAmongContext</key>
+	<string>intuitiveCompleterPosition</string>
+	<key>currentControllerSaturation</key>
+	<string>toolInsideParameter</string>
+	<key>futureBesideFlyweight</key>
+	<string>iterativeTweenStatus</string>
+	<key>immutableTechniqueName</key>
+	<string>tappableViewCoord</string>
+	<key>indicatorProcessCenter</key>
+	<string>adaptiveCurveSaturation</string>
+	<key>localMatrixBrightness</key>
+	<string>advancedGramTag</string>
+	<key>statefulAsyncHue</key>
+	<string>reactiveNavigatorPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeLevel</key>
+	<string>awaitAtStructure</string>
+	<key>containerObserverOffset</key>
+	<string>standaloneGrainSpacing</string>
+	<key>convolutionTypeFlags</key>
+	<string>interfaceFunctionPadding</string>
+	<key>grayscaleStagePressure</key>
+	<string>callbackThroughParam</string>
+	<key>interactorFlyweightRate</key>
+	<string>resourceSystemVelocity</string>
+	<key>lastChallengePosition</key>
+	<string>timerAgainstAdapter</string>
+	<key>permissiveSegmentInterval</key>
+	<string>containerTempleDensity</string>
+</dict>
+</plist>

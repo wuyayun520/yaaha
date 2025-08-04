@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousActionAppearance</key>
+	<string>eagerShaderFlags</string>
+	<key>compositionalFeatureSkewy</key>
+	<string>inactiveQueueOrigin</string>
+	<key>decorationModeTheme</key>
+	<string>composableStoreColor</string>
+	<key>directSizedboxOffset</key>
+	<string>stampMediatorDelay</string>
+	<key>functionalEqualizationTint</key>
+	<string>effectOfVar</string>
+	<key>parallelCollectionVisible</key>
+	<string>listenerBufferPosition</string>
+	<key>rectWithShape</key>
+	<string>interactiveRepositoryTag</string>
+	<key>repositoryAroundVariable</key>
+	<string>utilInInterpreter</string>
+	<key>sampleModeAlignment</key>
+	<string>pinchableBoxshadowStyle</string>
+	<key>tangentNearFunction</key>
+	<string>blocIncludeStage</string>
+</dict>
+</plist>

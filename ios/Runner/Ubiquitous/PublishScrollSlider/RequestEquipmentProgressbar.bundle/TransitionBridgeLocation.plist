@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAppbarSkewx</key>
+	<string>modelInsideVariable</string>
+	<key>constraintAsPlatform</key>
+	<string>gridStyleDepth</string>
+	<key>coordinatorInAction</key>
+	<string>adaptiveDecorationStatus</string>
+	<key>singletonThroughMemento</key>
+	<string>allocatorScopeRate</string>
+</dict>
+</plist>

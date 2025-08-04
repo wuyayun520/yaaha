@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCompositionTension</key>
+	<string>opaqueVariantSkewy</string>
+	<key>columnInterpreterInterval</key>
+	<string>cubitValueBound</string>
+	<key>concreteTransitionPressure</key>
+	<string>draggableSceneBound</string>
+	<key>radioIncludeStyle</key>
+	<string>capsuleAsBuffer</string>
+	<key>specifyPresenterSkewx</key>
+	<string>semanticRadiusPadding</string>
+	<key>spotOperationInteraction</key>
+	<string>cycleNearSingleton</string>
+</dict>
+</plist>

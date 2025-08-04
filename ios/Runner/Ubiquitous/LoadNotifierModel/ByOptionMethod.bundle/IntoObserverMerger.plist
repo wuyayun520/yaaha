@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContainFacade</key>
+	<string>indicatorAgainstAdapter</string>
+	<key>equipmentFormVelocity</key>
+	<string>effectCycleRotation</string>
+	<key>intermediateTaskVisibility</key>
+	<string>gateEnvironmentInteraction</string>
+	<key>largeFutureDepth</key>
+	<string>chartParamTag</string>
+	<key>masterActionVisible</key>
+	<string>chartObserverHead</string>
+	<key>priorityInFacade</key>
+	<string>delegateCommandStyle</string>
+</dict>
+</plist>

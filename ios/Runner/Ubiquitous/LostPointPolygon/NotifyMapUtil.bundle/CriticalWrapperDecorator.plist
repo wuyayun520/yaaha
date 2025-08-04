@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideAdapter</key>
+	<string>interfaceIncludeCycle</string>
+	<key>contractionStageBound</key>
+	<string>uniformRadiusBound</string>
+	<key>durationBeyondBridge</key>
+	<string>normActionPressure</string>
+	<key>pinchableCurveFlags</key>
+	<string>queueVisitorVisible</string>
+	<key>resourceWithPhase</key>
+	<string>ephemeralQueryShade</string>
+	<key>symmetricHashVisibility</key>
+	<string>inheritedGridviewForce</string>
+</dict>
+</plist>

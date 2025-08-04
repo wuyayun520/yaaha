@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAsParameter</key>
+	<string>asyncAsyncValidation</string>
+	<key>bitrateStageDensity</key>
+	<string>scaleParameterTail</string>
+	<key>clipperAlongLevel</key>
+	<string>callbackThroughPhase</string>
+	<key>containerNearObserver</key>
+	<string>viewForType</string>
+	<key>deferredSignCenter</key>
+	<string>groupMediatorColor</string>
+	<key>musicJobOffset</key>
+	<string>futureTaskOrigin</string>
+	<key>sharedTitleColor</key>
+	<string>navigatorAsBuffer</string>
+	<key>tabviewInPrototype</key>
+	<string>stateBridgeTag</string>
+	<key>usecaseProcessColor</key>
+	<string>smallRowLeft</string>
+</dict>
+</plist>

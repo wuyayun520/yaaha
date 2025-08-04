@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedModelAcceleration</key>
+	<string>ephemeralMultiplicationTop</string>
+	<key>factoryAsFramework</key>
+	<string>symbolIncludeMediator</string>
+	<key>intensityOutsideComposite</key>
+	<string>eagerOffsetTransparency</string>
+	<key>primaryUtilState</key>
+	<string>mediaqueryOutsideMemento</string>
+	<key>timerFlyweightState</key>
+	<string>visibleFutureAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDuringParameter</key>
+	<string>labelLikeProxy</string>
+	<key>autoCubitDepth</key>
+	<string>lazyContractionTail</string>
+	<key>descriptionOutsideVar</key>
+	<string>asynchronousAppbarInteraction</string>
+	<key>difficultStateFormat</key>
+	<string>hashWithPlatform</string>
+	<key>prevGramFrequency</key>
+	<string>bitrateNearForm</string>
+	<key>progressbarEnvironmentRotation</key>
+	<string>resultActivityTop</string>
+	<key>statefulButtonPosition</key>
+	<string>extensionStrategyTension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowModeState</key>
+	<string>gemStrategyHue</string>
+	<key>constraintContainPattern</key>
+	<string>dependencyOutsideComposite</string>
+	<key>controllerThroughBridge</key>
+	<string>resolverUntilDecorator</string>
+	<key>injectionByMode</key>
+	<string>zoneAndParam</string>
+	<key>lossStyleSpeed</key>
+	<string>decorationFromMethod</string>
+	<key>numericalBitrateTension</key>
+	<string>parallelThreadRotation</string>
+	<key>sceneIncludeCommand</key>
+	<string>usecaseDuringPlatform</string>
+</dict>
+</plist>

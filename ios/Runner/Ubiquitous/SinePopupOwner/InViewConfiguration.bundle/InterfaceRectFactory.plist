@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateMaterialDuration</key>
+	<string>timerInParameter</string>
+	<key>disparateSemanticsRotation</key>
+	<string>secondExceptionCoord</string>
+	<key>gemAdapterAlignment</key>
+	<string>precisionModeLeft</string>
+	<key>ignoredFactoryAcceleration</key>
+	<string>positionedShapeSkewy</string>
+	<key>opaqueDelegateMomentum</key>
+	<string>listenerFlyweightKind</string>
+	<key>pinchableSwitchOpacity</key>
+	<string>offsetOperationInset</string>
+	<key>secondCompositionStatus</key>
+	<string>routeVersusNumber</string>
+	<key>spotValueVelocity</key>
+	<string>unsortedRequestOpacity</string>
+</dict>
+</plist>

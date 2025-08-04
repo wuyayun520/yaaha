@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reactiveProviderSpeed</key>
+	<string>constResponseStatus</string>
+	<key>resultSingletonForce</key>
+	<string>memberAroundMethod</string>
+	<key>subscriptionNearShape</key>
+	<string>coordinatorContainParameter</string>
+	<key>textfieldWithType</key>
+	<string>queryTypeHue</string>
+</dict>
+</plist>

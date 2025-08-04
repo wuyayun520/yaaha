@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSystemStyle</key>
+	<string>cupertinoRouteFeedback</string>
+	<key>curveAboutDecorator</key>
+	<string>customVectorCenter</string>
+	<key>responsiveConfigurationOrigin</key>
+	<string>screenParamSaturation</string>
+	<key>roleFromFlyweight</key>
+	<string>navigatorNearFunction</string>
+	<key>sceneVersusChain</key>
+	<string>unaryByObserver</string>
+	<key>singletonVariableDepth</key>
+	<string>canvasThanDecorator</string>
+	<key>singletonVersusBuffer</key>
+	<string>grainStrategyAcceleration</string>
+	<key>ternaryTierDuration</key>
+	<string>usageIncludeInterpreter</string>
+	<key>typicalPointBrightness</key>
+	<string>integerInsideVisitor</string>
+</dict>
+</plist>

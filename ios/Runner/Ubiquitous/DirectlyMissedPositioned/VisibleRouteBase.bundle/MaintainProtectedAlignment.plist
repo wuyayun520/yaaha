@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpriteTransparency</key>
+	<string>comprehensivePopupScale</string>
+	<key>denseTableAcceleration</key>
+	<string>dynamicConfigurationTint</string>
+	<key>modelIncludeVisitor</key>
+	<string>baseDuringDecorator</string>
+	<key>mutableAllocatorFrequency</key>
+	<string>routeLikeOperation</string>
+	<key>paddingIncludeMode</key>
+	<string>activeButtonPressure</string>
+	<key>positionedDecoratorAlignment</key>
+	<string>cycleJobTension</string>
+	<key>requiredStatelessTop</key>
+	<string>largeBuilderSpacing</string>
+	<key>sequentialExtensionDirection</key>
+	<string>singleMasterContrast</string>
+	<key>usecaseStrategyMode</key>
+	<string>navigatorVarShade</string>
+</dict>
+</plist>

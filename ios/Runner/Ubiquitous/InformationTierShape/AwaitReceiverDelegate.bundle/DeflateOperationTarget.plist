@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderThroughStrategy</key>
+	<string>customMarginVisible</string>
+	<key>cacheAtKind</key>
+	<string>appbarLikeStyle</string>
+	<key>draggableLabelDistance</key>
+	<string>disparateAxisTransparency</string>
+	<key>gateWithFramework</key>
+	<string>clipperThanAction</string>
+	<key>inkwellLayerDensity</key>
+	<string>permissiveGraphFeedback</string>
+	<key>mobileBridgeColor</key>
+	<string>deferredBehaviorMargin</string>
+	<key>smallDurationSkewy</key>
+	<string>layerStrategySkewx</string>
+	<key>textAsPattern</key>
+	<string>sliderEnvironmentPosition</string>
+	<key>widgetShapeMomentum</key>
+	<string>mutableGetxSaturation</string>
+</dict>
+</plist>

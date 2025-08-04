@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleParameterValidation</key>
+	<string>localizationProxyOffset</string>
+	<key>displayableParticleSize</key>
+	<string>bitrateBridgeDepth</string>
+	<key>explicitListviewPosition</key>
+	<string>gridBridgeType</string>
+	<key>listenerSinceMediator</key>
+	<string>normalNibVisible</string>
+	<key>matrixAroundScope</key>
+	<string>oldEffectBound</string>
+	<key>pageviewAgainstComposite</key>
+	<string>permanentNibVelocity</string>
+	<key>presenterPlatformMode</key>
+	<string>specifyParticleHead</string>
+</dict>
+</plist>

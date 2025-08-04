@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBridgeBehavior</key>
+	<string>basicIntegerOffset</string>
+	<key>interpolationAmongComposite</key>
+	<string>firstSceneMargin</string>
+	<key>multiDurationOrigin</key>
+	<string>seguePrototypeDelay</string>
+	<key>popupWithoutOperation</key>
+	<string>projectionKindFormat</string>
+	<key>taskScopeValidation</key>
+	<string>iconLikeComposite</string>
+	<key>tensorCurveStyle</key>
+	<string>disabledOffsetCount</string>
+	<key>transitionStrategySkewx</key>
+	<string>modelTempleVisibility</string>
+</dict>
+</plist>

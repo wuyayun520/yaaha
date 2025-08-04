@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferJobFormat</key>
+	<string>reducerTierDepth</string>
+	<key>commonDialogsStatus</key>
+	<string>transformerContextValidation</string>
+	<key>navigationCycleVisibility</key>
+	<string>activityInterpreterInteraction</string>
+	<key>pinchableEventDirection</key>
+	<string>substantialTickerValidation</string>
+	<key>prismaticTimerAlignment</key>
+	<string>scrollCompositeIndex</string>
+	<key>requestTaskSkewy</key>
+	<string>arithmeticManagerMode</string>
+	<key>signatureJobStatus</key>
+	<string>modulusWithValue</string>
+	<key>unsortedEffectDepth</key>
+	<string>actionMementoVisible</string>
+</dict>
+</plist>

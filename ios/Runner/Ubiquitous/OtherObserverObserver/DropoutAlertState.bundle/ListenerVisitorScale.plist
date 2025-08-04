@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableRouteCount</key>
+	<string>frameFacadeOpacity</string>
+	<key>ephemeralLayerAcceleration</key>
+	<string>synchronousCycleAcceleration</string>
+	<key>futureViaEnvironment</key>
+	<string>immutableStorageSize</string>
+	<key>notifierChainRate</key>
+	<string>sizedboxPlatformBrightness</string>
+	<key>projectionInterpreterBrightness</key>
+	<string>resultActivityCenter</string>
+	<key>sortedGateVisibility</key>
+	<string>oldControllerSaturation</string>
+	<key>tickerAboutKind</key>
+	<string>retainedSwiftBorder</string>
+</dict>
+</plist>

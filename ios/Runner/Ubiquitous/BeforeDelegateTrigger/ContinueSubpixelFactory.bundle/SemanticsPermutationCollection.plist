@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledFragmentKind</key>
+	<string>dialogsAlongParam</string>
+	<key>drawerUntilBuffer</key>
+	<string>kernelActivityStatus</string>
+	<key>featureInsideCommand</key>
+	<string>observerDespitePattern</string>
+	<key>intuitiveLogAppearance</key>
+	<string>errorSinceActivity</string>
+	<key>liteAllocatorStatus</key>
+	<string>basicSegmentTheme</string>
+</dict>
+</plist>

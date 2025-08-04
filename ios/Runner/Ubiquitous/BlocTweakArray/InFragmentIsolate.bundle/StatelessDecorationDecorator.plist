@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationAsFunction</key>
+	<string>prismaticCanvasInset</string>
+	<key>isolateWithDecorator</key>
+	<string>vectorAndCycle</string>
+	<key>sensorModeFrequency</key>
+	<string>skinAlongMode</string>
+	<key>visibleConstraintName</key>
+	<string>responsiveCheckboxFeedback</string>
+</dict>
+</plist>

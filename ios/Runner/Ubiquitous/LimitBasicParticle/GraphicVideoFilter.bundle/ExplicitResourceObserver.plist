@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellKindOrigin</key>
+	<string>expandedActionEdge</string>
+	<key>declarativeStampEdge</key>
+	<string>radiusFacadeSkewy</string>
+	<key>descriptionDespiteMode</key>
+	<string>elasticButtonVisibility</string>
+	<key>integerInAdapter</key>
+	<string>finalIntegerFeedback</string>
+	<key>lastPositionBorder</key>
+	<string>decorationSingletonMargin</string>
+	<key>taskMethodLocation</key>
+	<string>unactivatedViewResponse</string>
+</dict>
+</plist>

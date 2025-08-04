@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marginAboutShape</key>
+	<string>chapterAndMediator</string>
+	<key>modalThroughScope</key>
+	<string>customUsecaseEdge</string>
+	<key>normalMasterSpacing</key>
+	<string>composableSceneTransparency</string>
+	<key>persistentTableRotation</key>
+	<string>accessoryThroughPlatform</string>
+	<key>resolverKindForce</key>
+	<string>sampleStrategyBrightness</string>
+	<key>textOrValue</key>
+	<string>keyPopupTension</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameAmongNumber</key>
+	<string>dimensionNearBuffer</string>
+	<key>kernelAsBuffer</key>
+	<string>hashValuePadding</string>
+	<key>oldIntegerPressure</key>
+	<string>modalFormResponse</string>
+	<key>referenceValueFlags</key>
+	<string>heapViaProxy</string>
+	<key>sizeBufferEdge</key>
+	<string>navigatorByVisitor</string>
+</dict>
+</plist>

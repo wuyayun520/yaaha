@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTempleSpeed</key>
+	<string>imperativeMarginOpacity</string>
+	<key>greatTimerVisibility</key>
+	<string>intuitiveRadiusFeedback</string>
+	<key>hashAwayCommand</key>
+	<string>notifierNumberSaturation</string>
+	<key>intermediateLoopRate</key>
+	<string>nativeMasterOrientation</string>
+	<key>notifierContainSingleton</key>
+	<string>prevProviderMargin</string>
+	<key>positionCompositeInteraction</key>
+	<string>streamWithPlatform</string>
+	<key>rapidBehaviorOrientation</key>
+	<string>sizeVersusFramework</string>
+	<key>responsiveCharacterBottom</key>
+	<string>arithmeticNavigatorOrientation</string>
+	<key>sliderAwayBridge</key>
+	<string>curveAsFunction</string>
+</dict>
+</plist>

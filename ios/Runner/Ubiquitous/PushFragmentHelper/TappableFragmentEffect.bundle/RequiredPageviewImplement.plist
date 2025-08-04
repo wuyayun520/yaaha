@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedChannelsDirection</key>
+	<string>lazyTabbarTheme</string>
+	<key>decorationActionOrigin</key>
+	<string>repositoryMethodBrightness</string>
+	<key>firstPositionedBottom</key>
+	<string>titleContainParameter</string>
+	<key>immutableStampOffset</key>
+	<string>materialSignatureVisible</string>
+	<key>layoutPlatformInteraction</key>
+	<string>descriptorAtEnvironment</string>
+	<key>nextPopupForce</key>
+	<string>semanticTaskHue</string>
+	<key>smallBatchSize</key>
+	<string>globalSessionOpacity</string>
+	<key>spriteViaValue</key>
+	<string>reusableBlocSaturation</string>
+	<key>tweenAboutMode</key>
+	<string>sizeTempleStatus</string>
+</dict>
+</plist>

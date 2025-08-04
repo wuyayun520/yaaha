@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFrameworkShade</key>
+	<string>standaloneContainerRight</string>
+	<key>currentZoneHue</key>
+	<string>timerByState</string>
+	<key>resolverPerStructure</key>
+	<string>exceptionWithNumber</string>
+	<key>rolePatternDepth</key>
+	<string>permissiveBufferEdge</string>
+	<key>staticCompleterSpacing</key>
+	<string>providerFromParam</string>
+</dict>
+</plist>

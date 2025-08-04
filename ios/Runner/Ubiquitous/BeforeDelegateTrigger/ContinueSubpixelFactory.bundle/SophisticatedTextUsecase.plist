@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAdapterMargin</key>
+	<string>layoutPerActivity</string>
+	<key>chartWorkPosition</key>
+	<string>shaderObserverRate</string>
+	<key>containerLevelCount</key>
+	<string>activeGraphDepth</string>
+	<key>entropyKindInset</key>
+	<string>subscriptionDespiteKind</string>
+	<key>keyUsecaseRate</key>
+	<string>completionFunctionBorder</string>
+	<key>navigatorBesideAdapter</key>
+	<string>responseAtType</string>
+	<key>taskNearFacade</key>
+	<string>easyClipperVisible</string>
+</dict>
+</plist>

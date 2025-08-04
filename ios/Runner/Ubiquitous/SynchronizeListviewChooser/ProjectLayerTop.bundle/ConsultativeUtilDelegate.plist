@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAwayVariable</key>
+	<string>queueMediatorKind</string>
+	<key>deferredAppbarRate</key>
+	<string>operationContextAppearance</string>
+	<key>discardedAsyncTheme</key>
+	<string>statefulDecorationCenter</string>
+	<key>functionalContractionRight</key>
+	<string>indicatorStageEdge</string>
+	<key>mainInterfaceCenter</key>
+	<string>priorTransitionFeedback</string>
+	<key>optionStateOffset</key>
+	<string>samplePerTemple</string>
+	<key>rowByTask</key>
+	<string>modelBridgeSize</string>
+	<key>spotDuringMethod</key>
+	<string>reducerProcessLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFeatureSpacing</key>
+	<string>routeThroughProxy</string>
+	<key>agileMapPressure</key>
+	<string>customizedButtonValidation</string>
+	<key>builderScopeOffset</key>
+	<string>projectionInType</string>
+	<key>commandAgainstPlatform</key>
+	<string>swiftFormVisibility</string>
+	<key>constraintStageFlags</key>
+	<string>deferredCurveInterval</string>
+	<key>fusedMediaDensity</key>
+	<string>chapterMediatorBehavior</string>
+	<key>reductionChainLocation</key>
+	<string>permanentDelegateCount</string>
+	<key>symmetricProgressbarFlags</key>
+	<string>associatedRowDirection</string>
+</dict>
+</plist>

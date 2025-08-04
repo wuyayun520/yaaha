@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintCycleState</key>
+	<string>cupertinoVersusLayer</string>
+	<key>coordinatorStateLeft</key>
+	<string>tickerStageInset</string>
+	<key>denseDecorationHead</key>
+	<string>flexibleChartAcceleration</string>
+	<key>interactiveGesturePadding</key>
+	<string>animationAboutContext</string>
+	<key>listviewNearActivity</key>
+	<string>checkboxForParameter</string>
+	<key>tableCompositeType</key>
+	<string>statefulAsInterpreter</string>
+	<key>workflowSinceSingleton</key>
+	<string>paddingActivityCount</string>
+</dict>
+</plist>

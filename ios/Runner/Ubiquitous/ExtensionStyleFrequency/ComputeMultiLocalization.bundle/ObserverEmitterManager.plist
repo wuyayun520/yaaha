@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInkwellFlags</key>
+	<string>commonRadiusCoord</string>
+	<key>eventAsMediator</key>
+	<string>transitionAgainstAction</string>
+	<key>inactiveResultMode</key>
+	<string>mobileMediatorStatus</string>
+	<key>painterAndLevel</key>
+	<string>streamWorkMargin</string>
+	<key>resourceBesideFramework</key>
+	<string>intuitiveDescriptorForce</string>
+	<key>scrollableDelegateState</key>
+	<string>bufferVarFlags</string>
+	<key>sortedSkirtContrast</key>
+	<string>groupContainTier</string>
+</dict>
+</plist>

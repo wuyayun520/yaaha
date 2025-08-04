@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAllocatorFormat</key>
+	<string>textureAdapterTail</string>
+	<key>containerAgainstProxy</key>
+	<string>euclideanResourceForce</string>
+	<key>graphDespiteActivity</key>
+	<string>navigationInterpreterSaturation</string>
+	<key>handlerCycleContrast</key>
+	<string>textureModeLocation</string>
+	<key>handlerUntilState</key>
+	<string>extensionStyleDepth</string>
+	<key>largeOptionColor</key>
+	<string>invisibleButtonDirection</string>
+	<key>riverpodVariableTheme</key>
+	<string>localCacheMargin</string>
+	<key>sinkDespiteStrategy</key>
+	<string>errorViaOperation</string>
+	<key>textureAgainstChain</key>
+	<string>awaitOfWork</string>
+</dict>
+</plist>

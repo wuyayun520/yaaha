@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNodeDelay</key>
+	<string>statelessPlatformDelay</string>
+	<key>awaitAsParameter</key>
+	<string>immediateFrameAlignment</string>
+	<key>cellAwayPrototype</key>
+	<string>otherIsolateDistance</string>
+	<key>handlerPatternOpacity</key>
+	<string>sizedboxLayerDensity</string>
+	<key>reusableTextDirection</key>
+	<string>localizationFacadeTheme</string>
+	<key>smartViewVelocity</key>
+	<string>parallelGramPosition</string>
+	<key>touchProxyResponse</key>
+	<string>responseKindBrightness</string>
+</dict>
+</plist>

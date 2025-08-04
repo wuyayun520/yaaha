@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInteractorMode</key>
+	<string>tweenWithoutScope</string>
+	<key>cardAwayAdapter</key>
+	<string>sineNumberType</string>
+	<key>imageTypeCount</key>
+	<string>viewFromPrototype</string>
+	<key>integerByEnvironment</key>
+	<string>precisionFrameworkOrientation</string>
+	<key>overlayJobSpacing</key>
+	<string>draggableCharacterBrightness</string>
+	<key>sliderInCycle</key>
+	<string>declarativeIntensityResponse</string>
+	<key>subscriptionParamSpeed</key>
+	<string>controllerAboutEnvironment</string>
+	<key>synchronousGrayscaleValidation</key>
+	<string>tableAmongBridge</string>
+	<key>transformerParamOrigin</key>
+	<string>synchronousConfigurationDensity</string>
+	<key>variantFrameworkDirection</key>
+	<string>effectCommandValidation</string>
+</dict>
+</plist>

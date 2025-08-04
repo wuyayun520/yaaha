@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowContextTint</key>
+	<string>protectedAnchorTop</string>
+	<key>cubitMethodBrightness</key>
+	<string>granularMapOrientation</string>
+	<key>cupertinoJobScale</key>
+	<string>batchWithShape</string>
+	<key>grayscaleNearVisitor</key>
+	<string>textStateTop</string>
+	<key>gridFrameworkMargin</key>
+	<string>scrollableCubitCenter</string>
+	<key>ignoredPreviewVelocity</key>
+	<string>expandedVersusParameter</string>
+	<key>keyInterfaceTop</key>
+	<string>builderPhasePosition</string>
+	<key>positionParamAlignment</key>
+	<string>crudeUtilTheme</string>
+	<key>shaderVisitorBehavior</key>
+	<string>configurationProxyIndex</string>
+</dict>
+</plist>

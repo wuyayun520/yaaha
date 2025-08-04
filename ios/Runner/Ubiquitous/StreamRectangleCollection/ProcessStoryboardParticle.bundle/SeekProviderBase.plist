@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableReferenceBorder</key>
+	<string>collectionBesideMode</string>
+	<key>graphicTaskBehavior</key>
+	<string>constraintAsPattern</string>
+	<key>inkwellPerAction</key>
+	<string>rapidSliderInterval</string>
+	<key>largeCubitRotation</key>
+	<string>agileTransitionVisibility</string>
+	<key>localBulletShade</key>
+	<string>loopCommandSpacing</string>
+	<key>stampAdapterType</key>
+	<string>secondProgressbarInset</string>
+	<key>stateFrameworkCoord</key>
+	<string>cacheFromMode</string>
+</dict>
+</plist>

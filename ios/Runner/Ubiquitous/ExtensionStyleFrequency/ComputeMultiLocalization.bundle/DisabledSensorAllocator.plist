@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterWorkDelay</key>
+	<string>normalNavigatorLeft</string>
+	<key>retainedTextureSpeed</key>
+	<string>baselineValuePadding</string>
+	<key>utilAndState</key>
+	<string>firstGradientForce</string>
+	<key>zoneTaskOrientation</key>
+	<string>statelessReductionForce</string>
+</dict>
+</plist>

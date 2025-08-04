@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAxisInteraction</key>
+	<string>vectorAmongWork</string>
+	<key>clipperAgainstParameter</key>
+	<string>radiusParameterKind</string>
+	<key>gridOrBridge</key>
+	<string>channelsOrActivity</string>
+	<key>instructionSinceLevel</key>
+	<string>signWithStrategy</string>
+	<key>publicStackDelay</key>
+	<string>loopOutsideActivity</string>
+	<key>spriteVarDelay</key>
+	<string>singletonBeyondBuffer</string>
+	<key>subsequentLabelPadding</key>
+	<string>alignmentOutsideForm</string>
+</dict>
+</plist>

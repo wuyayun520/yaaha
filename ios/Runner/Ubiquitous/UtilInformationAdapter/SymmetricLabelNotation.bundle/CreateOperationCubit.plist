@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOutsideStrategy</key>
+	<string>customCubitRate</string>
+	<key>fragmentAdapterAppearance</key>
+	<string>vectorInMemento</string>
+	<key>originalDurationBehavior</key>
+	<string>decorationStageBottom</string>
+	<key>remainderKindBehavior</key>
+	<string>threadViaDecorator</string>
+	<key>taskChainName</key>
+	<string>movementViaMemento</string>
+</dict>
+</plist>

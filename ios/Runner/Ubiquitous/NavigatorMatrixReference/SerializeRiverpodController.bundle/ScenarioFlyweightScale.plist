@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerInsideParam</key>
+	<string>effectFrameworkColor</string>
+	<key>fragmentFormPosition</key>
+	<string>publicFlexPosition</string>
+	<key>frameEnvironmentInset</key>
+	<string>controllerContextPressure</string>
+	<key>lostDependencyResponse</key>
+	<string>appbarBeyondInterpreter</string>
+	<key>queryChainOffset</key>
+	<string>dynamicScrollBorder</string>
+	<key>signatureAlongBuffer</key>
+	<string>symmetricMovementKind</string>
+	<key>unsortedTransformerAppearance</key>
+	<string>singlePetFeedback</string>
+</dict>
+</plist>

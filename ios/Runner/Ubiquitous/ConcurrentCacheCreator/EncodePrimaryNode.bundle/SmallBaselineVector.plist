@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constButtonForce</key>
+	<string>mobileNodeDepth</string>
+	<key>explicitCallbackDelay</key>
+	<string>awaitSystemOpacity</string>
+	<key>gridFlyweightOpacity</key>
+	<string>collectionSystemState</string>
+	<key>layoutStateRate</key>
+	<string>adaptiveCheckboxForce</string>
+	<key>rapidPositionTransparency</key>
+	<string>allocatorSystemBorder</string>
+	<key>resolverExceptPlatform</key>
+	<string>gridviewFromBuffer</string>
+	<key>reusablePositionAppearance</key>
+	<string>consultativeMetadataOrigin</string>
+</dict>
+</plist>

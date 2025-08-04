@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTaskFormat</key>
+	<string>cubitSystemDistance</string>
+	<key>keyConstraintFeedback</key>
+	<string>publicProviderContrast</string>
+	<key>permissiveNotificationVisibility</key>
+	<string>certificateAndSystem</string>
+	<key>referenceNumberBound</key>
+	<string>synchronousProjectDensity</string>
+	<key>routePhaseAlignment</key>
+	<string>queuePerValue</string>
+	<key>specifyStatePosition</key>
+	<string>nextAspectEdge</string>
+</dict>
+</plist>

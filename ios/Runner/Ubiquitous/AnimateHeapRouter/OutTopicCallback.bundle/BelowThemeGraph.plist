@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normLevelBrightness</key>
+	<string>factoryWorkRotation</string>
+	<key>queueBufferFlags</key>
+	<string>responsiveSkirtRight</string>
+	<key>stateAlongMethod</key>
+	<string>managerProcessBrightness</string>
+	<key>statelessChainDistance</key>
+	<string>coordinatorSingletonCount</string>
+	<key>subsequentSceneSaturation</key>
+	<string>precisionActivityRate</string>
+	<key>tabviewAtMode</key>
+	<string>segmentWithSystem</string>
+	<key>timerLikeMediator</key>
+	<string>gridSystemMode</string>
+</dict>
+</plist>

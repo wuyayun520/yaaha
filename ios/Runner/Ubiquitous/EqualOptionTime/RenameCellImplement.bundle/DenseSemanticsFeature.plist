@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDependencySkewy</key>
+	<string>sortedSinkValidation</string>
+	<key>coordinatorAlongComposite</key>
+	<string>managerExceptProxy</string>
+	<key>deferredParticleCoord</key>
+	<string>isolateExceptActivity</string>
+	<key>futureOrProcess</key>
+	<string>errorBridgeCount</string>
+	<key>mapVersusVisitor</key>
+	<string>binaryBridgeOffset</string>
+	<key>tabviewAmongPhase</key>
+	<string>interfaceWithoutObserver</string>
+</dict>
+</plist>

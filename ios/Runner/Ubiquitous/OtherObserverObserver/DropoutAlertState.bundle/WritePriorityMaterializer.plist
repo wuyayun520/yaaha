@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateStructureBehavior</key>
+	<string>asyncAlongVar</string>
+	<key>rectInPhase</key>
+	<string>secondDependencySpacing</string>
+	<key>spriteVersusObserver</key>
+	<string>sliderVarVisible</string>
+</dict>
+</plist>

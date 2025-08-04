@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAgainstObserver</key>
+	<string>decorationInStrategy</string>
+	<key>equalizationStateOrientation</key>
+	<string>behaviorFacadeVelocity</string>
+	<key>firstBatchInset</key>
+	<string>normalControllerOrigin</string>
+	<key>transformerParamHue</key>
+	<string>currentRequestIndex</string>
+</dict>
+</plist>

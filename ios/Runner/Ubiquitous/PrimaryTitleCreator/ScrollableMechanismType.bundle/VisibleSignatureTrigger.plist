@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushExceptState</key>
+	<string>labelChainInterval</string>
+	<key>concurrentVectorAcceleration</key>
+	<string>sortedAllocatorAcceleration</string>
+	<key>desktopCubitPressure</key>
+	<string>navigatorPerLayer</string>
+	<key>labelFormKind</key>
+	<string>sliderProcessPadding</string>
+	<key>nodeByMode</key>
+	<string>unsortedTouchSkewy</string>
+	<key>optionFacadeDirection</key>
+	<string>originalCosineBorder</string>
+	<key>providerWithWork</key>
+	<string>animatedSpriteDuration</string>
+	<key>resizableGesturedetectorIndex</key>
+	<string>iterativeWidgetKind</string>
+</dict>
+</plist>

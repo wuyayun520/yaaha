@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDelegateTransparency</key>
+	<string>particleTypeCenter</string>
+	<key>associatedChannelsValidation</key>
+	<string>stepFunctionFlags</string>
+	<key>handlerObserverCoord</key>
+	<string>viewChainStyle</string>
+	<key>multiPaddingOpacity</key>
+	<string>textfieldAwayMode</string>
+	<key>primaryOffsetVisibility</key>
+	<string>skirtFromParameter</string>
+	<key>priorTopicOffset</key>
+	<string>logFrameworkKind</string>
+	<key>referenceByTask</key>
+	<string>tweenFlyweightType</string>
+	<key>resourceVersusParameter</key>
+	<string>subpixelFunctionHue</string>
+	<key>tabbarActionFormat</key>
+	<string>enabledCurveMode</string>
+	<key>taskFrameworkSkewx</key>
+	<string>alertScopeLeft</string>
+</dict>
+</plist>

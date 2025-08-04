@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperVariableTension</key>
+	<string>easyObserverBehavior</string>
+	<key>constraintPrototypeInteraction</key>
+	<string>interpolationObserverHue</string>
+	<key>flexibleDocumentTransparency</key>
+	<string>parallelNodeIndex</string>
+	<key>radiusParamName</key>
+	<string>modelThanStage</string>
+	<key>switchDecoratorTop</key>
+	<string>activatedSwitchRotation</string>
+	<key>taskBesideProxy</key>
+	<string>mobileTaskBorder</string>
+</dict>
+</plist>

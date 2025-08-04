@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFutureAppearance</key>
+	<string>asynchronousCompositionTheme</string>
+	<key>dynamicZoneFrequency</key>
+	<string>subscriptionContainObserver</string>
+	<key>interactorCycleStatus</key>
+	<string>streamWorkOrigin</string>
+	<key>lastCanvasStatus</key>
+	<string>nativeProviderColor</string>
+	<key>liteGrayscaleState</key>
+	<string>tensorMaterialRate</string>
+	<key>otherTitleInterval</key>
+	<string>cardPlatformDepth</string>
+	<key>textureProxyScale</key>
+	<string>labelLevelShade</string>
+	<key>timerSingletonOffset</key>
+	<string>semanticsAdapterBottom</string>
+</dict>
+</plist>

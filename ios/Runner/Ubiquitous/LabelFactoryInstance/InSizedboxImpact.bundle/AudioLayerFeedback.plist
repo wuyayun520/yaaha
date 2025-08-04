@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandActionBorder</key>
+	<string>smallCaptionBehavior</string>
+	<key>concreteAwaitFrequency</key>
+	<string>sequentialListviewCoord</string>
+	<key>iconWithoutBuffer</key>
+	<string>iconActionAppearance</string>
+	<key>interpolationCommandRotation</key>
+	<string>draggableCanvasRate</string>
+	<key>providerThroughPattern</key>
+	<string>nodeActivityPressure</string>
+	<key>sustainableSliderLocation</key>
+	<string>lazyInkwellTension</string>
+</dict>
+</plist>

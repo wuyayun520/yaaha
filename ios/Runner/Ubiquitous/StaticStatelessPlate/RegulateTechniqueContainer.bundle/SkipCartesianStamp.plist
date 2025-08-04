@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardStrategyInteraction</key>
+	<string>batchStrategyType</string>
+	<key>chapterAtAction</key>
+	<string>streamWorkDirection</string>
+	<key>completerSystemSkewy</key>
+	<string>basicNavigatorScale</string>
+	<key>errorOfStage</key>
+	<string>callbackModeShape</string>
+	<key>navigationViaMethod</key>
+	<string>tweenJobFrequency</string>
+	<key>sineAlongBuffer</key>
+	<string>alignmentPerObserver</string>
+	<key>symbolAwayVar</key>
+	<string>reactiveInstructionAcceleration</string>
+	<key>synchronousLossValidation</key>
+	<string>zoneAsMethod</string>
+</dict>
+</plist>

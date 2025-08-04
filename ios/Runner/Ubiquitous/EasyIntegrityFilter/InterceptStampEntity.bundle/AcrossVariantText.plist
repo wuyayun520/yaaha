@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFacadeBottom</key>
+	<string>tweenWithVisitor</string>
+	<key>containerNearStage</key>
+	<string>layerPerFlyweight</string>
+	<key>gemCompositeInteraction</key>
+	<string>dynamicIntegerState</string>
+	<key>inheritedTechniquePadding</key>
+	<string>plateFromNumber</string>
+	<key>listviewWorkDensity</key>
+	<string>asyncContextAlignment</string>
+	<key>responseBesideCycle</key>
+	<string>dependencyJobValidation</string>
+	<key>textfieldThanParameter</key>
+	<string>parallelConfigurationName</string>
+	<key>touchWithEnvironment</key>
+	<string>nativeTextDistance</string>
+</dict>
+</plist>

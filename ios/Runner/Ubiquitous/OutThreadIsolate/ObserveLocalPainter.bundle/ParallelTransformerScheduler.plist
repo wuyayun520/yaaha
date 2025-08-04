@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryActivityPadding</key>
+	<string>toolAndFunction</string>
+	<key>methodByForm</key>
+	<string>smallGroupTag</string>
+	<key>positionInterpreterOrigin</key>
+	<string>animatedChannelsDelay</string>
+	<key>singletonViaMediator</key>
+	<string>customProgressbarDepth</string>
+	<key>subsequentVariantInset</key>
+	<string>usedRowKind</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisSincePattern</key>
+	<string>asyncTabbarInteraction</string>
+	<key>buttonChainTag</key>
+	<string>radioPerOperation</string>
+	<key>commandMediatorTheme</key>
+	<string>storeFromStyle</string>
+	<key>cubitOutsideMemento</key>
+	<string>staticSpriteOrientation</string>
+	<key>geometricInteractorEdge</key>
+	<string>globalTransitionRate</string>
+	<key>remainderThroughState</key>
+	<string>drawerStyleRotation</string>
+	<key>textThroughChain</key>
+	<string>checklistAwayScope</string>
+	<key>uniformProviderLocation</key>
+	<string>hierarchicalAccessoryMargin</string>
+</dict>
+</plist>

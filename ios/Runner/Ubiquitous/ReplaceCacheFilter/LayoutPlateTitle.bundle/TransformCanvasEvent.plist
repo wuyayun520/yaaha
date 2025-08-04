@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPetTag</key>
+	<string>containerTypeFlags</string>
+	<key>desktopTaskShape</key>
+	<string>viewObserverEdge</string>
+	<key>indicatorFunctionSpeed</key>
+	<string>storyboardFunctionColor</string>
+	<key>layoutSinceKind</key>
+	<string>gridPatternAppearance</string>
+	<key>logLayerOrigin</key>
+	<string>rectAwayDecorator</string>
+	<key>notifierStageStyle</key>
+	<string>lazyLabelRight</string>
+	<key>techniqueBesideFunction</key>
+	<string>uniformAnchorFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAtFlyweight</key>
+	<string>tabbarStructureStyle</string>
+	<key>directStatelessSkewy</key>
+	<string>labelBufferOffset</string>
+	<key>enabledSpriteDensity</key>
+	<string>graphicPerPrototype</string>
+	<key>ignoredAlertOpacity</key>
+	<string>columnTempleFeedback</string>
+	<key>lazyErrorContrast</key>
+	<string>interactorOrVariable</string>
+	<key>mobxTierResponse</key>
+	<string>expandedBufferName</string>
+	<key>scrollScopeInterval</key>
+	<string>blocVisitorDistance</string>
+</dict>
+</plist>

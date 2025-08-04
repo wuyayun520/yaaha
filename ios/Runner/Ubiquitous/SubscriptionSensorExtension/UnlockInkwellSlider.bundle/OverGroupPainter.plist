@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSegmentPosition</key>
+	<string>associatedSkinVelocity</string>
+	<key>frameAndVar</key>
+	<string>containerStateDelay</string>
+	<key>geometricContainerDelay</key>
+	<string>appbarTypeOrigin</string>
+	<key>interactorJobType</key>
+	<string>relationalFlexBrightness</string>
+	<key>toolVarFeedback</key>
+	<string>sceneDespiteStrategy</string>
+</dict>
+</plist>

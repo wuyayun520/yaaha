@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveParticleDistance</key>
+	<string>symmetricSceneState</string>
+	<key>rapidStorePressure</key>
+	<string>chartActionSpeed</string>
+	<key>scrollableEventFlags</key>
+	<string>queueMethodVisible</string>
+	<key>statefulHistogramDelay</key>
+	<string>immutableObserverVelocity</string>
+	<key>storyboardPrototypeState</key>
+	<string>accordionScrollPosition</string>
+	<key>zoneForValue</key>
+	<string>channelFrameworkMomentum</string>
+</dict>
+</plist>

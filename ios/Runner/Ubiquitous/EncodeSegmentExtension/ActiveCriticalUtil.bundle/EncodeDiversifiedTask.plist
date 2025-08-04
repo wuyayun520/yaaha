@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThanMediator</key>
+	<string>mobxNearForm</string>
+	<key>constActionSkewx</key>
+	<string>gridFromBridge</string>
+	<key>diffableCycleAppearance</key>
+	<string>interpolationMethodShade</string>
+	<key>effectSinceInterpreter</key>
+	<string>labelKindAppearance</string>
+	<key>memberFormContrast</key>
+	<string>queueAmongScope</string>
+</dict>
+</plist>

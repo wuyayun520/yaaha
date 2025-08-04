@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionByDecorator</key>
+	<string>normalResolverSpacing</string>
+	<key>effectBesideStage</key>
+	<string>imageVariableDelay</string>
+	<key>functionalTimerRight</key>
+	<string>titleWithObserver</string>
+	<key>prevCycleName</key>
+	<string>granularInterfaceAcceleration</string>
+	<key>tabbarValueOffset</key>
+	<string>histogramWithBridge</string>
+</dict>
+</plist>

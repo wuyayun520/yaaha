@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleBridgeBound</key>
+	<string>explicitObserverTint</string>
+	<key>dynamicQueryLocation</key>
+	<string>loopParameterMargin</string>
+	<key>scaleAgainstProxy</key>
+	<string>cupertinoStackOpacity</string>
+	<key>singleTransitionKind</key>
+	<string>borderAwayAdapter</string>
+	<key>zoneContextStyle</key>
+	<string>transformerOrProxy</string>
+</dict>
+</plist>

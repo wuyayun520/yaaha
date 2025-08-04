@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEquipmentMode</key>
+	<string>mediaPatternType</string>
+	<key>blocFunctionTag</key>
+	<string>variantVariableDuration</string>
+	<key>curveAtPlatform</key>
+	<string>marginStageCount</string>
+	<key>directCubeMode</key>
+	<string>independentSpotCoord</string>
+	<key>durationAroundComposite</key>
+	<string>mapAmongType</string>
+	<key>futureAtParam</key>
+	<string>sessionModeIndex</string>
+	<key>layerValueCount</key>
+	<string>blocStrategySkewy</string>
+	<key>methodParamSpacing</key>
+	<string>menuDespiteVariable</string>
+	<key>vectorStageVisible</key>
+	<string>standaloneCompleterDepth</string>
+</dict>
+</plist>

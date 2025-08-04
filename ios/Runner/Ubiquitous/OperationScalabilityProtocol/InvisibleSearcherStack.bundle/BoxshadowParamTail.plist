@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionAtComposite</key>
+	<string>tabbarStyleTint</string>
+	<key>instructionByScope</key>
+	<string>batchJobSaturation</string>
+	<key>loopStateLeft</key>
+	<string>indicatorVariableOffset</string>
+	<key>positionModeSpeed</key>
+	<string>alignmentAwayShape</string>
+	<key>routeFromComposite</key>
+	<string>stackAsSingleton</string>
+</dict>
+</plist>

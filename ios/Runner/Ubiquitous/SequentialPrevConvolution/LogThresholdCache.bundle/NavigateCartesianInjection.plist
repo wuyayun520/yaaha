@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAboutBridge</key>
+	<string>cupertinoObserverBehavior</string>
+	<key>managerUntilJob</key>
+	<string>handlerMediatorBehavior</string>
+	<key>mobxByLayer</key>
+	<string>accessibleQueryDelay</string>
+	<key>nibForVariable</key>
+	<string>listenerPlatformBrightness</string>
+	<key>notificationBufferOpacity</key>
+	<string>managerTierStatus</string>
+	<key>popupAgainstContext</key>
+	<string>cupertinoLocalizationDirection</string>
+	<key>sortedContractionSaturation</key>
+	<string>accordionAlphaTop</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStepBehavior</key>
+	<string>mobileHandlerDistance</string>
+	<key>constraintAndEnvironment</key>
+	<string>injectionThroughPattern</string>
+	<key>gesturedetectorBeyondStyle</key>
+	<string>callbackTierRate</string>
+	<key>mobileModalMargin</key>
+	<string>decorationAboutInterpreter</string>
+	<key>notifierIncludeCommand</key>
+	<string>checklistLikeLevel</string>
+	<key>resourceStyleMomentum</key>
+	<string>responseInAdapter</string>
+	<key>stateKindCount</key>
+	<string>timerJobDirection</string>
+	<key>storeStageStatus</key>
+	<string>tableStyleInset</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEffectName</key>
+	<string>keyGridDistance</string>
+	<key>blocStageSpeed</key>
+	<string>effectBridgeState</string>
+	<key>euclideanActionPadding</key>
+	<string>hardTextureSpacing</string>
+	<key>groupFunctionTheme</key>
+	<string>layoutEnvironmentAlignment</string>
+	<key>localizationAmongFacade</key>
+	<string>isolateDespiteObserver</string>
+	<key>resultPlatformSpacing</key>
+	<string>greatMatrixBehavior</string>
+	<key>seamlessMatrixLocation</key>
+	<string>responseAroundOperation</string>
+	<key>sliderDespiteWork</key>
+	<string>kernelDespitePhase</string>
+	<key>storageFunctionTransparency</key>
+	<string>groupFormAppearance</string>
+	<key>subpixelOrBuffer</key>
+	<string>resolverObserverDepth</string>
+</dict>
+</plist>

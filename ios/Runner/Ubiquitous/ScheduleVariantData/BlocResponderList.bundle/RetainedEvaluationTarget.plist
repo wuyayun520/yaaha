@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocForMethod</key>
+	<string>resourceAwayJob</string>
+	<key>multiTextBorder</key>
+	<string>responseAndOperation</string>
+	<key>primaryGridDirection</key>
+	<string>cycleOperationValidation</string>
+	<key>statelessIntegerStyle</key>
+	<string>taskLikeVar</string>
+</dict>
+</plist>

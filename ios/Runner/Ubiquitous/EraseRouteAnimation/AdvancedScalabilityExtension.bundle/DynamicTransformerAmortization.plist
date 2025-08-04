@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitPopupTheme</key>
+	<string>navigatorLayerHead</string>
+	<key>previewTempleBottom</key>
+	<string>inheritedBuilderAcceleration</string>
+	<key>semanticInteractorSpeed</key>
+	<string>widgetBesideEnvironment</string>
+	<key>sliderFormRotation</key>
+	<string>imperativeGetxInteraction</string>
+</dict>
+</plist>

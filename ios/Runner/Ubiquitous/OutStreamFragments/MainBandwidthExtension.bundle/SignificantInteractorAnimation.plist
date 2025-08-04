@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertWorkType</key>
+	<string>isolateEnvironmentDelay</string>
+	<key>animationObserverForce</key>
+	<string>channelsFlyweightTag</string>
+	<key>columnActivityRight</key>
+	<string>descriptionPlatformIndex</string>
+	<key>dynamicConstraintIndex</key>
+	<string>responseForStyle</string>
+	<key>flexDecoratorType</key>
+	<string>durationStructureSpeed</string>
+	<key>masterPhaseMomentum</key>
+	<string>listenerDespiteEnvironment</string>
+	<key>newestEventStatus</key>
+	<string>profileByFacade</string>
+</dict>
+</plist>

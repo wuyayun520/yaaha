@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAlongType</key>
+	<string>parallelVectorType</string>
+	<key>completionIncludeBridge</key>
+	<string>kernelObserverAppearance</string>
+	<key>cursorVariableTail</key>
+	<string>groupAroundOperation</string>
+	<key>entityPerType</key>
+	<string>getxActionForce</string>
+	<key>granularPrioritySpeed</key>
+	<string>sampleAmongActivity</string>
+	<key>hyperbolicBinaryRate</key>
+	<string>viewBeyondFunction</string>
+	<key>ternaryThanVar</key>
+	<string>diffableDurationVisibility</string>
+</dict>
+</plist>

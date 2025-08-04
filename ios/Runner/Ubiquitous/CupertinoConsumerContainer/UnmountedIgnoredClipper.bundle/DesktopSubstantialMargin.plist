@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameAsEnvironment</key>
+	<string>sineParamTint</string>
+	<key>functionalPopupDensity</key>
+	<string>singletonWorkInset</string>
+	<key>gramPerValue</key>
+	<string>responseBeyondOperation</string>
+	<key>instructionWithFlyweight</key>
+	<string>synchronousEffectKind</string>
+	<key>labelInsideKind</key>
+	<string>permissivePlaybackLeft</string>
+	<key>robustCallbackValidation</key>
+	<string>statelessEntityFlags</string>
+	<key>storageAtChain</key>
+	<string>skinAtParam</string>
+	<key>subsequentConstraintStatus</key>
+	<string>symbolIncludeOperation</string>
+</dict>
+</plist>

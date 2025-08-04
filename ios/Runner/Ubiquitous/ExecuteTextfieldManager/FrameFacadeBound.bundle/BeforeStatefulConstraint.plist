@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerApertureOpacity</key>
+	<string>flexPrototypeContrast</string>
+	<key>curveTempleBehavior</key>
+	<string>gradientForCommand</string>
+	<key>dialogsAroundAction</key>
+	<string>sizeViaNumber</string>
+	<key>effectInterpreterInset</key>
+	<string>adaptiveCapacitiesKind</string>
+	<key>iconFunctionSpacing</key>
+	<string>storageSingletonScale</string>
+	<key>keySliderStatus</key>
+	<string>difficultIconPadding</string>
+	<key>resizableTableFrequency</key>
+	<string>callbackPatternInteraction</string>
+	<key>sortedMethodPadding</key>
+	<string>publicFactoryTheme</string>
+	<key>typicalPositionIndex</key>
+	<string>associatedDependencyCenter</string>
+	<key>usageOrVar</key>
+	<string>originalPlaybackOpacity</string>
+</dict>
+</plist>

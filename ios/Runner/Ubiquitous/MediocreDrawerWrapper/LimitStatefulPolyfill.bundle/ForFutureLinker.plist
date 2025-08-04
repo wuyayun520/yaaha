@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForOperation</key>
+	<string>bitrateTaskResponse</string>
+	<key>explicitEventTransparency</key>
+	<string>synchronousBuilderRate</string>
+	<key>featurePlatformInterval</key>
+	<string>specifyApertureDensity</string>
+	<key>interfaceContextAcceleration</key>
+	<string>priorityWithLayer</string>
+	<key>observerSingletonFormat</key>
+	<string>multiplicationAlongLevel</string>
+	<key>relationalRichtextColor</key>
+	<string>screenAroundType</string>
+	<key>segmentInsideStructure</key>
+	<string>layoutParamTransparency</string>
+	<key>titleParameterVisibility</key>
+	<string>commonColumnTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSliderFrequency</key>
+	<string>scrollableViewLeft</string>
+	<key>blocWithoutNumber</key>
+	<string>frameNumberFrequency</string>
+	<key>grayscaleChainShape</key>
+	<string>collectionOrVar</string>
+	<key>multiPlatePadding</key>
+	<string>timerAroundScope</string>
+	<key>pageviewNumberDuration</key>
+	<string>keyMethodAlignment</string>
+</dict>
+</plist>

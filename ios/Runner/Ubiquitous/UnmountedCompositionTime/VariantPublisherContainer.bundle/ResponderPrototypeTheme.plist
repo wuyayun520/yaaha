@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReferenceSpacing</key>
+	<string>cubePhaseOffset</string>
+	<key>bulletStructureBottom</key>
+	<string>blocFunctionOrigin</string>
+	<key>dependencyActivityOrientation</key>
+	<string>usedInteractorBrightness</string>
+	<key>gemFrameworkDelay</key>
+	<string>progressbarUntilVar</string>
+	<key>positionOutsideFunction</key>
+	<string>respectiveDelegateTag</string>
+</dict>
+</plist>

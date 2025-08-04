@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarContainObserver</key>
+	<string>momentumPhaseVisibility</string>
+	<key>dependencyCommandFrequency</key>
+	<string>gesturedetectorEnvironmentDistance</string>
+	<key>diffableRouteDepth</key>
+	<string>observerAlongLevel</string>
+	<key>discardedQueueContrast</key>
+	<string>dynamicLogarithmTransparency</string>
+	<key>parallelBufferSpacing</key>
+	<string>sortedMobileVisibility</string>
+	<key>requiredBrushIndex</key>
+	<string>offsetInChain</string>
+	<key>textSinceDecorator</key>
+	<string>cubitPhaseVelocity</string>
+	<key>usecaseAwayStructure</key>
+	<string>storageSinceSingleton</string>
+</dict>
+</plist>

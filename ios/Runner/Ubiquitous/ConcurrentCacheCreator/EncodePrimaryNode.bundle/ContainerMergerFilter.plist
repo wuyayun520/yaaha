@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineIncludeTier</key>
+	<string>baselineStageSkewx</string>
+	<key>descriptionFormDuration</key>
+	<string>touchFlyweightFeedback</string>
+	<key>enabledRouterDirection</key>
+	<string>loopInsideObserver</string>
+	<key>injectionEnvironmentColor</key>
+	<string>gradientAlongForm</string>
+	<key>interpolationPrototypeHue</key>
+	<string>loopMethodMode</string>
+	<key>layoutAboutFramework</key>
+	<string>handlerPatternResponse</string>
+	<key>permissiveIntensitySpeed</key>
+	<string>opaquePaddingSpeed</string>
+	<key>prevBlocShade</key>
+	<string>interactiveTaskLocation</string>
+</dict>
+</plist>

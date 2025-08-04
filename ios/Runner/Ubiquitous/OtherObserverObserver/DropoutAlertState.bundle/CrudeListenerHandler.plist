@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorWorkBottom</key>
+	<string>materialConsumerOrientation</string>
+	<key>customTaskBehavior</key>
+	<string>utilWorkPadding</string>
+	<key>dynamicAssetTop</key>
+	<string>transformerStageRight</string>
+	<key>enabledAwaitPressure</key>
+	<string>indicatorVarFeedback</string>
+	<key>respectiveControllerDensity</key>
+	<string>prevEventType</string>
+	<key>sizeChainFlags</key>
+	<string>lazyWidgetHue</string>
+	<key>streamChainAcceleration</key>
+	<string>labelAndTemple</string>
+	<key>typicalReductionBound</key>
+	<string>exponentStageDistance</string>
+</dict>
+</plist>

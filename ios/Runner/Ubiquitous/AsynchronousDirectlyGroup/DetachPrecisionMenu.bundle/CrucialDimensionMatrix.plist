@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellOfProxy</key>
+	<string>menuAmongState</string>
+	<key>checklistInsideDecorator</key>
+	<string>pointStageFormat</string>
+	<key>promiseJobCenter</key>
+	<string>batchWithContext</string>
+	<key>segueInShape</key>
+	<string>cacheInsideVar</string>
+</dict>
+</plist>

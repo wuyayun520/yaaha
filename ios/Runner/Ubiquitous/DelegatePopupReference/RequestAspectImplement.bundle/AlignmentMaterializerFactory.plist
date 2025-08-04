@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAsVariable</key>
+	<string>gramVarOpacity</string>
+	<key>gestureContainSystem</key>
+	<string>shaderContainStyle</string>
+	<key>isolateContainObserver</key>
+	<string>priorityDuringAdapter</string>
+	<key>mediocreFactoryKind</key>
+	<string>signOrMediator</string>
+	<key>publicLayoutAlignment</key>
+	<string>chartExceptStyle</string>
+</dict>
+</plist>

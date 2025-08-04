@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertModeDirection</key>
+	<string>storeVariableFlags</string>
+	<key>builderExceptVisitor</key>
+	<string>publicPlaybackDuration</string>
+	<key>lazyGestureIndex</key>
+	<string>sessionInForm</string>
+	<key>mediumScrollDelay</key>
+	<string>themeParameterTransparency</string>
+	<key>pinchableControllerInterval</key>
+	<string>localizationJobDuration</string>
+	<key>playbackLikeBuffer</key>
+	<string>widgetActionSkewy</string>
+	<key>scrollableEqualizationForce</key>
+	<string>controllerVersusShape</string>
+	<key>uniformAlphaVelocity</key>
+	<string>protocolModeDelay</string>
+	<key>utilTaskBound</key>
+	<string>subscriptionTaskDelay</string>
+	<key>viewAtForm</key>
+	<string>managerLikeTask</string>
+</dict>
+</plist>

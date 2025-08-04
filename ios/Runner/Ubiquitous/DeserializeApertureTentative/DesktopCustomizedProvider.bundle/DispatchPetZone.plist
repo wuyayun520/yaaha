@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSystemRotation</key>
+	<string>statefulInkwellInterval</string>
+	<key>collectionCycleSaturation</key>
+	<string>sharedAnchorSpacing</string>
+	<key>dependencyContextCount</key>
+	<string>interfaceContextFeedback</string>
+	<key>geometricMetadataTop</key>
+	<string>difficultRowTail</string>
+	<key>intensityPerType</key>
+	<string>enabledMemberRight</string>
+	<key>particleByValue</key>
+	<string>elasticLogDepth</string>
+	<key>resolverAdapterMargin</key>
+	<string>bufferInsideComposite</string>
+	<key>sensorForObserver</key>
+	<string>spineDespiteVar</string>
+</dict>
+</plist>

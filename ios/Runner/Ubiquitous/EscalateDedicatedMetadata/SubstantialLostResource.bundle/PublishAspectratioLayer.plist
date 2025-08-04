@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCupertinoSpeed</key>
+	<string>popupFlyweightAlignment</string>
+	<key>boxOutsideFramework</key>
+	<string>plateStateMode</string>
+	<key>cartesianStoreInteraction</key>
+	<string>rectInsideEnvironment</string>
+	<key>channelMediatorRotation</key>
+	<string>anchorInStage</string>
+	<key>commonAlertInterval</key>
+	<string>aspectVarSpeed</string>
+	<key>gramTypeTop</key>
+	<string>stateStyleValidation</string>
+	<key>statelessStoreSize</key>
+	<string>reductionActionMargin</string>
+	<key>temporaryApertureTail</key>
+	<string>expandedEnvironmentCoord</string>
+</dict>
+</plist>

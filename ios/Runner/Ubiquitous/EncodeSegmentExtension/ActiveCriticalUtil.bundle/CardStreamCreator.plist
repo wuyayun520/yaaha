@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInkwellSkewy</key>
+	<string>largePageviewAcceleration</string>
+	<key>easyEventOpacity</key>
+	<string>constraintByStrategy</string>
+	<key>expandedLayerTail</key>
+	<string>sizedboxContextInteraction</string>
+	<key>heroCommandColor</key>
+	<string>enabledCaptionRotation</string>
+	<key>semanticPlateCenter</key>
+	<string>reducerStyleSpacing</string>
+	<key>widgetInterpreterMomentum</key>
+	<string>dimensionFunctionType</string>
+</dict>
+</plist>

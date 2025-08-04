@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPatternTheme</key>
+	<string>denseStateCount</string>
+	<key>cubitParamSaturation</key>
+	<string>indicatorValueDensity</string>
+	<key>dialogsTaskKind</key>
+	<string>semanticEventBound</string>
+	<key>frameAsComposite</key>
+	<string>configurationFunctionDelay</string>
+	<key>functionalSensorPosition</key>
+	<string>gestureChainVelocity</string>
+	<key>interactorTempleVisible</key>
+	<string>sharedNotificationOrientation</string>
+	<key>mobileStateMargin</key>
+	<string>cursorWithoutVariable</string>
+	<key>progressbarMediatorBound</key>
+	<string>texturePlatformInset</string>
+	<key>transitionVariableLocation</key>
+	<string>profileIncludeTier</string>
+</dict>
+</plist>

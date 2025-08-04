@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitWidgetSpacing</key>
+	<string>denseResourceSkewy</string>
+	<key>extensionCompositeCoord</key>
+	<string>directlyRequestLeft</string>
+	<key>globalWidgetFlags</key>
+	<string>seamlessSwiftAlignment</string>
+	<key>oldSlashDuration</key>
+	<string>sliderProcessInterval</string>
+	<key>presenterSincePlatform</key>
+	<string>customResourceInterval</string>
+	<key>skirtMethodType</key>
+	<string>currentInterfaceSkewy</string>
+	<key>spotActivityType</key>
+	<string>containerObserverAlignment</string>
+	<key>themeFacadeType</key>
+	<string>reducerFromFacade</string>
+</dict>
+</plist>

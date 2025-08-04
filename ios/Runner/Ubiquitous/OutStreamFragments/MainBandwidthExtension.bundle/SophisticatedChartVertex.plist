@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVersusPlatform</key>
+	<string>interfaceDespiteValue</string>
+	<key>delegateActivityName</key>
+	<string>sharedReductionName</string>
+	<key>movementExceptStrategy</key>
+	<string>adaptivePreviewAppearance</string>
+	<key>pageviewWithTask</key>
+	<string>eventModeBottom</string>
+	<key>presenterThanAdapter</key>
+	<string>otherDelegateState</string>
+	<key>segueBeyondType</key>
+	<string>methodThanFacade</string>
+</dict>
+</plist>

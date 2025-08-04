@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedHandlerInteraction</key>
+	<string>priorityStrategySaturation</string>
+	<key>associatedScreenDensity</key>
+	<string>capacitiesJobSpeed</string>
+	<key>channelsPerStructure</key>
+	<string>layoutAgainstLayer</string>
+	<key>concurrentCubeValidation</key>
+	<string>navigationProxyFeedback</string>
+	<key>coordinatorCommandState</key>
+	<string>storeBufferTension</string>
+	<key>groupAroundAdapter</key>
+	<string>fusedOffsetFormat</string>
+	<key>opaqueMetadataDepth</key>
+	<string>streamParamPadding</string>
+	<key>projectAmongForm</key>
+	<string>titleAndProcess</string>
+	<key>similarOffsetValidation</key>
+	<string>managerExceptVariable</string>
+</dict>
+</plist>

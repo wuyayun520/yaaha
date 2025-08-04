@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAndParameter</key>
+	<string>containerActivityLeft</string>
+	<key>controllerIncludeProcess</key>
+	<string>missedIndicatorPadding</string>
+	<key>metadataViaFramework</key>
+	<string>configurationMementoTransparency</string>
+	<key>nodeAdapterStyle</key>
+	<string>storyboardModeDistance</string>
+	<key>nodeBufferEdge</key>
+	<string>commonRemainderHue</string>
+	<key>otherOffsetSpacing</key>
+	<string>isolateMediatorRotation</string>
+	<key>sustainableNavigationInterval</key>
+	<string>kernelOutsideEnvironment</string>
+	<key>textFromVisitor</key>
+	<string>delegateSingletonTag</string>
+	<key>widgetStructureOpacity</key>
+	<string>flexUntilScope</string>
+</dict>
+</plist>

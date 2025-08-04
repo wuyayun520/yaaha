@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellModeShade</key>
+	<string>smartCellOpacity</string>
+	<key>delicateEquipmentBrightness</key>
+	<string>capsuleStrategyAlignment</string>
+	<key>mainMetadataInteraction</key>
+	<string>previewByJob</string>
+	<key>musicCyclePressure</key>
+	<string>blocJobRotation</string>
+	<key>normProcessHead</key>
+	<string>sharedTweenState</string>
+	<key>rowFunctionVisible</key>
+	<string>alignmentObserverAppearance</string>
+	<key>rowViaMemento</key>
+	<string>backwardLayerContrast</string>
+	<key>ternaryJobAppearance</key>
+	<string>titleContainVariable</string>
+	<key>vectorMementoDirection</key>
+	<string>spriteActivityBottom</string>
+	<key>viewContainAction</key>
+	<string>functionalRouteHead</string>
+</dict>
+</plist>

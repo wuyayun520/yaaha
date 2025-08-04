@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionExceptChain</key>
+	<string>monsterViaKind</string>
+	<key>enabledStatelessRotation</key>
+	<string>overlayCommandRotation</string>
+	<key>interactorFromSystem</key>
+	<string>dialogsOperationIndex</string>
+	<key>mapAwayStructure</key>
+	<string>skirtNumberLocation</string>
+	<key>missedProgressbarTop</key>
+	<string>sophisticatedBoxName</string>
+	<key>originalHeroMode</key>
+	<string>missedOptimizerDensity</string>
+	<key>priorStoreSkewy</key>
+	<string>challengeSinceAdapter</string>
+	<key>stepForType</key>
+	<string>richtextContainCycle</string>
+	<key>storyboardStageStatus</key>
+	<string>statefulInsideBuffer</string>
+	<key>taskViaCycle</key>
+	<string>particleFlyweightScale</string>
+</dict>
+</plist>

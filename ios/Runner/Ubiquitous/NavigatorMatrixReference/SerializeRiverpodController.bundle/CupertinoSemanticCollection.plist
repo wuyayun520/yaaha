@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAroundMode</key>
+	<string>nodeByEnvironment</string>
+	<key>cacheAgainstFacade</key>
+	<string>effectContextSpeed</string>
+	<key>capacitiesOrStructure</key>
+	<string>appbarOutsideNumber</string>
+	<key>frameWithKind</key>
+	<string>queryFormCenter</string>
+	<key>grainDecoratorMomentum</key>
+	<string>logarithmWithValue</string>
+	<key>screenSinceStructure</key>
+	<string>adaptiveDecorationResponse</string>
+	<key>stackInsideParameter</key>
+	<string>zoneThroughChain</string>
+</dict>
+</plist>

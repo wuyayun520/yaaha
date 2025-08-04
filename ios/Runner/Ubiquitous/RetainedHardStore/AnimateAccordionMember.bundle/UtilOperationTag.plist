@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInParam</key>
+	<string>desktopHashForce</string>
+	<key>loopOutsideOperation</key>
+	<string>interactorAboutParam</string>
+	<key>persistentFrameDirection</key>
+	<string>accessibleMasterSkewx</string>
+	<key>stepSinceKind</key>
+	<string>profileBridgeMargin</string>
+</dict>
+</plist>

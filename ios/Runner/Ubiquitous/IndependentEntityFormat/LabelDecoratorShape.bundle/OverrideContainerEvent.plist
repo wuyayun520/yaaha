@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAmongMode</key>
+	<string>drawerBridgeRight</string>
+	<key>finalNavigatorLeft</key>
+	<string>resultCommandDepth</string>
+	<key>similarTextRotation</key>
+	<string>baselineThroughContext</string>
+	<key>subscriptionJobFlags</key>
+	<string>workflowAboutContext</string>
+</dict>
+</plist>

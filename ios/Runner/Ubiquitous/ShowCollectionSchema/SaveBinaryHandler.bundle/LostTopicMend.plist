@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFactorySkewy</key>
+	<string>semanticImageName</string>
+	<key>dependencyParameterDelay</key>
+	<string>capacitiesViaAction</string>
+	<key>featureEnvironmentForce</key>
+	<string>controllerAlongFramework</string>
+	<key>seamlessInterfaceBehavior</key>
+	<string>textfieldContainChain</string>
+	<key>sensorIncludeStage</key>
+	<string>asyncTextureRate</string>
+	<key>sequentialConstraintLocation</key>
+	<string>cosineStageShade</string>
+	<key>staticOffsetScale</key>
+	<string>ignoredMetadataFlags</string>
+</dict>
+</plist>

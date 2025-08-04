@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPlatformDistance</key>
+	<string>specifierBeyondShape</string>
+	<key>coordinatorByParam</key>
+	<string>futureWithParameter</string>
+	<key>localSessionShade</key>
+	<string>explicitPointMode</string>
+	<key>methodAroundMediator</key>
+	<string>spriteObserverIndex</string>
+	<key>pivotalCompletionTag</key>
+	<string>reusableRadiusMargin</string>
+	<key>promiseOperationTheme</key>
+	<string>queryThanFacade</string>
+	<key>segmentByKind</key>
+	<string>usageFrameworkIndex</string>
+	<key>semanticsFacadeKind</key>
+	<string>explicitControllerAlignment</string>
+	<key>sineShapeTag</key>
+	<string>decorationAgainstComposite</string>
+</dict>
+</plist>

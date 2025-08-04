@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableSkirtCount</key>
+	<string>scaffoldTaskFlags</string>
+	<key>managerWithoutAdapter</key>
+	<string>transitionAgainstComposite</string>
+	<key>mobileScopeOrigin</key>
+	<string>disabledDialogsOrigin</string>
+	<key>nodeWithoutWork</key>
+	<string>commandAroundForm</string>
+	<key>oldSkinName</key>
+	<string>workflowPlatformBound</string>
+	<key>transformerAboutFunction</key>
+	<string>requestAgainstFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationMementoRate</key>
+	<string>criticalMetadataPressure</string>
+	<key>deferredTouchEdge</key>
+	<string>alertIncludePlatform</string>
+	<key>dialogsBeyondCommand</key>
+	<string>callbackFromBridge</string>
+	<key>normalDurationDirection</key>
+	<string>compositionalExtensionBorder</string>
+	<key>reducerInterpreterFeedback</key>
+	<string>fusedStatelessTension</string>
+	<key>routerBesidePattern</key>
+	<string>awaitSinceMethod</string>
+	<key>smallDescriptionFormat</key>
+	<string>staticDurationFrequency</string>
+	<key>transitionByTier</key>
+	<string>coordinatorDecoratorHead</string>
+	<key>unactivatedPriorityAppearance</key>
+	<string>layoutFacadePadding</string>
+	<key>viewDuringFunction</key>
+	<string>layoutVariableInterval</string>
+</dict>
+</plist>

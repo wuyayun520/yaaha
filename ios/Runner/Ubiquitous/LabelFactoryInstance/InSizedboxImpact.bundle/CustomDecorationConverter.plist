@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStatelessVisible</key>
+	<string>dependencyVersusSingleton</string>
+	<key>concreteResourcePadding</key>
+	<string>intuitiveWorkflowBottom</string>
+	<key>crudePetSkewx</key>
+	<string>overlayUntilForm</string>
+	<key>draggableTextfieldVisible</key>
+	<string>flexiblePreviewContrast</string>
+	<key>independentPopupMode</key>
+	<string>subsequentPaddingHead</string>
+	<key>resourceFacadeDensity</key>
+	<string>layoutThanPrototype</string>
+	<key>responsiveSegmentSpacing</key>
+	<string>localSceneResponse</string>
+	<key>tweenPhaseFrequency</key>
+	<string>managerStructureTransparency</string>
+</dict>
+</plist>

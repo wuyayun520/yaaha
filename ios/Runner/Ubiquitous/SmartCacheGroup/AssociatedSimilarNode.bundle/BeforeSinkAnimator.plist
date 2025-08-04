@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCommandFrequency</key>
+	<string>capsuleNearFunction</string>
+	<key>expandedChainTheme</key>
+	<string>radiusAgainstSingleton</string>
+	<key>immutableAwaitDepth</key>
+	<string>contractionWithNumber</string>
+	<key>interactiveCoordinatorFeedback</key>
+	<string>normalDimensionScale</string>
+	<key>metadataStateDelay</key>
+	<string>persistentTransformerScale</string>
+	<key>slashNearProxy</key>
+	<string>deferredBufferCount</string>
+	<key>taskAmongFlyweight</key>
+	<string>interactorMementoVisibility</string>
+</dict>
+</plist>

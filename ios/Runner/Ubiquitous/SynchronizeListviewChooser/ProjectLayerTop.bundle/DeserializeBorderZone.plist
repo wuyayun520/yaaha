@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCompositeResponse</key>
+	<string>anchorVersusPhase</string>
+	<key>cardVersusFacade</key>
+	<string>sensorStructureInteraction</string>
+	<key>curveCycleDepth</key>
+	<string>elasticBitrateBehavior</string>
+	<key>histogramOrAction</key>
+	<string>positionForPlatform</string>
+	<key>loopActionTop</key>
+	<string>managerTierInset</string>
+	<key>mobileLabelContrast</key>
+	<string>smartClipperShape</string>
+	<key>otherControllerOrientation</key>
+	<string>taskBesideParam</string>
+	<key>responseInterpreterLeft</key>
+	<string>compositionalBoxshadowKind</string>
+	<key>sineAwaySingleton</key>
+	<string>storyboardExceptAdapter</string>
+</dict>
+</plist>

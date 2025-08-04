@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScaleFrequency</key>
+	<string>stateCycleAlignment</string>
+	<key>challengeProcessStatus</key>
+	<string>notificationAlongMethod</string>
+	<key>controllerDuringJob</key>
+	<string>stateMediatorContrast</string>
+	<key>hierarchicalUsageFormat</key>
+	<string>normalCycleTop</string>
+	<key>injectionEnvironmentBorder</key>
+	<string>storyboardContextVelocity</string>
+	<key>pointTypeAcceleration</key>
+	<string>composableBitrateRate</string>
+	<key>presenterFlyweightRotation</key>
+	<string>providerProxyBound</string>
+	<key>tensorCupertinoOrientation</key>
+	<string>accordionEntityContrast</string>
+</dict>
+</plist>

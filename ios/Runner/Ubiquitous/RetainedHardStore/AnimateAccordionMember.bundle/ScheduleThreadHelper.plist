@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResolverVelocity</key>
+	<string>channelStateTop</string>
+	<key>brushPhaseFrequency</key>
+	<string>errorWithoutComposite</string>
+	<key>crudeMethodState</key>
+	<string>dynamicLayoutShape</string>
+	<key>currentTextfieldDuration</key>
+	<string>functionalTransformerHue</string>
+	<key>pinchableTitleOrientation</key>
+	<string>responsiveExponentType</string>
+	<key>sizeJobStyle</key>
+	<string>storyboardParameterInterval</string>
+	<key>spriteMementoDirection</key>
+	<string>tickerPlatformFeedback</string>
+</dict>
+</plist>

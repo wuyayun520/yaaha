@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOutsideMode</key>
+	<string>previewAtFramework</string>
+	<key>customizedQueryTheme</key>
+	<string>protectedRequestInterval</string>
+	<key>gramPrototypePadding</key>
+	<string>nodeWorkFormat</string>
+	<key>reusableStreamRate</key>
+	<string>liteAllocatorFeedback</string>
+	<key>similarDurationKind</key>
+	<string>grainVarOrientation</string>
+	<key>stackIncludeVisitor</key>
+	<string>disabledZoneOrigin</string>
+	<key>transformerViaFacade</key>
+	<string>listenerStrategyBehavior</string>
+</dict>
+</plist>

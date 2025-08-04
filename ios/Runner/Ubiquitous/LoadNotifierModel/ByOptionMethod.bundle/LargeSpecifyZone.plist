@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureTierOrientation</key>
+	<string>specifierPhaseEdge</string>
+	<key>handlerValueFlags</key>
+	<string>channelsBeyondChain</string>
+	<key>pinchableNotificationPressure</key>
+	<string>assetVarResponse</string>
+	<key>tabbarInState</key>
+	<string>responseContainProcess</string>
+</dict>
+</plist>

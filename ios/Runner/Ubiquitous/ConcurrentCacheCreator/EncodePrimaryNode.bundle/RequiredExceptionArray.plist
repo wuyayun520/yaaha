@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureDuringNumber</key>
+	<string>decorationPhaseSpeed</string>
+	<key>graphicThroughComposite</key>
+	<string>transformerWithoutFacade</string>
+	<key>materialBufferLocation</key>
+	<string>notifierAmongVisitor</string>
+	<key>mobileAtState</key>
+	<string>fusedMobileInset</string>
+	<key>promiseForMediator</key>
+	<string>skirtParamDensity</string>
+	<key>resultVersusStructure</key>
+	<string>listenerOrStructure</string>
+	<key>riverpodViaVisitor</key>
+	<string>gemContextHead</string>
+	<key>taskInsideNumber</key>
+	<string>frameDecoratorBehavior</string>
+</dict>
+</plist>

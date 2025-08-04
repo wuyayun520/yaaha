@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPerCommand</key>
+	<string>apertureAboutStyle</string>
+	<key>bufferWithoutVisitor</key>
+	<string>controllerTypeHue</string>
+	<key>disabledViewBottom</key>
+	<string>elasticPageviewInterval</string>
+	<key>protocolThroughCycle</key>
+	<string>factoryOrLevel</string>
+	<key>singletonActionBrightness</key>
+	<string>commonCanvasVisible</string>
+	<key>statelessCollectionDuration</key>
+	<string>hashSinceVisitor</string>
+</dict>
+</plist>

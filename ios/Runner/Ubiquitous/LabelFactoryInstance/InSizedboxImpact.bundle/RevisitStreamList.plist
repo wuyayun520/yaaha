@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityWithoutObserver</key>
+	<string>declarativeGraphicBrightness</string>
+	<key>baseByJob</key>
+	<string>textViaCycle</string>
+	<key>discardedGraphicTint</key>
+	<string>stepInJob</string>
+	<key>instructionOutsideShape</key>
+	<string>textAgainstTask</string>
+	<key>priorQueryBrightness</key>
+	<string>managerAsPlatform</string>
+	<key>repositoryIncludeLayer</key>
+	<string>stepContainOperation</string>
+	<key>toolWithState</key>
+	<string>durationViaValue</string>
+	<key>vectorFormRate</key>
+	<string>cellByShape</string>
+	<key>workflowAtType</key>
+	<string>commandTaskOrientation</string>
+</dict>
+</plist>
