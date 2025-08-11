@@ -9,7 +9,7 @@ import AppTrackingTransparency
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
-   
+  
       
       DispatchQueue.main.asyncAfter(deadline: .now() + 3.6) {
           if #available(iOS 14, *) {
